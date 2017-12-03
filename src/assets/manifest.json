@@ -1,0 +1,27 @@
+{
+  "short_name": "Parlr LSF",
+  "name": "Vocabulaire LSF avancé",
+  "homepage_url": "https://github.com/edouard-lopez/lsf",
+  "icons": [
+    {
+      "src": "images/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "hsl(0, 0%, 96%)",
+  "theme_color": "hsl(171, 100%, 41%)",
+  "display": "standalone",
+  "orientation": "portrait"
+}
