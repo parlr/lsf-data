@@ -15,7 +15,7 @@ timing_path="${2:-$directory_path/$filename.tsv}"   # timing, as: mot  start_tim
 
 
 extract_timing_from_subtitles() {
-  awk 'BEGIN{FS=","} /Dialogue/{print $2" "$3}' \
+  awk 'BEGIN{FS=","} /Dialogue/{print $2" "$3" "$10}' \
      "$directory_path/${filename/.$extension/.ass}" \
    > "$directory_path/$filename.tsv"
 }
@@ -51,9 +51,8 @@ convert_to_webm() {
 }
 
 split_video() {
-  while read -r start end; do
-    mot="${start}"
-    chunk="$directory_path/$mot.$extension"
+  while read -r start end mot; do
+    chunk="$directory_path/$start.$mot.$extension"
 
     extract_word_chunk "${start}" "${end}"
     convert_to_webm
