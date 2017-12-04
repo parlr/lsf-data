@@ -20,42 +20,28 @@ extract_timing_from_subtitles() {
    > "$directory_path/$filename.tsv"
 }
 
-extract_word_chunk() {
-  ffmpeg \
+extract_and_encode_word_chunk() {
+  ffmpeg -y \
     -i "$INPUT_FILE" \
     -ss "$start" \
     -to "$end" \
-    -vcodec copy \
-    -acodec copy \
-    -loglevel error \
-    "$chunk" < /dev/null
-}
-
-convert_to_webm() {
-  ffmpeg \
-    -y \
-    -i "$chunk" \
-    -acodec libvorbis \
-    -codec:v libvpx \
-    -b:v 192k \
-    -b:a 96k \
-    -minrate 128k \
-    -maxrate 256k \
-    -bufsize 192k \
+    -vf scale=640x480 \
+    -b:v 512k \
+    -minrate 256k \
+    -maxrate 742k \
     -quality good \
-    -cpu-used 2 \
-    -deadline best \
+    -speed 4 \
+    -crf 37 \
+    -c:v libvpx-vp9 \
     -loglevel error \
-  "$chunk.webm" < /dev/null
-  # rm "$chunk"
+    "$chunk.webm" < /dev/null
 }
 
 split_video() {
   while read -r start end mot; do
     chunk="$directory_path/$start.$mot.$extension"
 
-    extract_word_chunk "${start}" "${end}"
-    convert_to_webm
+    extract_and_encode_word_chunk "${start}" "${end}"
   done < "$timing_path"
 }
 
