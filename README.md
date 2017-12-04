@@ -15,7 +15,7 @@
 ### Source de données
 
 * [LSF @ Éducation Nationale](http://lsf.education.fr/index.php?page=recherche_alphabetique)
-
+* Apprendre 300 mots du quotidien en LSF [partie 1](https://www.youtube.com/watch?v=rz3jw0_XXoc) et [partie 2](https://www.youtube.com/watch?v=DbTKAbY-i0A) par L. Jauvert
 
 ### Install
 
