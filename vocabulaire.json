@@ -2,2821 +2,2351 @@
   {
     "key": "abbaye",
     "label": "Abbaye",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/abbaye.webm"
+    "video": "video/abbaye.webm"
   },
   {
     "key": "abdiquer",
     "label": "Abdiquer",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/abdiquer.webm"
+    "video": "video/abdiquer.webm"
   },
   {
     "key": "ablation",
     "label": "Ablation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ablation.webm"
+    "video": "video/ablation.webm"
   },
   {
     "key": "abonnement",
     "label": "Abonnement",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/abonnement.webm"
+    "video": "video/abonnement.webm"
   },
   {
     "key": "academie",
     "label": "Académie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/academie.webm"
+    "video": "video/academie.webm"
   },
   {
     "key": "accident",
     "label": "Accident",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/accident-voiture.webm"
+    "video": "video/accident-voiture.webm"
   },
   {
     "key": "accompagner",
     "label": "Accompagner",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/accompagner.webm"
+    "video": "video/accompagner.webm"
   },
   {
     "key": "accord",
     "label": "Accord",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/accord.webm"
+    "video": "video/accord.webm"
   },
   {
     "key": "acide",
     "label": "Acide",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/acide.webm"
+    "video": "video/acide.webm"
   },
   {
     "key": "acoustique",
     "label": "Acoustique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/accoustique.webm"
+    "video": "video/accoustique.webm"
   },
   {
     "key": "action",
     "label": "Action",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/action.webm"
+    "video": "video/action.webm"
   },
   {
     "key": "adaptation",
     "label": "Adaptation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/adaptation.webm"
+    "video": "video/adaptation.webm"
   },
   {
     "key": "adherer",
     "label": "Adhérer",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/adherer.webm"
+    "video": "video/adherer.webm"
   },
   {
     "key": "adjuger",
     "label": "Adjuger",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/adjuger.webm"
+    "video": "video/adjuger.webm"
   },
   {
     "key": "administrer",
     "label": "Administrer",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/administrer.webm"
+    "video": "video/administrer.webm"
   },
   {
     "key": "adversaire",
     "label": "Adversaire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/adversaire.webm"
+    "video": "video/adversaire.webm"
   },
   {
     "key": "affaire",
     "label": "Affaire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/affaire.webm"
+    "video": "video/affaire.webm"
   },
   {
     "key": "agence",
     "label": "Agence",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/agence.webm"
+    "video": "video/agence.webm"
   },
   {
     "key": "agression",
     "label": "Agression",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/agression.webm"
+    "video": "video/agression.webm"
   },
   {
     "key": "agriculture",
     "label": "Agriculture",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/agriculture.webm"
+    "video": "video/agriculture.webm"
   },
   {
     "key": "albi",
     "label": "Albi",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/albi.webm"
+    "video": "video/albi.webm"
   },
   {
     "key": "album_de_photos",
     "label": "Album de photos",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/album_de_photos.webm"
+    "video": "video/album_de_photos.webm"
   },
   {
     "key": "algerie",
     "label": "Algérie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/algerie.webm"
+    "video": "video/algerie.webm"
   },
   {
     "key": "allemagne",
     "label": "Allemagne",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/allemagne.webm"
+    "video": "video/allemagne.webm"
   },
   {
     "key": "alliance",
     "label": "Alliance",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/s'allier.webm"
+    "video": "video/s'allier.webm"
   },
   {
     "key": "ambiance",
     "label": "Ambiance",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ambiance.webm"
+    "video": "video/ambiance.webm"
   },
   {
     "key": "ambition",
     "label": "Ambition",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ambition.webm"
+    "video": "video/ambition.webm"
   },
   {
     "key": "analyse",
     "label": "Analyse",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/analyse.webm"
+    "video": "video/analyse.webm"
   },
   {
     "key": "anatomie",
     "label": "Anatomie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/anatomie.webm"
+    "video": "video/anatomie.webm"
   },
   {
     "key": "angers",
     "label": "Angers",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/angers.webm"
+    "video": "video/angers.webm"
   },
   {
     "key": "anonyme",
     "label": "Anonyme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/anonyme.webm"
+    "video": "video/anonyme.webm"
   },
   {
     "key": "antiquite",
     "label": "Antiquité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/antiquite.webm"
+    "video": "video/antiquite.webm"
   },
   {
     "key": "aorte",
     "label": "Aorte",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/aorte.webm"
+    "video": "video/aorte.webm"
   },
   {
     "key": "apesanteur",
     "label": "Apesanteur",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/apesanteur.webm"
+    "video": "video/apesanteur.webm"
   },
   {
     "key": "architecte",
     "label": "Architecte",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/architecte.webm"
+    "video": "video/architecte.webm"
   },
   {
     "key": "archives",
     "label": "Archives",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/archives.webm"
+    "video": "video/archives.webm"
   },
   {
     "key": "articulation",
     "label": "Articulation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/articulation-os.webm"
+    "video": "video/articulation-os.webm"
   },
   {
     "key": "arts",
     "label": "Arts",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/arts.webm"
+    "video": "video/arts.webm"
   },
   {
     "key": "assemblee_nationale",
     "label": "Assemblée nationale",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/assemblee_nationale.webm"
+    "video": "video/assemblee_nationale.webm"
   },
   {
     "key": "association",
     "label": "Association",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/association.webm"
+    "video": "video/association.webm"
   },
   {
     "key": "assurance",
     "label": "Assurance",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/assurance.webm"
+    "video": "video/assurance.webm"
   },
   {
     "key": "asthme",
     "label": "Asthme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/asthme.webm"
+    "video": "video/asthme.webm"
   },
   {
     "key": "atome",
     "label": "Atome",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/atome.webm"
+    "video": "video/atome.webm"
   },
   {
     "key": "attestation",
     "label": "Attestation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/attestation.webm"
+    "video": "video/attestation.webm"
   },
   {
     "key": "audiogramme",
     "label": "Audiogramme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/audiogramme.webm"
+    "video": "video/audiogramme.webm"
   },
   {
     "key": "audiovisuel",
     "label": "Audiovisuel",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/audiovisuel.webm"
+    "video": "video/audiovisuel.webm"
   },
   {
     "key": "australie",
     "label": "Australie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/australie.webm"
+    "video": "video/australie.webm"
   },
   {
     "key": "automobile",
     "label": "Automobile",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/automobile.webm"
+    "video": "video/automobile.webm"
   },
   {
     "key": "autonomie",
     "label": "Autonomie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/autonomie.webm"
+    "video": "video/autonomie.webm"
   },
   {
     "key": "autriche",
     "label": "Autriche",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/autriche.webm"
+    "video": "video/autriche.webm"
   },
   {
     "key": "avignon",
     "label": "Avignon",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/avignon.webm"
+    "video": "video/avignon.webm"
   },
   {
     "key": "avocat",
     "label": "Avocat",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/avocat.webm"
+    "video": "video/avocat.webm"
   },
   {
     "key": "bac",
     "label": "Bac",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bac.webm"
+    "video": "video/bac.webm"
   },
   {
     "key": "banlieue",
     "label": "Banlieue",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/banlieue.webm"
+    "video": "video/banlieue.webm"
   },
   {
     "key": "banque",
     "label": "Banque",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/banque.webm"
+    "video": "video/banque.webm"
   },
   {
     "key": "banquet",
     "label": "Banquet",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/banquet.webm"
+    "video": "video/banquet.webm"
   },
   {
     "key": "bapteme",
     "label": "Baptême",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bapteme.webm"
+    "video": "video/bapteme.webm"
   },
   {
     "key": "base",
     "label": "Base",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/base.webm"
+    "video": "video/base.webm"
   },
   {
     "key": "batiment",
     "label": "Bâtiment",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/batiment.webm"
+    "video": "video/batiment.webm"
   },
   {
     "key": "belgique",
     "label": "Belgique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/belgique.webm"
+    "video": "video/belgique.webm"
   },
   {
     "key": "benefice",
     "label": "Bénéfice",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/benefice.webm"
+    "video": "video/benefice.webm"
   },
   {
     "key": "benevolat",
     "label": "Bénévolat",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/benevolat.webm"
+    "video": "video/benevolat.webm"
   },
   {
     "key": "biarritz",
     "label": "Biarritz",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/biarritz.webm"
+    "video": "video/biarritz.webm"
   },
   {
     "key": "bible",
     "label": "Bible",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bible.webm"
+    "video": "video/bible.webm"
   },
   {
     "key": "bibliotheque",
     "label": "Bibliothèque",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bibliotheque.webm"
+    "video": "video/bibliotheque.webm"
   },
   {
     "key": "bilan",
     "label": "Bilan",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bilan.webm"
+    "video": "video/bilan.webm"
   },
   {
     "key": "bilingue",
     "label": "Bilingue",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bilinguisme.webm"
+    "video": "video/bilinguisme.webm"
   },
   {
     "key": "bilinguisme",
     "label": "Bilinguisme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bilinguisme.webm"
+    "video": "video/bilinguisme.webm"
   },
   {
     "key": "biochimie",
     "label": "Biochimie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/biochimie.webm"
+    "video": "video/biochimie.webm"
   },
   {
     "key": "biologie",
     "label": "Biologie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/biologie.webm"
+    "video": "video/biologie.webm"
   },
   {
     "key": "bordeaux",
     "label": "Bordeaux",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bordeaux.webm"
+    "video": "video/bordeaux.webm"
   },
   {
     "key": "bouddhisme",
     "label": "Bouddhisme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/boudisme.webm"
+    "video": "video/boudisme.webm"
   },
   {
     "key": "bourgeois",
     "label": "Bourgeois",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bourgeois.webm"
+    "video": "video/bourgeois.webm"
   },
   {
     "key": "bresil",
     "label": "Brésil",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bresil.webm"
+    "video": "video/bresil.webm"
   },
   {
     "key": "bruxelles",
     "label": "Bruxelles",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bruxelle.webm"
+    "video": "video/bruxelle.webm"
   },
   {
     "key": "budget",
     "label": "Budget",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/budget.webm"
+    "video": "video/budget.webm"
   },
   {
     "key": "bulgarie",
     "label": "Bulgarie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/bulgarie.webm"
+    "video": "video/bulgarie.webm"
   },
   {
     "key": "cable",
     "label": "Câble",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/cable.webm"
+    "video": "video/cable.webm"
   },
   {
     "key": "calcul",
     "label": "Calcul",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/calcul.webm"
+    "video": "video/calcul.webm"
   },
   {
     "key": "calendrier",
     "label": "Calendrier",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/calendrier.webm"
+    "video": "video/calendrier.webm"
   },
   {
     "key": "canada",
     "label": "Canada",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/canada.webm"
+    "video": "video/canada.webm"
   },
   {
     "key": "cancer",
     "label": "Cancer",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/cancer.webm"
+    "video": "video/cancer.webm"
   },
   {
     "key": "candidat",
     "label": "Candidat",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/candidat.webm"
+    "video": "video/candidat.webm"
   },
   {
     "key": "capacite",
     "label": "Capacité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/capacite.webm"
+    "video": "video/capacite.webm"
   },
   {
     "key": "capitale",
     "label": "Capitale",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/capitale.webm"
+    "video": "video/capitale.webm"
   },
   {
     "key": "caractere",
     "label": "Caractère",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/caractere.webm"
+    "video": "video/caractere.webm"
   },
   {
     "key": "careme",
     "label": "Carême",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/careme.webm"
+    "video": "video/careme.webm"
   },
   {
     "key": "carte_d_identite",
     "label": "Carte d'identité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/carte_d_identite.webm"
+    "video": "video/carte_d_identite.webm"
   },
   {
     "key": "catholique",
     "label": "Catholique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/catholique.webm"
+    "video": "video/catholique.webm"
   },
   {
     "key": "celibataire",
     "label": "Célibataire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/celibataire.webm"
+    "video": "video/celibataire.webm"
   },
   {
     "key": "censure",
     "label": "Censure",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/censure.webm"
+    "video": "video/censure.webm"
   },
   {
     "key": "chambery",
     "label": "Chambéry",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/chambery.webm"
+    "video": "video/chambery.webm"
   },
   {
     "key": "charpente",
     "label": "Charpente",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/charpente.webm"
+    "video": "video/charpente.webm"
   },
   {
     "key": "chequier",
     "label": "Chéquier",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/chequier.webm"
+    "video": "video/chequier.webm"
   },
   {
     "key": "chimie",
     "label": "Chimie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/chimie.webm"
+    "video": "video/chimie.webm"
   },
   {
     "key": "chine",
     "label": "Chine",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/chine.webm"
+    "video": "video/chine.webm"
   },
   {
     "key": "cinema",
     "label": "Cinéma",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/cinema.webm"
+    "video": "video/cinema.webm"
   },
   {
     "key": "citoyen",
     "label": "Citoyen",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/citoyen.webm"
+    "video": "video/citoyen.webm"
   },
   {
     "key": "code_de_la_route",
     "label": "Code (de la route)",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/code_de_la_route.webm"
+    "video": "video/code_de_la_route.webm"
   },
   {
     "key": "coiffure",
     "label": "Coiffure",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/coiffure.webm"
+    "video": "video/coiffure.webm"
   },
   {
     "key": "collaboration",
     "label": "Collaboration",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/collaboration.webm"
+    "video": "video/collaboration.webm"
   },
   {
     "key": "comedie",
     "label": "Comédie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comedie.webm"
+    "video": "video/comedie.webm"
   },
   {
     "key": "comedien",
     "label": "Comédien",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comedien.webm"
+    "video": "video/comedien.webm"
   },
   {
     "key": "comite",
     "label": "Comité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comite.webm"
+    "video": "video/comite.webm"
   },
   {
     "key": "commerce",
     "label": "Commerce",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/commerce.webm"
+    "video": "video/commerce.webm"
   },
   {
     "key": "commission",
     "label": "Commission",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/commission.webm"
+    "video": "video/commission.webm"
   },
   {
     "key": "communication",
     "label": "Communication",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/communication.webm"
+    "video": "video/communication.webm"
   },
   {
     "key": "communisme",
     "label": "Communisme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/communisme.webm"
+    "video": "video/communisme.webm"
   },
   {
     "key": "competent",
     "label": "Compétent",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/competant.webm"
+    "video": "video/competant.webm"
   },
   {
     "key": "competition",
     "label": "Compétition",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/competition.webm"
+    "video": "video/competition.webm"
   },
   {
     "key": "comportement",
     "label": "Comportement",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comportement.webm"
+    "video": "video/comportement.webm"
   },
   {
     "key": "compromis",
     "label": "Compromis",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/compromis.webm"
+    "video": "video/compromis.webm"
   },
   {
     "key": "comptabilite",
     "label": "Comptabilité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/comptabilite.webm"
+    "video": "video/comptabilite.webm"
   },
   {
     "key": "concentration",
     "label": "Concentration",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/concentration.webm"
+    "video": "video/concentration.webm"
   },
   {
     "key": "concept",
     "label": "Concept",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/concept.webm"
+    "video": "video/concept.webm"
   },
   {
     "key": "concours",
     "label": "Concours",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/concours.webm"
+    "video": "video/concours.webm"
   },
   {
     "key": "concurrence",
     "label": "Concurrence",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/concurrence.webm"
+    "video": "video/concurrence.webm"
   },
   {
     "key": "conference",
     "label": "Conférence",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conference.webm"
+    "video": "video/conference.webm"
   },
   {
     "key": "confiance",
     "label": "Confiance",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/confiance.webm"
+    "video": "video/confiance.webm"
   },
   {
     "key": "conflit",
     "label": "Conflit",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conflit.webm"
+    "video": "video/conflit.webm"
   },
   {
     "key": "congres",
     "label": "Congrès",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/congrès.webm"
+    "video": "video/congrès.webm"
   },
   {
     "key": "connaissance",
     "label": "Connaissance",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/connaissance.webm"
+    "video": "video/connaissance.webm"
   },
   {
     "key": "conscience",
     "label": "Conscience",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conscience.webm"
+    "video": "video/conscience.webm"
   },
   {
     "key": "conseiller",
     "label": "Conseiller",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conseiller.webm"
+    "video": "video/conseiller.webm"
   },
   {
     "key": "construction_navale",
     "label": "Construction navale",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/construction_navale.webm"
+    "video": "video/construction_navale.webm"
   },
   {
     "key": "conte",
     "label": "Conte",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conte.webm"
+    "video": "video/conte.webm"
   },
   {
     "key": "contrat",
     "label": "Contrat",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/contrat.webm"
+    "video": "video/contrat.webm"
   },
   {
     "key": "convaincre",
     "label": "Convaincre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/convaincre2.webm"
+    "video": "video/convaincre2.webm"
   },
   {
     "key": "convention",
     "label": "Convention",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/convertion.webm"
+    "video": "video/convertion.webm"
   },
   {
     "key": "conversation",
     "label": "Conversation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/conversation_(discuter).webm"
+    "video": "video/conversation_(discuter).webm"
   },
   {
     "key": "convoquer",
     "label": "Convoquer",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/convoquer.webm"
+    "video": "video/convoquer.webm"
   },
   {
     "key": "correction",
     "label": "Correction",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/correction_(annuler).webm"
+    "video": "video/correction_(annuler).webm"
   },
   {
     "key": "cotisation",
     "label": "Cotisation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/cotisation.webm"
+    "video": "video/cotisation.webm"
   },
   {
     "key": "coupable",
     "label": "Coupable",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/coupable.webm"
+    "video": "video/coupable.webm"
   },
   {
     "key": "credit",
     "label": "Crédit",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/credit.webm"
+    "video": "video/credit.webm"
   },
   {
     "key": "crime",
     "label": "Crime",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/crime.webm"
+    "video": "video/crime.webm"
   },
   {
     "key": "critiquer",
     "label": "Critiquer",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/critiquer.webm"
+    "video": "video/critiquer.webm"
   },
   {
     "key": "culture_generale",
     "label": "Culture (générale)",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/culture1.webm"
+    "video": "video/culture1.webm"
   },
   {
     "key": "culture_terre",
     "label": "Culture (terre)",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/culture_de_la_terre.webm"
+    "video": "video/culture_de_la_terre.webm"
   },
   {
     "key": "curiosite",
     "label": "Curiosité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/curieux.webm"
+    "video": "video/curieux.webm"
   },
   {
     "key": "danemark",
     "label": "Danemark",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/danemark.webm"
+    "video": "video/danemark.webm"
   },
   {
     "key": "debat",
     "label": "Débat",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/debat.webm"
+    "video": "video/debat.webm"
   },
   {
     "key": "debilite",
     "label": "Débilité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/debilite.webm"
+    "video": "video/debilite.webm"
   },
   {
     "key": "debit",
     "label": "Débit",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/debit_banque.webm"
+    "video": "video/debit_banque.webm"
   },
   {
     "key": "decentralisation",
     "label": "Décentralisation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decentralisation.webm"
+    "video": "video/decentralisation.webm"
   },
   {
     "key": "decision",
     "label": "Décision",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decision.webm"
+    "video": "video/decision.webm"
   },
   {
     "key": "declaration_general",
     "label": "Déclaration (général)",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/declaration.webm"
+    "video": "video/declaration.webm"
   },
   {
     "key": "declaration_des_droits_de_l_homme",
     "label": "Déclaration des droits de l'homme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/declaration_droits_de_l_homme.webm"
+    "video": "video/declaration_droits_de_l_homme.webm"
   },
   {
     "key": "decommander",
     "label": "Décommander",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decommander.webm"
+    "video": "video/decommander.webm"
   },
   {
     "key": "decompte",
     "label": "Décompte",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decompte.webm"
+    "video": "video/decompte.webm"
   },
   {
     "key": "decors",
     "label": "Décors",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decors.webm"
+    "video": "video/decors.webm"
   },
   {
     "key": "decouragement",
     "label": "Découragement",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decouragement.webm"
+    "video": "video/decouragement.webm"
   },
   {
     "key": "decouverte",
     "label": "Découverte",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/decouverte.webm"
+    "video": "video/decouverte.webm"
   },
   {
     "key": "defaut",
     "label": "Défaut",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/defaut.webm"
+    "video": "video/defaut.webm"
   },
   {
     "key": "defense",
     "label": "Défense",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/defenseur.webm"
+    "video": "video/defenseur.webm"
   },
   {
     "key": "deficit",
     "label": "Déficit",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/deficit.webm"
+    "video": "video/deficit.webm"
   },
   {
     "key": "degressif",
     "label": "Dégressif",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/degressif.webm"
+    "video": "video/degressif.webm"
   },
   {
     "key": "degustation",
     "label": "Dégustation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/degustation.webm"
+    "video": "video/degustation.webm"
   },
   {
     "key": "delivrance",
     "label": "Délivrance",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/delivrance.webm"
+    "video": "video/delivrance.webm"
   },
   {
     "key": "deluge",
     "label": "Déluge",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/deluge.webm"
+    "video": "video/deluge.webm"
   },
   {
     "key": "demenagement",
     "label": "Déménagement",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/demenagement.webm"
+    "video": "video/demenagement.webm"
   },
   {
     "key": "demissioner",
     "label": "Démissioner",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/demissionner.webm"
+    "video": "video/demissionner.webm"
   },
   {
     "key": "democratie",
     "label": "Démocratie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/democratie.webm"
+    "video": "video/democratie.webm"
   },
   {
     "key": "demonstration",
     "label": "Démonstration",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/demonstration.webm"
+    "video": "video/demonstration.webm"
   },
   {
     "key": "depression",
     "label": "Dépression",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/depression.webm"
+    "video": "video/depression.webm"
   },
   {
     "key": "depute",
     "label": "Député",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/depute.webm"
+    "video": "video/depute.webm"
   },
   {
     "key": "derogation",
     "label": "Dérogation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/derogation.webm"
+    "video": "video/derogation.webm"
   },
   {
     "key": "dette",
     "label": "Dette",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dette.webm"
+    "video": "video/dette.webm"
   },
   {
     "key": "devis",
     "label": "Devis",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/devis.webm"
+    "video": "video/devis.webm"
   },
   {
     "key": "diabete",
     "label": "Diabète",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/diabete.webm"
+    "video": "video/diabete.webm"
   },
   {
     "key": "dialogue",
     "label": "Dialogue",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dialogue.webm"
+    "video": "video/dialogue.webm"
   },
   {
     "key": "dijon",
     "label": "Dijon",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dijon.webm"
+    "video": "video/dijon.webm"
   },
   {
     "key": "dilatation",
     "label": "Dilatation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dilatation.webm"
+    "video": "video/dilatation.webm"
   },
   {
     "key": "diplomatique",
     "label": "Diplomatique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/diplomatique.webm"
+    "video": "video/diplomatique.webm"
   },
   {
     "key": "diplome",
     "label": "Diplôme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/diplome.webm"
+    "video": "video/diplome.webm"
   },
   {
     "key": "directeur",
     "label": "Directeur",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/directeur.webm"
+    "video": "video/directeur.webm"
   },
   {
     "key": "distance",
     "label": "Distance",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/distance.webm"
+    "video": "video/distance.webm"
   },
   {
     "key": "divorce",
     "label": "Divorce",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/divorce.webm"
+    "video": "video/divorce.webm"
   },
   {
     "key": "doctorat",
     "label": "Doctorat",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/doctorat_en_medecine.webm"
+    "video": "video/doctorat_en_medecine.webm"
   },
   {
     "key": "documentation",
     "label": "Documentation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/documentation.webm"
+    "video": "video/documentation.webm"
   },
   {
     "key": "dossier",
     "label": "Dossier",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/dossier.webm"
+    "video": "video/dossier.webm"
   },
   {
     "key": "doyen",
     "label": "Doyen",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/doyen.webm"
+    "video": "video/doyen.webm"
   },
   {
     "key": "drogue",
     "label": "Drogue",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/drogue.webm"
+    "video": "video/drogue.webm"
   },
   {
     "key": "droit",
     "label": "Droit",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/droit.webm"
+    "video": "video/droit.webm"
   },
   {
     "key": "ebeniste",
     "label": "Ebéniste",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ebeniste.webm"
+    "video": "video/ebeniste.webm"
   },
   {
     "key": "echange",
     "label": "Echange",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/echange.webm"
+    "video": "video/echange.webm"
   },
   {
     "key": "echelon",
     "label": "Echelon",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/echelon.webm"
+    "video": "video/echelon.webm"
   },
   {
     "key": "eclairage",
     "label": "Eclairage",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/eclairage.webm"
+    "video": "video/eclairage.webm"
   },
   {
     "key": "eclipse",
     "label": "Eclipse",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/eclipse.webm"
+    "video": "video/eclipse.webm"
   },
   {
     "key": "ecole",
     "label": "Ecole",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ecole.webm"
+    "video": "video/ecole.webm"
   },
   {
     "key": "economie",
     "label": "Economie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/economie1.webm"
+    "video": "video/economie1.webm"
   },
   {
     "key": "ecosse",
     "label": "Ecosse",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ecosse.webm"
+    "video": "video/ecosse.webm"
   },
   {
     "key": "edifice",
     "label": "Edifice",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/edifice.webm"
+    "video": "video/edifice.webm"
   },
   {
     "key": "educateur",
     "label": "Educateur",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/educateur.webm"
+    "video": "video/educateur.webm"
   },
   {
     "key": "egypte",
     "label": "Egypte",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/egypte.webm"
+    "video": "video/egypte.webm"
   },
   {
     "key": "electricite",
     "label": "Electricité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/electricite.webm"
+    "video": "video/electricite.webm"
   },
   {
     "key": "electronique",
     "label": "Electronique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/electronique.webm"
+    "video": "video/electronique.webm"
   },
   {
     "key": "electrotechnique",
     "label": "Electrotechnique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/electro-technique.webm"
+    "video": "video/electro-technique.webm"
   },
   {
     "key": "elegance",
     "label": "Elégance",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/elegance.webm"
+    "video": "video/elegance.webm"
   },
   {
     "key": "emballage",
     "label": "Emballage",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/emballage.webm"
+    "video": "video/emballage.webm"
   },
   {
     "key": "embaucher",
     "label": "Embaucher",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/embaucher.webm"
+    "video": "video/embaucher.webm"
   },
   {
     "key": "emploi_du_temps",
     "label": "Emploi du temps",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/emploi_du_temps.webm"
+    "video": "video/emploi_du_temps.webm"
   },
   {
     "key": "emprunt",
     "label": "Emprunt",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/emprunt.webm"
+    "video": "video/emprunt.webm"
   },
   {
     "key": "encephalogramme",
     "label": "Encéphalogramme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/encephalogramme.webm"
+    "video": "video/encephalogramme.webm"
   },
   {
     "key": "endoctriner",
     "label": "Endoctriner",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/endoctriner.webm"
+    "video": "video/endoctriner.webm"
   },
   {
     "key": "engagement",
     "label": "Engagement",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/engagement.webm"
+    "video": "video/engagement.webm"
   },
   {
     "key": "engrenage",
     "label": "Engrenage",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/engrenage.webm"
+    "video": "video/engrenage.webm"
   },
   {
     "key": "enlevement",
     "label": "Enlèvement",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enlevement.webm"
+    "video": "video/enlevement.webm"
   },
   {
     "key": "ennemi",
     "label": "Ennemi",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ennemi.webm"
+    "video": "video/ennemi.webm"
   },
   {
     "key": "enquete",
     "label": "Enquête",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enquete.webm"
+    "video": "video/enquete.webm"
   },
   {
     "key": "enregistrer",
     "label": "Enregistrer",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enregistrer.webm"
+    "video": "video/enregistrer.webm"
   },
   {
     "key": "enseigner",
     "label": "Enseigner",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enseigner.webm"
+    "video": "video/enseigner.webm"
   },
   {
     "key": "enthousiasme",
     "label": "Enthousiasme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/enthousiasme.webm"
+    "video": "video/enthousiasme.webm"
   },
   {
     "key": "envergure",
     "label": "Envergure",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/envergure-oiseaux.webm"
+    "video": "video/envergure-oiseaux.webm"
   },
   {
     "key": "envie",
     "label": "Envie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/envie.webm"
+    "video": "video/envie.webm"
   },
   {
     "key": "ephemere",
     "label": "Ephémère",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ephemere.webm"
+    "video": "video/ephemere.webm"
   },
   {
     "key": "epilepsie",
     "label": "Epilepsie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/epilepsie.webm"
+    "video": "video/epilepsie.webm"
   },
   {
     "key": "equilibre",
     "label": "Equilibre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/equilibre.webm"
+    "video": "video/equilibre.webm"
   },
   {
     "key": "equipe",
     "label": "Equipe",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/equipe.webm"
+    "video": "video/equipe.webm"
   },
   {
     "key": "espagne",
     "label": "Espagne",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/espagne.webm"
+    "video": "video/espagne.webm"
   },
   {
     "key": "etat_pays",
     "label": "Etat (pays)",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/etat-pays.webm"
+    "video": "video/etat-pays.webm"
   },
   {
     "key": "etats-unis",
     "label": "Etats-Unis",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/etats-unis.webm"
+    "video": "video/etats-unis.webm"
   },
   {
     "key": "etranger",
     "label": "Etranger",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/etranger.webm"
+    "video": "video/etranger.webm"
   },
   {
     "key": "etudiant",
     "label": "Etudiant",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/etudiant.webm"
+    "video": "video/etudiant.webm"
   },
   {
     "key": "europe",
     "label": "Europe",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/europe.webm"
+    "video": "video/europe.webm"
   },
   {
     "key": "evolution",
     "label": "Evolution",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/evolution.webm"
+    "video": "video/evolution.webm"
   },
   {
     "key": "examen",
     "label": "Examen",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/examen.webm"
+    "video": "video/examen.webm"
   },
   {
     "key": "exemple",
     "label": "Exemple",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/exemple.webm"
+    "video": "video/exemple.webm"
   },
   {
     "key": "exercice",
     "label": "Exercice",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/exercice.webm"
+    "video": "video/exercice.webm"
   },
   {
     "key": "experience",
     "label": "Expérience",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/experience.webm"
+    "video": "video/experience.webm"
   },
   {
     "key": "expert",
     "label": "Expert",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/expert.webm"
+    "video": "video/expert.webm"
   },
   {
     "key": "exploit",
     "label": "Exploit",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/exploit.webm"
+    "video": "video/exploit.webm"
   },
   {
     "key": "exportation",
     "label": "Exportation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/exportation.webm"
+    "video": "video/exportation.webm"
   },
   {
     "key": "expression_groupe_de_mots",
     "label": "Expression (groupe de mots)",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/expression-mots.webm"
+    "video": "video/expression-mots.webm"
   },
   {
     "key": "expression_visage",
     "label": "Expression (visage)",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/expression-visage.webm"
+    "video": "video/expression-visage.webm"
   },
   {
     "key": "fabrication",
     "label": "Fabrication",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fabrication.webm"
+    "video": "video/fabrication.webm"
   },
   {
     "key": "facture",
     "label": "Facture",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/facture.webm"
+    "video": "video/facture.webm"
   },
   {
     "key": "faillite",
     "label": "Faillite",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/faillite.webm"
+    "video": "video/faillite.webm"
   },
   {
     "key": "falsifier",
     "label": "Falsifier",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/falcifier.webm"
+    "video": "video/falcifier.webm"
   },
   {
     "key": "fantasme",
     "label": "Fantasme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fantasme.webm"
+    "video": "video/fantasme.webm"
   },
   {
     "key": "fascisme",
     "label": "Fascisme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fascisme.webm"
+    "video": "video/fascisme.webm"
   },
   {
     "key": "faussaire",
     "label": "Faussaire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/faussaire.webm"
+    "video": "video/faussaire.webm"
   },
   {
     "key": "federation",
     "label": "Fédération",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/federation.webm"
+    "video": "video/federation.webm"
   },
   {
     "key": "felicitations",
     "label": "Félicitations",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/felicitation.webm"
+    "video": "video/felicitation.webm"
   },
   {
     "key": "finlande",
     "label": "Finlande",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/finlande.webm"
+    "video": "video/finlande.webm"
   },
   {
     "key": "fleuve",
     "label": "Fleuve",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fleuve.webm"
+    "video": "video/fleuve.webm"
   },
   {
     "key": "foie",
     "label": "Foie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/foie.webm"
+    "video": "video/foie.webm"
   },
   {
     "key": "fonder",
     "label": "Fonder",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/fonder.webm"
+    "video": "video/fonder.webm"
   },
   {
     "key": "foret",
     "label": "Forêt",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/foret2.webm"
+    "video": "video/foret2.webm"
   },
   {
     "key": "formation",
     "label": "Formation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/formation.webm"
+    "video": "video/formation.webm"
   },
   {
     "key": "français",
     "label": "Français",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/francais.webm"
+    "video": "video/francais.webm"
   },
   {
     "key": "france",
     "label": "France",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/france.webm"
+    "video": "video/france.webm"
   },
   {
     "key": "futur",
     "label": "Futur",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/futur.webm"
+    "video": "video/futur.webm"
   },
   {
     "key": "geographie",
     "label": "Géographie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/geographie.webm"
+    "video": "video/geographie.webm"
   },
   {
     "key": "grammaire",
     "label": "Grammaire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/grammaire.webm"
+    "video": "video/grammaire.webm"
   },
   {
     "key": "gravure",
     "label": "Gravure",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/gravure.webm"
+    "video": "video/gravure.webm"
   },
   {
     "key": "grece",
     "label": "Grèce",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/grece.webm"
+    "video": "video/grece.webm"
   },
   {
     "key": "guyane",
     "label": "Guyane",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/guyane.webm"
+    "video": "video/guyane.webm"
   },
   {
     "key": "gymnastique",
     "label": "Gymnastique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/gymnastique.webm"
+    "video": "video/gymnastique.webm"
   },
   {
     "key": "haine",
     "label": "Haine",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/haine.webm"
+    "video": "video/haine.webm"
   },
   {
     "key": "handicape",
     "label": "Handicapé",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/handicape.webm"
+    "video": "video/handicape.webm"
   },
   {
     "key": "heritage",
     "label": "Héritage",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/heritage.webm"
+    "video": "video/heritage.webm"
   },
   {
     "key": "hierarchie",
     "label": "Hiérarchie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hierarchie2.webm"
+    "video": "video/hierarchie2.webm"
   },
   {
     "key": "histoire",
     "label": "Histoire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/histoire.webm"
+    "video": "video/histoire.webm"
   },
   {
     "key": "hollande",
     "label": "Hollande",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hollande.webm"
+    "video": "video/hollande.webm"
   },
   {
     "key": "hommage",
     "label": "Hommage",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hommage.webm"
+    "video": "video/hommage.webm"
   },
   {
     "key": "homme",
     "label": "Homme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/homme.webm"
+    "video": "video/homme.webm"
   },
   {
     "key": "hongrie",
     "label": "Hongrie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hongrie.webm"
+    "video": "video/hongrie.webm"
   },
   {
     "key": "honneur",
     "label": "Honneur",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/honneur.webm"
+    "video": "video/honneur.webm"
   },
   {
     "key": "hopital",
     "label": "Hôpital",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hopital.webm"
+    "video": "video/hopital.webm"
   },
   {
     "key": "horizon",
     "label": "Horizon",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/horizon.webm"
+    "video": "video/horizon.webm"
   },
   {
     "key": "horticulture",
     "label": "Horticulture",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/horticulture.webm"
+    "video": "video/horticulture.webm"
   },
   {
     "key": "hotel",
     "label": "Hôtel",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hotel.webm"
+    "video": "video/hotel.webm"
   },
   {
     "key": "huissier",
     "label": "Huissier",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/huissier.webm"
+    "video": "video/huissier.webm"
   },
   {
     "key": "hypocrite",
     "label": "Hypocrite",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/hypocrite.webm"
+    "video": "video/hypocrite.webm"
   },
   {
     "key": "ideologie",
     "label": "Idéologie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ideologie.webm"
+    "video": "video/ideologie.webm"
   },
   {
     "key": "illusion",
     "label": "Illusion",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/illusion.webm"
+    "video": "video/illusion.webm"
   },
   {
     "key": "impots",
     "label": "Impôts",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/impots.webm"
+    "video": "video/impots.webm"
   },
   {
     "key": "imprimer",
     "label": "Imprimer",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/imprimer.webm"
+    "video": "video/imprimer.webm"
   },
   {
     "key": "inauguration",
     "label": "Inauguration",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/inauguration.webm"
+    "video": "video/inauguration.webm"
   },
   {
     "key": "inde",
     "label": "Inde",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/inde.webm"
+    "video": "video/inde.webm"
   },
   {
     "key": "individu",
     "label": "Individu",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/individu.webm"
+    "video": "video/individu.webm"
   },
   {
     "key": "infarctus",
     "label": "Infarctus",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/infarctus.webm"
+    "video": "video/infarctus.webm"
   },
   {
     "key": "infirmiere",
     "label": "Infirmière",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/infirmiere.webm"
+    "video": "video/infirmiere.webm"
   },
   {
     "key": "influence",
     "label": "Influence",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/influence.webm"
+    "video": "video/influence.webm"
   },
   {
     "key": "information",
     "label": "Information",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/information.webm"
+    "video": "video/information.webm"
   },
   {
     "key": "informatique",
     "label": "Informatique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/informatique.webm"
+    "video": "video/informatique.webm"
   },
   {
     "key": "informer",
     "label": "Informer",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/informer.webm"
+    "video": "video/informer.webm"
   },
   {
     "key": "ingenieur",
     "label": "Ingénieur",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ingenieur.webm"
+    "video": "video/ingenieur.webm"
   },
   {
     "key": "insertion",
     "label": "Insertion",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/insertion.webm"
+    "video": "video/insertion.webm"
   },
   {
     "key": "integration",
     "label": "Intégration",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/intergration.webm"
+    "video": "video/intergration.webm"
   },
   {
     "key": "intelligence",
     "label": "Intelligence",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/intelligence.webm"
+    "video": "video/intelligence.webm"
   },
   {
     "key": "interioriser",
     "label": "Intérioriser",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/interioriser.webm"
+    "video": "video/interioriser.webm"
   },
   {
     "key": "international",
     "label": "International",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/international.webm"
+    "video": "video/international.webm"
   },
   {
     "key": "internet",
     "label": "Internet",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/internet.webm"
+    "video": "video/internet.webm"
   },
   {
     "key": "interpreter",
     "label": "Interpréter",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/interpreter.webm"
+    "video": "video/interpreter.webm"
   },
   {
     "key": "intervenir",
     "label": "Intervenir",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/intervenir.webm"
+    "video": "video/intervenir.webm"
   },
   {
     "key": "interview",
     "label": "Interview",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/interview.webm"
+    "video": "video/interview.webm"
   },
   {
     "key": "invention",
     "label": "Invention",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/invention.webm"
+    "video": "video/invention.webm"
   },
   {
     "key": "irlande",
     "label": "Irlande",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/irlande.webm"
+    "video": "video/irlande.webm"
   },
   {
     "key": "israël",
     "label": "Israël",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/israel.webm"
+    "video": "video/israel.webm"
   },
   {
     "key": "italie",
     "label": "Italie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/italie.webm"
+    "video": "video/italie.webm"
   },
   {
     "key": "japon",
     "label": "Japon",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/japon.webm"
+    "video": "video/japon.webm"
   },
   {
     "key": "jardinage",
     "label": "Jardinage",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/jardinage.webm"
+    "video": "video/jardinage.webm"
   },
   {
     "key": "jazz",
     "label": "Jazz",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/jazz.webm"
+    "video": "video/jazz.webm"
   },
   {
     "key": "jeunesse",
     "label": "Jeunesse",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/jeunesse.webm"
+    "video": "video/jeunesse.webm"
   },
   {
     "key": "justice",
     "label": "Justice",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/justice2.webm"
+    "video": "video/justice2.webm"
   },
   {
     "key": "kidnapper",
     "label": "Kidnapper",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/kidnapper.webm"
+    "video": "video/kidnapper.webm"
   },
   {
     "key": "kilogramme",
     "label": "Kilogramme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/kilo.webm"
+    "video": "video/kilo.webm"
   },
   {
     "key": "kilometre",
     "label": "Kilomètre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/km.webm"
+    "video": "video/km.webm"
   },
   {
     "key": "kilowatt",
     "label": "Kilowatt",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/k_watt.webm"
+    "video": "video/k_watt.webm"
   },
   {
     "key": "kinesitherapie",
     "label": "Kinésithérapie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/kinesitherapie.webm"
+    "video": "video/kinesitherapie.webm"
   },
   {
     "key": "kleptomanie",
     "label": "Kleptomanie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/kleptomanie.webm"
+    "video": "video/kleptomanie.webm"
   },
   {
     "key": "langue",
     "label": "Langue",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/langue.webm"
+    "video": "video/langue.webm"
   },
   {
     "key": "laos",
     "label": "Laos",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/laos.webm"
+    "video": "video/laos.webm"
   },
   {
     "key": "leader",
     "label": "Leader",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/leader.webm"
+    "video": "video/leader.webm"
   },
   {
     "key": "lecture",
     "label": "Lecture",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/lecture.webm"
+    "video": "video/lecture.webm"
   },
   {
     "key": "lecture_labiale",
     "label": "Lecture labiale",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/lecture_labiale.webm"
+    "video": "video/lecture_labiale.webm"
   },
   {
     "key": "liberte",
     "label": "Liberté",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/liberte.webm"
+    "video": "video/liberte.webm"
   },
   {
     "key": "licenciement",
     "label": "Licenciement",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/licenciement.webm"
+    "video": "video/licenciement.webm"
   },
   {
     "key": "lille",
     "label": "Lille",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/lille.webm"
+    "video": "video/lille.webm"
   },
   {
     "key": "limoges",
     "label": "Limoges",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/limoges.webm"
+    "video": "video/limoges.webm"
   },
   {
     "key": "linguistique",
     "label": "Linguistique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/linguistique.webm"
+    "video": "video/linguistique.webm"
   },
   {
     "key": "loi",
     "label": "Loi",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/loi.webm"
+    "video": "video/loi.webm"
   },
   {
     "key": "lyon",
     "label": "Lyon",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/lyon.webm"
+    "video": "video/lyon.webm"
   },
   {
     "key": "machine",
     "label": "Machine",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/machine.webm"
+    "video": "video/machine.webm"
   },
   {
     "key": "mafia",
     "label": "Mafia",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mafia.webm"
+    "video": "video/mafia.webm"
   },
   {
     "key": "mairie",
     "label": "Mairie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mairie.webm"
+    "video": "video/mairie.webm"
   },
   {
     "key": "majeur",
     "label": "Majeur",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/majeur.webm"
+    "video": "video/majeur.webm"
   },
   {
     "key": "manifestation",
     "label": "Manifestation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/manifestation2.webm"
+    "video": "video/manifestation2.webm"
   },
   {
     "key": "marginal",
     "label": "Marginal",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/marginal.webm"
+    "video": "video/marginal.webm"
   },
   {
     "key": "maroc",
     "label": "Maroc",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/maroc.webm"
+    "video": "video/maroc.webm"
   },
   {
     "key": "marseille",
     "label": "Marseille",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/marseille.webm"
+    "video": "video/marseille.webm"
   },
   {
     "key": "mecanique",
     "label": "Mécanique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mecanique.webm"
+    "video": "video/mecanique.webm"
   },
   {
     "key": "medecin",
     "label": "Médecin",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/medecin.webm"
+    "video": "video/medecin.webm"
   },
   {
     "key": "medicament",
     "label": "Médicament",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/medicament.webm"
+    "video": "video/medicament.webm"
   },
   {
     "key": "memoire",
     "label": "Mémoire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/memoire_these.webm"
+    "video": "video/memoire_these.webm"
   },
   {
     "key": "mensuel",
     "label": "Mensuel",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mensuel.webm"
+    "video": "video/mensuel.webm"
   },
   {
     "key": "message",
     "label": "Message",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/message.webm"
+    "video": "video/message.webm"
   },
   {
     "key": "methode",
     "label": "Méthode",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/methode.webm"
+    "video": "video/methode.webm"
   },
   {
     "key": "metier",
     "label": "Métier",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/metier.webm"
+    "video": "video/metier.webm"
   },
   {
     "key": "metz",
     "label": "Metz",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/metz.webm"
+    "video": "video/metz.webm"
   },
   {
     "key": "mexique",
     "label": "Mexique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mexique.webm"
+    "video": "video/mexique.webm"
   },
   {
     "key": "microbe",
     "label": "Microbe",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/microbe.webm"
+    "video": "video/microbe.webm"
   },
   {
     "key": "microscope",
     "label": "Microscope",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/microscope.webm"
+    "video": "video/microscope.webm"
   },
   {
     "key": "militaire",
     "label": "Militaire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/militaire.webm"
+    "video": "video/militaire.webm"
   },
   {
     "key": "mine",
     "label": "Mine",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mine.webm"
+    "video": "video/mine.webm"
   },
   {
     "key": "minorite",
     "label": "Minorité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/minorite.webm"
+    "video": "video/minorite.webm"
   },
   {
     "key": "mode_la",
     "label": "Mode (la)",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/la_mode.webm"
+    "video": "video/la_mode.webm"
   },
   {
     "key": "moderne",
     "label": "Moderne",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/moderne.webm"
+    "video": "video/moderne.webm"
   },
   {
     "key": "monaco",
     "label": "Monaco",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/monaco.webm"
+    "video": "video/monaco.webm"
   },
   {
     "key": "monde",
     "label": "Monde",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/monde.webm"
+    "video": "video/monde.webm"
   },
   {
     "key": "montagne",
     "label": "Montagne",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/montagne.webm"
+    "video": "video/montagne.webm"
   },
   {
     "key": "montpellier",
     "label": "Montpellier",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/montpellier.webm"
+    "video": "video/montpellier.webm"
   },
   {
     "key": "moral",
     "label": "Moral",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/moral.webm"
+    "video": "video/moral.webm"
   },
   {
     "key": "mulhouse",
     "label": "Mulhouse",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mulhouse.webm"
+    "video": "video/mulhouse.webm"
   },
   {
     "key": "musique",
     "label": "Musique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/musique.webm"
+    "video": "video/musique.webm"
   },
   {
     "key": "musulman",
     "label": "Musulman",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/musulman.webm"
+    "video": "video/musulman.webm"
   },
   {
     "key": "mutation",
     "label": "Mutation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/mutation.webm"
+    "video": "video/mutation.webm"
   },
   {
     "key": "nancy",
     "label": "Nancy",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nancy.webm"
+    "video": "video/nancy.webm"
   },
   {
     "key": "nantes",
     "label": "Nantes",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nantes.webm"
+    "video": "video/nantes.webm"
   },
   {
     "key": "nationalite",
     "label": "Nationalité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nationalite.webm"
+    "video": "video/nationalite.webm"
   },
   {
     "key": "naturel",
     "label": "Naturel",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/naturel.webm"
+    "video": "video/naturel.webm"
   },
   {
     "key": "neurologie",
     "label": "Neurologie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/neurologique.webm"
+    "video": "video/neurologique.webm"
   },
   {
     "key": "neutre",
     "label": "Neutre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/neutre.webm"
+    "video": "video/neutre.webm"
   },
   {
     "key": "nimes",
     "label": "Nîmes",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nimes.webm"
+    "video": "video/nimes.webm"
   },
   {
     "key": "niveau",
     "label": "Niveau",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/niveau.webm"
+    "video": "video/niveau.webm"
   },
   {
     "key": "normal",
     "label": "Normal",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/normal.webm"
+    "video": "video/normal.webm"
   },
   {
     "key": "norvege",
     "label": "Norvège",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/norvege.webm"
+    "video": "video/norvege.webm"
   },
   {
     "key": "notaire",
     "label": "Notaire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/notaire.webm"
+    "video": "video/notaire.webm"
   },
   {
     "key": "nucleaire",
     "label": "Nucléaire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/nucleaire.webm"
+    "video": "video/nucleaire.webm"
   },
   {
     "key": "objectif",
     "label": "Objectif",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/objectif.webm"
+    "video": "video/objectif.webm"
   },
   {
     "key": "objection",
     "label": "Objection",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/objection.webm"
+    "video": "video/objection.webm"
   },
   {
     "key": "obligation",
     "label": "Obligation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/obligation.webm"
+    "video": "video/obligation.webm"
   },
   {
     "key": "observateur",
     "label": "Observateur",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/observateur.webm"
+    "video": "video/observateur.webm"
   },
   {
     "key": "officiel",
     "label": "Officiel",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/officiel.webm"
+    "video": "video/officiel.webm"
   },
   {
     "key": "oppression",
     "label": "Oppression",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/opression.webm"
+    "video": "video/opression.webm"
   },
   {
     "key": "oral",
     "label": "Oral",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/oral.webm"
+    "video": "video/oral.webm"
   },
   {
     "key": "organiser",
     "label": "Organiser",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/organiser.webm"
+    "video": "video/organiser.webm"
   },
   {
     "key": "origine",
     "label": "Origine",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/origine.webm"
+    "video": "video/origine.webm"
   },
   {
     "key": "orleans",
     "label": "Orléans",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/orleans.webm"
+    "video": "video/orleans.webm"
   },
   {
     "key": "outil",
     "label": "Outil",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/outil.webm"
+    "video": "video/outil.webm"
   },
   {
     "key": "paques",
     "label": "Pâques",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/paques.webm"
+    "video": "video/paques.webm"
   },
   {
     "key": "paris",
     "label": "Paris",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/paris.webm"
+    "video": "video/paris.webm"
   },
   {
     "key": "pedagogie",
     "label": "Pédagogie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/pedagogie.webm"
+    "video": "video/pedagogie.webm"
   },
   {
     "key": "pedophilie",
     "label": "Pédophilie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/pedophile.webm"
+    "video": "video/pedophile.webm"
   },
   {
     "key": "pharmacie",
     "label": "Pharmacie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/pharmacie.webm"
+    "video": "video/pharmacie.webm"
   },
   {
     "key": "philosophe",
     "label": "Philosophe",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/philosophe.webm"
+    "video": "video/philosophe.webm"
   },
   {
     "key": "photocopie",
     "label": "Photocopie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/photocopie.webm"
+    "video": "video/photocopie.webm"
   },
   {
     "key": "photographie",
     "label": "Photographie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/photographie.webm"
+    "video": "video/photographie.webm"
   },
   {
     "key": "physique",
     "label": "Physique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/physique.webm"
+    "video": "video/physique.webm"
   },
   {
     "key": "plastique",
     "label": "Plastique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/plastique.webm"
+    "video": "video/plastique.webm"
   },
   {
     "key": "plombier",
     "label": "Plombier",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/plombier.webm"
+    "video": "video/plombier.webm"
   },
   {
     "key": "poeme",
     "label": "Poème",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/poeme.webm"
+    "video": "video/poeme.webm"
   },
   {
     "key": "poitiers",
     "label": "Poitiers",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/poitiers.webm"
+    "video": "video/poitiers.webm"
   },
   {
     "key": "politique",
     "label": "Politique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/politique.webm"
+    "video": "video/politique.webm"
   },
   {
     "key": "positif",
     "label": "Positif",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/positif.webm"
+    "video": "video/positif.webm"
   },
   {
     "key": "pouvoir",
     "label": "Pouvoir",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/pouvoir.webm"
+    "video": "video/pouvoir.webm"
   },
   {
     "key": "priorite",
     "label": "Priorité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/priori.webm"
+    "video": "video/priori.webm"
   },
   {
     "key": "prive",
     "label": "Privé",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/prive2.webm"
+    "video": "video/prive2.webm"
   },
   {
     "key": "probleme",
     "label": "Problème",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/probleme.webm"
+    "video": "video/probleme.webm"
   },
   {
     "key": "production",
     "label": "Production",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/production.webm"
+    "video": "video/production.webm"
   },
   {
     "key": "programme",
     "label": "Programme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/programme.webm"
+    "video": "video/programme.webm"
   },
   {
     "key": "proposition",
     "label": "Proposition",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/proposition.webm"
+    "video": "video/proposition.webm"
   },
   {
     "key": "radioactif",
     "label": "Radioactif",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/radioactif.webm"
+    "video": "video/radioactif.webm"
   },
   {
     "key": "recherche",
     "label": "Recherche",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/recherche.webm"
+    "video": "video/recherche.webm"
   },
   {
     "key": "reims",
     "label": "Reims",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/reims.webm"
+    "video": "video/reims.webm"
   },
   {
     "key": "relation",
     "label": "Relation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/relation.webm"
+    "video": "video/relation.webm"
   },
   {
     "key": "rennes",
     "label": "Rennes",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/rennes.webm"
+    "video": "video/rennes.webm"
   },
   {
     "key": "responsable",
     "label": "Responsable",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/responsable.webm"
+    "video": "video/responsable.webm"
   },
   {
     "key": "restauration",
     "label": "Restauration",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/restauration.webm"
+    "video": "video/restauration.webm"
   },
   {
     "key": "revision",
     "label": "Révision",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/revision.webm"
+    "video": "video/revision.webm"
   },
   {
     "key": "rival",
     "label": "Rival",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/rival.webm"
+    "video": "video/rival.webm"
   },
   {
     "key": "roi",
     "label": "Roi",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/roi.webm"
+    "video": "video/roi.webm"
   },
   {
     "key": "role",
     "label": "Rôle",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/role.webm"
+    "video": "video/role.webm"
   },
   {
     "key": "rome",
     "label": "Rome",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/rome.webm"
+    "video": "video/rome.webm"
   },
   {
     "key": "roumanie",
     "label": "Roumanie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/roumanie.webm"
+    "video": "video/roumanie.webm"
   },
   {
     "key": "russie",
     "label": "Russie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/urss.webm"
+    "video": "video/urss.webm"
   },
   {
     "key": "saint_etienne",
     "label": "Saint Etienne",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/saint-etienne.webm"
+    "video": "video/saint-etienne.webm"
   },
   {
     "key": "sante",
     "label": "Santé",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sante.webm"
+    "video": "video/sante.webm"
   },
   {
     "key": "scanner",
     "label": "Scanner",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/scanner_medical.webm"
+    "video": "video/scanner_medical.webm"
   },
   {
     "key": "schizophrene",
     "label": "Schizophrène",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/schizophrene.webm"
+    "video": "video/schizophrene.webm"
   },
   {
     "key": "sculpture",
     "label": "Sculpture",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sculpture.webm"
+    "video": "video/sculpture.webm"
   },
   {
     "key": "secretariat",
     "label": "Secrétariat",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/secretaria.webm"
+    "video": "video/secretaria.webm"
   },
   {
     "key": "segregation",
     "label": "Ségrégation",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/segregation.webm"
+    "video": "video/segregation.webm"
   },
   {
     "key": "seisme",
     "label": "Séisme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/seisme.webm"
+    "video": "video/seisme.webm"
   },
   {
     "key": "selection",
     "label": "Sélection",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/selection2.webm"
+    "video": "video/selection2.webm"
   },
   {
     "key": "social",
     "label": "Social",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/social.webm"
+    "video": "video/social.webm"
   },
   {
     "key": "soigner",
     "label": "Soigner",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/soigner.webm"
+    "video": "video/soigner.webm"
   },
   {
     "key": "soldat",
     "label": "Soldat",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/soldat.webm"
+    "video": "video/soldat.webm"
   },
   {
     "key": "sous-titrage",
     "label": "Sous-Titrage",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sous_titrage.webm"
+    "video": "video/sous_titrage.webm"
   },
   {
     "key": "sport",
     "label": "Sport",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sport.webm"
+    "video": "video/sport.webm"
   },
   {
     "key": "statuts",
     "label": "Statuts",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/statuts.webm"
+    "video": "video/statuts.webm"
   },
   {
     "key": "strasbourg",
     "label": "Strasbourg",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/strasbourg.webm"
+    "video": "video/strasbourg.webm"
   },
   {
     "key": "subvention",
     "label": "Subvention",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/subvention.webm"
+    "video": "video/subvention.webm"
   },
   {
     "key": "suede",
     "label": "Suède",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/suede.webm"
+    "video": "video/suede.webm"
   },
   {
     "key": "symbole",
     "label": "Symbole",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/symbole.webm"
+    "video": "video/symbole.webm"
   },
   {
     "key": "sympathie",
     "label": "Sympathie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/sympathie.webm"
+    "video": "video/sympathie.webm"
   },
   {
     "key": "syndicat",
     "label": "Syndicat",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/syndicat.webm"
+    "video": "video/syndicat.webm"
   },
   {
     "key": "tarif",
     "label": "Tarif",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/tarif.webm"
+    "video": "video/tarif.webm"
   },
   {
     "key": "taxe",
     "label": "Taxe",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/taxe.webm"
+    "video": "video/taxe.webm"
   },
   {
     "key": "technique",
     "label": "Technique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/technique.webm"
+    "video": "video/technique.webm"
   },
   {
     "key": "telecommunications",
     "label": "Télécommunications",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/telecommunication.webm"
+    "video": "video/telecommunication.webm"
   },
   {
     "key": "television",
     "label": "Télévision",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/television.webm"
+    "video": "video/television.webm"
   },
   {
     "key": "terre",
     "label": "Terre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/terre.webm"
+    "video": "video/terre.webm"
   },
   {
     "key": "theatre",
     "label": "Théâtre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/theatre.webm"
+    "video": "video/theatre.webm"
   },
   {
     "key": "theorie",
     "label": "Théorie",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/theorie.webm"
+    "video": "video/theorie.webm"
   },
   {
     "key": "thermometre",
     "label": "Thermomètre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/thermometre1.webm"
+    "video": "video/thermometre1.webm"
   },
   {
     "key": "timbre",
     "label": "Timbre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/timbre.webm"
+    "video": "video/timbre.webm"
   },
   {
     "key": "toulouse",
     "label": "Toulouse",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/toulouse.webm"
+    "video": "video/toulouse.webm"
   },
   {
     "key": "tourisme",
     "label": "Tourisme",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/tourisme.webm"
+    "video": "video/tourisme.webm"
   },
   {
     "key": "tours",
     "label": "Tours",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/tours.webm"
+    "video": "video/tours.webm"
   },
   {
     "key": "toxique",
     "label": "Toxique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/toxique.webm"
+    "video": "video/toxique.webm"
   },
   {
     "key": "trajectoire",
     "label": "Trajectoire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/trajectoire.webm"
+    "video": "video/trajectoire.webm"
   },
   {
     "key": "transport",
     "label": "Transport",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/transport.webm"
+    "video": "video/transport.webm"
   },
   {
     "key": "trimestre",
     "label": "Trimestre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/trimestre.webm"
+    "video": "video/trimestre.webm"
   },
   {
     "key": "trophee",
     "label": "Trophée",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/trophee.webm"
+    "video": "video/trophee.webm"
   },
   {
     "key": "typique",
     "label": "Typique",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/typique.webm"
+    "video": "video/typique.webm"
   },
   {
     "key": "usine",
     "label": "Usine",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/usine.webm"
+    "video": "video/usine.webm"
   },
   {
     "key": "vaccination",
     "label": "Vaccination",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vaccination.webm"
+    "video": "video/vaccination.webm"
   },
   {
     "key": "vaincre",
     "label": "Vaincre",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vaincre.webm"
+    "video": "video/vaincre.webm"
   },
   {
     "key": "vallee",
     "label": "Vallée",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vallee.webm"
+    "video": "video/vallee.webm"
   },
   {
     "key": "vanite",
     "label": "Vanité",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vanite.webm"
+    "video": "video/vanite.webm"
   },
   {
     "key": "verglas",
     "label": "Verglas",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/verglas.webm"
+    "video": "video/verglas.webm"
   },
   {
     "key": "vibration",
     "label": "Vibration",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/vibration.webm"
+    "video": "video/vibration.webm"
   },
   {
     "key": "victoire",
     "label": "Victoire",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/victoire.webm"
+    "video": "video/victoire.webm"
   },
   {
     "key": "ville",
     "label": "Ville",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/ville.webm"
+    "video": "video/ville.webm"
   },
   {
     "key": "virus",
     "label": "Virus",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/virus.webm"
+    "video": "video/virus.webm"
   },
   {
     "key": "voir",
     "label": "Voir",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/voir.webm"
+    "video": "video/voir.webm"
   },
   {
     "key": "zoo",
     "label": "Zoo",
-    "video":
-      "https://raw.githubusercontent.com/edouard-lopez/lsf/master/src/assets/video/zoo.webm"
+    "video": "video/zoo.webm"
   }
 ]
