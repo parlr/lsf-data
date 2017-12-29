@@ -5,9 +5,7 @@
 # USAGE
 #   bash -x ./scripts/split.bash "$video" ["$timing"]
 
-INPUT_FILE="$1"   # video file to split
-
-full_path="$1"
+full_path="$1" # video file to split
 directory_path="${full_path%/*}"
 filename="${full_path##*/}"
 extension="${full_path##*.}"
@@ -22,7 +20,7 @@ extract_timing_from_subtitles() {
 
 extract_and_encode_word_chunk() {
   ffmpeg -y \
-    -i "$INPUT_FILE" \
+    -i "$full_path" \
     -ss "$start" \
     -to "$end" \
     -vf scale=640x480 \
