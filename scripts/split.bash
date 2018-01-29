@@ -19,19 +19,32 @@ extract_timing_from_subtitles() {
 }
 
 extract_and_encode_word_chunk() {
+  local start
+  start="$1"
+  local end
+  end="$2"
+
+  # Recommended Settings for VP9 by Google
+  # https://developers.google.com/media/vp9/settings/vod/
+  local args
+  args=(
+    -r 14  # framerate
+    -vf scale=640x480
+    -b:v 512k
+    -minrate 256k
+    -maxrate 742k
+    -quality good
+    -speed 4
+    -crf 37  # maximum quality level.
+    -c:v libvpx-vp9  # video codec
+    -loglevel error
+)
+
   ffmpeg -y \
     -i "$full_path" \
     -ss "$start" \
     -to "$end" \
-    -vf scale=640x480 \
-    -b:v 512k \
-    -minrate 256k \
-    -maxrate 742k \
-    -quality good \
-    -speed 4 \
-    -crf 37 \
-    -c:v libvpx-vp9 \
-    -loglevel error \
+    "${args[@]}" \
     "$chunk.webm" < /dev/null
 }
 

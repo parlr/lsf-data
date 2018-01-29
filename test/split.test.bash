@@ -43,10 +43,10 @@ teardown() {
   # shellcheck disable=SC2034
   chunk='bonjour'
 
-  run extract_and_encode_word_chunk
+  run extract_and_encode_word_chunk '0:00:00.00' '0:00:01.00'
 
   spy="${lines[0]}"
-  assert_equal "$spy" "ffmpeg -y -i ./.tmp/fake.mkv -ss  -to  -vf scale=640x480 -b:v 512k -minrate 256k -maxrate 742k -quality good -speed 4 -crf 37 -c:v libvpx-vp9 -loglevel error bonjour.webm"
+  assert_equal "$spy" "ffmpeg -y -i ./.tmp/fake.mkv -ss 0:00:00.00 -to 0:00:01.00 -r 14 -vf scale=640x480 -b:v 512k -minrate 256k -maxrate 742k -quality good -speed 4 -crf 37 -c:v libvpx-vp9 -loglevel error bonjour.webm"
 }
 
 @test 'extract clip from video' {
@@ -59,7 +59,7 @@ teardown() {
   # shellcheck disable=SC2034
   end='0:00:00.10'
 
-  run extract_and_encode_word_chunk
+  run extract_and_encode_word_chunk '0:00:00.00' '0:00:01.00'
 
   echo $output
   assert_file_exist './.tmp/paris.webm'
