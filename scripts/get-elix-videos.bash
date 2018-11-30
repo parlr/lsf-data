@@ -1,0 +1,115 @@
+#!/usr/bin/env bash
+videos=(
+    /7/75/Achat_Nm_1_1_1_-_Elix.ogv/Achat_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /a/a4/Alasaintglinglin_Adv_1_1_-_Elix.ogv/Alasaintglinglin_Adv_1_1_-_Elix.ogv.480p.vp9.webm
+    /1/18/Ame_Nf_2_2_1_-_Elix.ogv/Ame_Nf_2_2_1_-_Elix.ogv.480p.vp9.webm
+    /7/7e/Analogie_Nf_1_2_1_-_Elix.ogv/Analogie_Nf_1_2_1_-_Elix.ogv.480p.vp9.webm
+    /4/4a/Appetit_Nm_1_1_1_-_Elix.ogv/Appetit_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /a/a6/Archipel_Nm_1_2_1_-_Elix.ogv/Archipel_Nm_1_2_1_-_Elix.ogv.480p.vp9.webm
+    /3/37/Bapteme_Nm_2_1_1_-_Elix.ogv/Bapteme_Nm_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /b/be/Barbele_Adj_1_1_1_-_Elix.ogv/Barbele_Adj_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /f/f4/Blouse_Nf_2_1_1_-_Elix.ogv/Blouse_Nf_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /a/a6/Bobine_Nf_2_1_1_-_Elix.ogv/Bobine_Nf_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /9/98/Bonjour_Nm_1_1_1_-_Elix.ogv/Bonjour_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /7/70/Boudin_Nm_1_1_1_-_Elix.ogv/Boudin_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /8/8f/Caducee_Nm_1_2_1_-_Elix.ogv/Caducee_Nm_1_2_1_-_Elix.ogv.480p.vp9.webm
+    /0/02/Canal_N_1_1_1_-_Elix.ogv/Canal_N_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /1/12/Canicule_Nf_1_1_1_-_Elix.ogv/Canicule_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /d/d4/Champ_Nm_1_1_1_-_Elix.ogv/Champ_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /0/03/Champignon_Nm_1_1_1_-_Elix.ogv/Champignon_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /3/3c/Champion_Nm_1_1_1_-_Elix.ogv/Champion_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /3/3d/Chance_Nf_1_1_1_-_Elix.ogv/Chance_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /7/7c/Chapeau_Nm_2_1_1_-_Elix.ogv/Chapeau_Nm_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /5/5b/Charbon_Nm_1_1_1_-_Elix.ogv/Charbon_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /f/ff/Charcutier_Nm_1_1_1_-_Elix.ogv/Charcutier_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /8/84/Chariot_N_1_1_1_-_Elix.ogv/Chariot_N_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /4/48/Charpente_Nf_1_1_1_-_Elix.ogv/Charpente_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /b/b3/Chateau_Nm_1_1_1_-_Elix.ogv/Chateau_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /f/f2/Chaussette_Nf_1_1_1_-_Elix.ogv/Chaussette_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /d/da/Chaussure_Nf_1_1_1_-_Elix.ogv/Chaussure_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /a/a0/Chauve-souris_Nf_1_1_1_-_Elix.ogv/Chauve-souris_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /d/d2/Chemin_Nm_1_1_1_-_Elix.ogv/Chemin_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /e/ed/Circuit_N_1_1_1_-_Elix.ogv/Circuit_N_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /c/ce/Citron_Nm_1_1_1_-_Elix.ogv/Citron_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /1/13/Civil_Nm_1_1_1_-_Elix.ogv/Civil_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /4/4f/Clochard_Nm_1_1_1_-_Elix.ogv/Clochard_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /c/c5/Cloche_Nf_1_1_1_-_Elix.ogv/Cloche_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /3/37/Cloture_Nf_1_1_1_-_Elix.ogv/Cloture_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /d/dd/Clou_Nm_1_1_1_-_Elix.ogv/Clou_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /9/9a/Clown_Nm_1_1_1_-_Elix.ogv/Clown_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /7/71/Cochon_Nm_1_1_1_-_Elix.ogv/Cochon_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /5/5e/Coco_Nm_6_1_1_-_Elix.ogv/Coco_Nm_6_1_1_-_Elix.ogv.480p.vp9.webm
+    /1/16/Cocon_Nm_1_2_1_-_Elix.ogv/Cocon_Nm_1_2_1_-_Elix.ogv.480p.vp9.webm
+    /8/8f/Coffre_Nm_1_1_1_-_Elix.ogv/Coffre_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /2/2b/Col_Nm_2_1_1_-_Elix.ogv/Col_Nm_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /6/66/Colere_Nf_1_1_1_-_Elix.ogv/Colere_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /f/fb/Collant_Nm_1_1_1_-_Elix.ogv/Collant_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /1/1e/College_Nm_2_1_1_-_Elix.ogv/College_Nm_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /9/90/Collier_Nm_2_1_1_-_Elix.ogv/Collier_Nm_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /0/08/Colline_Nf_1_1_1_-_Elix.ogv/Colline_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /e/eb/Colonie_Nf_6_1_1_-_Elix.ogv/Colonie_Nf_6_1_1_-_Elix.ogv.480p.vp9.webm
+    /4/49/Comique_Nm_1_1_11_-_Elix.ogv/Comique_Nm_1_1_11_-_Elix.ogv.480p.vp9.webm
+    /1/13/Communaute_Nf_2_1_1_-_Elix.ogv/Communaute_Nf_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /4/43/Coq_Nm_1_1_1_-_Elix.ogv/Coq_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /e/e8/Coquillage_Nm_1_1_1_-_Elix.ogv/Coquillage_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /3/37/Cordonnier_Nm_1_1_1_-_Elix.ogv/Cordonnier_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /b/b8/Corne_Nf_1_1_1_-_Elix.ogv/Corne_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /4/42/Cornichon_Nm_1_1_1_-_Elix.ogv/Cornichon_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /1/1c/Coton_Nm_1_1_1_-_Elix.ogv/Coton_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /1/1a/Couche_Nf_2_1_1_-_Elix.ogv/Couche_Nf_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /a/aa/Coude_Nm_1_1_1_-_Elix.ogv/Coude_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /8/84/Couette_N_1_1_1_-_Elix.ogv/Couette_N_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /8/89/Couloir_Nm_1_1_1_-_Elix.ogv/Couloir_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /8/81/Couple_Nm_1_1_1_-_Elix.ogv/Couple_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /4/44/Cour_Nf_1_1_1_-_Elix.ogv/Cour_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /1/11/Courgette_Nf_1_1_1_-_Elix.ogv/Courgette_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /a/a2/Couronne_Nf_1_1_1_-_Elix.ogv/Couronne_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /3/3e/Course_Nf_1_1_1_-_Elix.ogv/Course_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /8/8e/Couscous_Nm_1_1_1_-_Elix.ogv/Couscous_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /2/28/Cousin_Nm_2_1_1_-_Elix.ogv/Cousin_Nm_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /a/a9/Couteau_Nm_1_1_1_-_Elix.ogv/Couteau_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /4/40/Couvercle_Nm_1_1_1_-_Elix.ogv/Couvercle_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /4/42/Couverture_Nf_1_1_1_-_Elix.ogv/Couverture_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /c/c0/Crabe_Nm_1_1_1_-_Elix.ogv/Crabe_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /d/d9/Craie_Nf_2_1_1_-_Elix.ogv/Craie_Nf_2_1_1_-_Elix.ogv.480p.vp9.webm
+    /1/16/Crampe_Nf_1_1_1_-_Elix.ogv/Crampe_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /d/d1/Cravate_Nf_1_1Mp4_1_-_Elix.ogv/Cravate_Nf_1_1Mp4_1_-_Elix.ogv.480p.vp9.webm
+    /a/a3/Crepe_Nf_1_1_1_-_Elix.ogv/Crepe_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /2/27/Crevette_Nf_1_1_1_-_Elix.ogv/Crevette_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /d/dc/Crochet_Nm_1_1_1_-_Elix.ogv/Crochet_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /8/89/Crocodile_Nm_1_1_1_-_Elix.ogv/Crocodile_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /5/57/Croissant_Nm_1_1_1_-_Elix.ogv/Croissant_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /9/98/Croix_Nf_3_1_1_-_Elix.ogv/Croix_Nf_3_1_1_-_Elix.ogv.480p.vp9.webm
+    /c/c2/Cuir_Nm_1_1_1_-_Elix.ogv/Cuir_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /b/b5/Culotte_Nf_1_1_1_-_Elix.ogv/Culotte_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /a/a2/Dactylologie_Nf_1_1_1_-_Elix.ogv/Dactylologie_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /5/54/De_Nm_1_1_1_-_Elix.ogv/De_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /7/71/Decembre_Nm_1_1_1_-_Elix.ogv/Decembre_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /f/f9/Dentiste_Nm_1_1_1_-_Elix.ogv/Dentiste_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /6/60/Departement_Nm_1_1_1_-_Elix.ogv/Departement_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /5/51/Fraise_Nf_2_2_1_-_Elix.ogv/Fraise_Nf_2_2_1_-_Elix.ogv.480p.vp9.webm
+    /2/2e/Griffe_Nf_1_1_1_-_Elix.ogv/Griffe_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /f/fe/Hemorragie_Nf_1_1_1_-_Elix.ogv/Hemorragie_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /d/de/Lapin_Nm_1_2_1_-_Elix.ogv/Lapin_Nm_1_2_1_-_Elix.ogv.480p.vp9.webm
+    /5/53/Liaison_Nf_1_1_1_-_Elix.ogv/Liaison_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /b/bd/Librairie_Nf_1_1_1_-_Elix.ogv/Librairie_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /8/8d/Media_Nm_1_1_1_-_Elix.ogv/Media_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /c/cd/Nourriture_Nm_1_1_1_-_Elix.ogv/Nourriture_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /3/3d/Nuage_Nm_1_1_1_-_Elix.ogv/Nuage_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /a/a4/Reseau_Nm_2_2_1_-_Elix.ogv/Reseau_Nm_2_2_1_-_Elix.ogv.480p.vp9.webm
+    /2/27/Reseaulocal_Nm_1_1_1_-_Elix.ogv/Reseaulocal_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /d/d0/Tabou_Nm_1_1_1_-_Elix.ogv/Tabou_Nm_1_1_1_-_Elix.ogv.480p.vp9.webm
+    /0/09/Tachycardie_Nf_1_1_1_-_Elix.ogv/Tachycardie_Nf_1_1_1_-_Elix.ogv.480p.vp9.webm
+)
+
+target_directory="./video/elix/"
+mkdir "$target_directory"
+
+for video in "${videos[@]}"; do
+    filename="${video##*/}"
+    # shellcheck disable=SC2206
+    mot=(${filename//_/ })
+    new_filename="${mot[0],,}.${mot[1]}".webm
+    echo "$new_filename"
+    wget --quiet --continue --output-document="$target_directory/$new_filename" "https://upload.wikimedia.org/wikipedia/commons/transcoded/$video"
+done
