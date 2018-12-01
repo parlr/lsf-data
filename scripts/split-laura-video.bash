@@ -14,9 +14,17 @@ input_data_path="$directory_path/${filename/.$extension/.ass}"
 output_directory_path="./raw"
 
 extract_timing_from_subtitles() {
-  awk 'BEGIN{FS=","} /Dialogue/{print $2" "$3" "$10}' \
-     "$input_data_path" \
-   > "$timing_path"
+  awk -f <(cat - <<-'EOD'
+    BEGIN{FS=","} 
+    /Dialogue/{
+      output=$2" "$3" "$10; 
+      for (field=11; field<=NF; field++) {
+        output=output","$field
+      }; 
+      print output
+    }
+EOD
+) "$input_data_path" > "$timing_path"
 }
 
 extract_and_encode_word_chunk() {

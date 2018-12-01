@@ -37,6 +37,17 @@ teardown() {
   assert_equal "$(cut -f3 -d ' ' "$timing_path")" 'bonjour'
 }
 
+@test "extract multiple words" {
+  input_data_path=./.tmp/fake.ass
+  run bash -c "echo 'Dialogue: 0,0:12:15.01,0:12:17.36,Default,,0,0,0,,son, sa, ses, leurs' > $input_data_path"
+
+  run extract_timing_from_subtitles
+
+  assert_equal "$(cut -f1 -d ' ' "$timing_path")" '0:12:15.01'
+  assert_equal "$(cut -f2 -d ' ' "$timing_path")" '0:12:17.36'
+  assert_equal "$(cut -f3- -d ' ' "$timing_path")" 'son, sa, ses, leurs'
+}
+
 @test 'call ffmpeg with correct arguments' {
   ffmpeg() { echo "ffmpeg $*"; exit; }  # mock
   export -f ffmpeg
