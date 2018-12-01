@@ -50,6 +50,7 @@ extract_and_encode_word_chunk() {
 
 split_video() {
   while read -r start end mot; do
+    echo "Extracting: $mot"
     chunk="$directory_path/$start.$mot.$extension"
 
     extract_and_encode_word_chunk "${start}" "${end}"
