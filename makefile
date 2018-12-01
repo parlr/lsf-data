@@ -26,8 +26,8 @@ split-video-2:
 	extract_timing_from_subtitles; \
 	split_video
 
-build:
-	bash ./scripts/build.bash
+build: split-video
+	bash ./scripts/raw-to-production.bash
 
 update:
 	git submodule update --init --recursive
