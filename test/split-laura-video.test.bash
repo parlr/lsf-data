@@ -1,9 +1,9 @@
-#!./test/libs/bats/bin/bats
+#!/usr/bin/env bats
 
 load 'libs/bats-support/load'
 load 'libs/bats-assert/load'
 load 'libs/bats-file/load'
-load '../scripts/split'
+load '../scripts/split-laura-video'
 
 setup() {
   full_path=./.tmp/fake.mkv

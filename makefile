@@ -17,12 +17,12 @@ test:
 split-video: split_video-1 split_video-2
 
 split-video-1:
-	source ./scripts/split.bash ./"raw/partie 1"*.hd.mkv; \
+	source ./scripts/split-laura-video.bash ./"raw/partie 1"*.hd.mkv; \
 	extract_timing_from_subtitles; \
 	split_video
 
 split-video-2:
-	source ./scripts/split.bash ./"raw/partie 2"*.hd.mkv; \
+	source ./scripts/split-laura-video.bash ./"raw/partie 2"*.hd.mkv; \
 	extract_timing_from_subtitles; \
 	split_video
 

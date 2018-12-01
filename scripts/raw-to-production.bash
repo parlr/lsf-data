@@ -32,7 +32,7 @@ function add_word() {
   },
 JSON
   )
-  echo $json >> "$vocabulaire"
+  echo "$json" >> "$vocabulaire"
 }
 
 function move_video() {

@@ -1,4 +1,4 @@
-#!./test/libs/bats/bin/bats
+#!/usr/bin/env bats
 
 load 'libs/bats-support/load'
 load 'libs/bats-assert/load'
@@ -15,10 +15,10 @@ teardown() {
 
 @test "require at least one argument" {
   run check_arguments
-  (( $status == 1 ))
+  (( status == 1 ))
 
   run check_arguments "fake"
-  (( $status == 0 ))
+  (( status == 0 ))
 }
 # @test "set vocabulaire and files" {
 #   run check_arguments "subtitle-file.ass"

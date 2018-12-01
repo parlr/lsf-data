@@ -3,7 +3,7 @@
 # REQUIREMENT:
 #   sudo apt install --yes ffmpeg libav-tools
 # USAGE
-#   bash -x ./scripts/split.bash "$video" ["$timing"]
+#   bash -x ./scripts/split-laura-video.bash "$video" ["$timing"]
 
 full_path="$1" # video file to split
 directory_path="${full_path%/*}"
