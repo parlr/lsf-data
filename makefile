@@ -14,8 +14,6 @@ install: update
 test:
 	${BATS} --pretty ./test/*.test.bash
 
-split-video: split_video-1 split_video-2
-
 split-video-1:
 	source ./scripts/split-laura-video.bash ./"raw/partie 1"*.hd.mkv; \
 	extract_timing_from_subtitles; \
@@ -26,7 +24,9 @@ split-video-2:
 	extract_timing_from_subtitles; \
 	split_video
 
-build: split-video
+split-videos: split-video-1 split-video-2
+
+build: split-videos
 	bash ./scripts/raw-to-production.bash
 
 update:
