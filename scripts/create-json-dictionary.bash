@@ -7,7 +7,7 @@
 
 # set -x
 JSON_FILE="${JSON_FILE:=vocabulaire.json}"
-PATTERN_TO_INDEX="${PATTERN_TO_INDEX:="./video/*.webm"}"
+PATTERN_TO_INDEX="${PATTERN_TO_INDEX:="./videos/*.webm"}"
 IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 
 function begin_dictionary() {
@@ -25,7 +25,7 @@ function add_word() {
   {
     "key": "${key}",
     "label": "${mot}",
-    "video": "video/${mot}.webm"
+    "video": "videos/${mot}.webm"
   },
 JSON
   )

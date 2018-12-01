@@ -49,7 +49,7 @@ teardown() {
   {
     "key": "bonjour",
     "label": "bonjour",
-    "video": "video/bonjour.webm"
+    "video": "videos/bonjour.webm"
   },
 MOT
 )
@@ -66,7 +66,7 @@ MOT
   {
     "key": "eaaio",
     "label": "éàäio",
-    "video": "video/éàäio.webm"
+    "video": "videos/éàäio.webm"
   },
 MOT
 )

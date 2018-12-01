@@ -3,7 +3,7 @@
 # REQUIREMENT:
 #   sudo apt install --yes ffmpeg libav-tools
 # USAGE
-#   bash -x ./scripts/split-laura-video.bash "$video" ["$timing"]
+#   bash -x ./scripts/split-laura-video.bash "$path/to/videos" ["$timing"]
 
 full_path="$1" # video file to split
 directory_path="${full_path%/*}"
@@ -11,6 +11,7 @@ filename="${full_path##*/}"
 extension="${full_path##*.}"
 timing_path="${2:-$directory_path/$filename.tsv}"   # timing, as: mot  start_time end_time
 input_data_path="$directory_path/${filename/.$extension/.ass}"
+output_directory_path="./raw"
 
 extract_timing_from_subtitles() {
   awk 'BEGIN{FS=","} /Dialogue/{print $2" "$3" "$10}' \
@@ -51,7 +52,7 @@ extract_and_encode_word_chunk() {
 split_video() {
   while read -r start end mot; do
     echo "Extracting: $mot"
-    chunk="$directory_path/$start.$mot.$extension"
+    chunk="$output_directory_path/$start.$mot.$extension"
 
     extract_and_encode_word_chunk "${start}" "${end}"
   done < "$timing_path"

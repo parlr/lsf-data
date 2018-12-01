@@ -5,10 +5,10 @@
 # USAGE
 #   bash ./raw-to-production.bash glob
 
-PATTERN_TO_MOVE="../video/*.webm"
+PATTERN_TO_MOVE="../videos/*.webm"
 
 function move_video() {
-    local new_directory_path="${directory_path/raw/video}"
+    local new_directory_path="${directory_path/raw/videos}"
     local new_filepath="$new_directory_path/$new_filename"
 
     # git mv "$filepath" "$new_filepath"
