@@ -28,4 +28,4 @@ function update_videos() {
   done
 }
 
-[[ -z $RUNNING_TESTS ]] && update_videos
+if [[ $IS_RUNNING_TESTS == false ]]; then update_videos; fi
