@@ -3,61 +3,29 @@
 #   Create JSON dictionary and move file to production directy
 #
 # USAGE
-#   bash ./raw-to-production.bash subtitle-file [glob]
+#   bash ./raw-to-production.bash glob
 
-WITH_ERROR=1
-
-function check_arguments() {
-  if [[ -z $1 ]]; then exit $WITH_ERROR; fi
-  vocabulaire="${1%.*}.json"
-  files=${2:-./raw/*.webm}
-}
-
-function begin_dictionary() {
-  echo '[' > "$vocabulaire"
-}
-function end_dictionary() {
-  sed -i '$ s/.$/\n]/' "$vocabulaire"
-}
-
-function add_word() {
-  local mot="$1"
-
-  key="$(echo "$mot" | iconv -f UTF-8 -t ASCII//TRANSLIT | sed 's!\s!-!g')"
-  json=$(cat <<-JSON
-  {
-    "key": "${key}",
-    "label": "${mot}",
-    "video": "video/${mot}.webm"
-  },
-JSON
-  )
-  echo "$json" >> "$vocabulaire"
-}
+PATTERN_TO_MOVE="../video/*.webm"
 
 function move_video() {
-    new_directory_path="${directory_path/raw/video}"
+    local new_directory_path="${directory_path/raw/video}"
     local new_filepath="$new_directory_path/$new_filename"
 
     # git mv "$filepath" "$new_filepath"
     echo "$filepath" "$new_filepath"
 }
-function fill_dictionary() {
-  for filepath in $files; do
-    directory_path="${filepath%/*}"
-    filename="${filepath##*/}"
 
-    drop_mkv_extension="${filename/.mkv/}"
-    drop_timing="${drop_mkv_extension#*.}"
-    new_filename=${drop_timing:3}
-    mot="${new_filename%.*}"
+function update_videos() {
+  for filepath in $PATTERN_TO_MOVE; do
+    local directory_path="${filepath%/*}"
+    local filename="${filepath##*/}"
 
-    add_word "$mot"
+    local drop_mkv_extension="${filename/.mkv/}"
+    local drop_timing="${drop_mkv_extension#*.}"
+    local new_filename=${drop_timing:3}
+
     move_video "$directory_path" "$new_filename"
   done
 }
 
-# check_arguments "$1" "$2"
-# begin_dictionary "$vocabulaire"
-# fill_dictionary "$files"
-# end_dictionary "$vocabulaire"
+[[ -z $RUNNING_TESTS ]] && update_videos
