@@ -5,7 +5,7 @@ load 'libs/bats-assert/load'
 load 'libs/bats-file/load'
 
 export JSON_FILE=./test/.tmp/vocabulaire.json  # same variable name as tested file
-export PATTERN_TO_INDEX="./test/.tmp/*.webm"
+export FILES_TO_INDEX="./test/.tmp/*.webm"
 export IS_RUNNING_TESTS=true
 load '../scripts/create-json-dictionary'
 

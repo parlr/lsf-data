@@ -27,6 +27,8 @@ split-video-2:
 split-videos: split-video-1 split-video-2
 
 build: split-videos
+	bash ./scripts/convert-videos.bash
+	bash ./scripts/create-json-dictionary.bash
 	bash ./scripts/raw-to-production.bash
 
 update:

@@ -7,7 +7,7 @@
 
 # set -x
 JSON_FILE="${JSON_FILE:=vocabulaire.json}"
-PATTERN_TO_INDEX="${PATTERN_TO_INDEX:="./videos/*.webm"}"
+FILES_TO_INDEX="${FILES_TO_INDEX:="./videos/*.webm"}"
 IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 
 function begin_dictionary() {
@@ -33,7 +33,7 @@ JSON
 }
 
 function fill_dictionary() {
-    for filepath in $PATTERN_TO_INDEX; do
+    for filepath in $FILES_TO_INDEX; do
         local filename="${filepath##*/}"
         local drop_mkv_extension="${filename/.mkv/}"
 
@@ -46,7 +46,7 @@ function fill_dictionary() {
 
 function create_json_dictionary() {
     begin_dictionary "$JSON_FILE"
-    fill_dictionary "$PATTERN_TO_INDEX"
+    fill_dictionary "$FILES_TO_INDEX"
     end_dictionary "$JSON_FILE"
 }
 

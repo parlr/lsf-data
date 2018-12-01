@@ -5,13 +5,12 @@
 # USAGE
 #   bash -x ./scripts/split-laura-video.bash "$path/to/videos" ["$timing"]
 
-full_path="$1" # video file to split
-directory_path="${full_path%/*}"
-filename="${full_path##*/}"
-extension="${full_path##*.}"
+SOURCE_VIDEO_FILE="$1" # video file to split
+directory_path="${SOURCE_VIDEO_FILE%/*}"
+filename="${SOURCE_VIDEO_FILE##*/}"
+extension="${SOURCE_VIDEO_FILE##*.}"
 timing_path="${2:-$directory_path/$filename.tsv}"   # timing, as: mot  start_time end_time
 input_data_path="$directory_path/${filename/.$extension/.ass}"
-output_directory_path="./raw"
 
 extract_timing_from_subtitles() {
   awk -f <(cat - <<-'EOD'
@@ -27,41 +26,33 @@ EOD
 ) "$input_data_path" > "$timing_path"
 }
 
-extract_and_encode_word_chunk() {
-  local start
-  start="$1"
-  local end
-  end="$2"
+extract_word_chunk() {
+  local target_file="$1"
+  local start="$2"
+  local end="$3"
 
   # Recommended Settings for VP9 by Google
   # https://developers.google.com/media/vp9/settings/vod/
   local args
   args=(
-    -r 14  # framerate
-    -vf scale=640x480
-    -b:v 512k
-    -minrate 256k
-    -maxrate 742k
-    -quality good
-    -speed 4
-    -crf 37  # maximum quality level.
-    -c:v libvpx-vp9  # video codec
+    -acodec copy
+    -vcodec copy
     -loglevel error
-)
+  )
 
   ffmpeg -y \
-    -i "$full_path" \
+    -i "$SOURCE_VIDEO_FILE" \
     -ss "$start" \
     -to "$end" \
     "${args[@]}" \
-    "$chunk.webm" < /dev/null
+    "$target_file" < /dev/null
 }
 
 split_video() {
   while read -r start end mot; do
     echo "Extracting: $mot"
-    chunk="$output_directory_path/$start.$mot.$extension"
 
-    extract_and_encode_word_chunk "${start}" "${end}"
+    target_file="raw/$start.$mot.mkv"
+    extract_word_chunk "$target_file" "${start}" "${end}"
   done < "$timing_path"
 }

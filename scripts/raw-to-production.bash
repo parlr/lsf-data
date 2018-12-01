@@ -5,7 +5,7 @@
 # USAGE
 #   bash ./raw-to-production.bash glob
 
-PATTERN_TO_MOVE="../videos/*.webm"
+FILES_TO_MOVE="../videos/*.webm"
 
 function move_video() {
     local new_directory_path="${directory_path/raw/videos}"
@@ -16,7 +16,7 @@ function move_video() {
 }
 
 function update_videos() {
-  for filepath in $PATTERN_TO_MOVE; do
+  for filepath in $FILES_TO_MOVE; do
     local directory_path="${filepath%/*}"
     local filename="${filepath##*/}"
 

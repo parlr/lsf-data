@@ -3,13 +3,10 @@
 load 'libs/bats-support/load'
 load 'libs/bats-assert/load'
 load 'libs/bats-file/load'
+export IS_RUNNING_TESTS=true
 load '../scripts/split-laura-video'
 
 setup() {
-  full_path=./.tmp/fake.mkv
-  directory_path=./.tmp
-  filename=fake.mkv
-  extension=mkv
   timing_path=./.tmp/fake.tsv
 
   mkdir --parents ./.tmp
@@ -17,7 +14,7 @@ setup() {
 
 teardown() {
   rm --force --recursive "$directory_path"
-  # echo
+  echo
 }
 
 @test "create timing file" {
@@ -51,27 +48,17 @@ teardown() {
 @test 'call ffmpeg with correct arguments' {
   ffmpeg() { echo "ffmpeg $*"; exit; }  # mock
   export -f ffmpeg
-  # shellcheck disable=SC2034
-  chunk='bonjour'
 
-  run extract_and_encode_word_chunk '0:00:00.00' '0:00:01.00'
+  full_path=./test/paris.mkv
+  run extract_word_chunk 'raw/0:00:00.00.fake.mkv' '0:00:00.00' '0:00:01.00'
 
   spy="${lines[0]}"
-  assert_equal "$spy" "ffmpeg -y -i ./.tmp/fake.mkv -ss 0:00:00.00 -to 0:00:01.00 -r 14 -vf scale=640x480 -b:v 512k -minrate 256k -maxrate 742k -quality good -speed 4 -crf 37 -c:v libvpx-vp9 -loglevel error bonjour.webm"
+  assert_equal "$spy" "ffmpeg -y -i ./test/paris.mkv -ss 0:00:00.00 -to 0:00:01.00 -acodec copy -vcodec copy -loglevel error raw/0:00:00.00.fake.mkv"
 }
 
 @test 'extract clip from video' {
-  # shellcheck disable=SC2034
-  chunk="$directory_path/paris"
-  # shellcheck disable=SC2034
-  full_path=test/paris.mkv
-  # shellcheck disable=SC2034
-  start='0:00:00.00'
-  # shellcheck disable=SC2034
-  end='0:00:00.10'
+  full_path=./test/paris.mkv
+  run extract_word_chunk 'raw/0:00:00.00.paris.mkv' '0:00:00.00' '0:00:01.00'
 
-  run extract_and_encode_word_chunk '0:00:00.00' '0:00:01.00'
-
-  echo $output
-  assert_file_exist './.tmp/paris.webm'
+  assert_file_exist './raw/0:00:00.00.paris.mkv'
 }
