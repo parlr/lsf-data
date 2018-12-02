@@ -27,5 +27,6 @@ build:
 	time bash ./scripts/encode-videos.bash
 	time bash ./scripts/create-json-dictionary.bash
 
-update:
-	git submodule update --init --recursive
+update-dictionary:
+	bash ./scripts/create-json-dictionary.bash
+
