@@ -48,29 +48,12 @@ teardown() {
   entry=$(cat <<-MOT
   {
     "key": "bonjour",
-    "label": "bonjour",
     "video": "videos/bonjour.webm"
   },
 MOT
 )
 
   run add_word "bonjour"
-
-  content=$(cat $JSON_FILE)
-  assert_equal "$content" "$entry" 
-}
-
-@test "translit key" {
-  touch "$JSON_FILE"
-  entry=$(cat <<-MOT
-  {
-    "key": "eaaio",
-    "label": "éàäio",
-    "video": "videos/éàäio.webm"
-  },
-MOT
-)
-  run add_word "éàäio"
 
   content=$(cat $JSON_FILE)
   assert_equal "$content" "$entry" 
@@ -83,6 +66,7 @@ MOT
   
   run fill_dictionary
 
-  assert_equal "$(grep --count paris "$JSON_FILE")" 3 
-  assert_equal "$(grep --count bordeaux "$JSON_FILE")" 3 
+  FIELD_IN_OBJECT=2
+  assert_equal "$(grep --count paris "$JSON_FILE")" $FIELD_IN_OBJECT 
+  assert_equal "$(grep --count bordeaux "$JSON_FILE")" $FIELD_IN_OBJECT 
 }

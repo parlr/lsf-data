@@ -20,11 +20,9 @@ function end_dictionary() {
 function add_word() {
   local mot="$1"
     
-  key="$(echo "$mot" | iconv -f UTF-8 -t ASCII//TRANSLIT | sed 's!\s!-!g')"
   json=$(cat <<-JSON
   {
-    "key": "${key}",
-    "label": "${mot}",
+    "key": "${mot}",
     "video": "videos/${mot}.webm"
   },
 JSON
