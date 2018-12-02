@@ -49,7 +49,7 @@ teardown() {
   ffmpeg() { echo "ffmpeg $*"; exit; }  # mock
   export -f ffmpeg
 
-  full_path=./test/paris.mkv
+  export SOURCE_VIDEO_FILE=./test/paris.mkv
   run extract_word_chunk 'raw/0:00:00.00.fake.mkv' '0:00:00.00' '0:00:01.00'
 
   spy="${lines[0]}"
@@ -57,7 +57,7 @@ teardown() {
 }
 
 @test 'extract clip from video' {
-  full_path=./test/paris.mkv
+  export SOURCE_VIDEO_FILE=./test/paris.mkv
   run extract_word_chunk 'raw/0:00:00.00.paris.mkv' '0:00:00.00' '0:00:01.00'
 
   assert_file_exist './raw/0:00:00.00.paris.mkv'
