@@ -14,20 +14,10 @@ install: update
 test:
 	${BATS} --pretty ./test/*.test.bash
 
-split-video-1:
-	source ./scripts/split-laura-video.bash ./data/partie-1*.hd.mkv \
-		&& extract_timing_from_subtitles \
-		&& split_video
-
-split-video-2:
-	source ./scripts/split-laura-video.bash ./data/partie-2*.hd.mkv \
-		&& extract_timing_from_subtitles \
-		&& split_video
-
-split-videos: split-video-1 split-video-2
-
-build: split-videos
-	bash ./scripts/convert-videos.bash
+build:
+	bash ./scripts/split-laura-video.bash ./data/partie-1*.hd.mkv
+	bash ./scripts/split-laura-video.bash ./data/partie-2*.hd.mkv
+	bash ./scripts/encode-videos.bash
 	bash ./scripts/create-json-dictionary.bash
 	bash ./scripts/raw-to-production.bash
 

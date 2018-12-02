@@ -5,6 +5,8 @@
 # USAGE
 #   bash -x ./scripts/split-laura-video.bash "$path/to/videos" ["$timing"]
 
+IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
+
 SOURCE_VIDEO_FILE="$1" # video file to split
 directory_path="${SOURCE_VIDEO_FILE%/*}"
 filename="${SOURCE_VIDEO_FILE##*/}"
@@ -56,3 +58,9 @@ split_video() {
     extract_word_chunk "$target_file" "${start}" "${end}"
   done < "$timing_path"
 }
+
+function extract_video_chunks() {
+  extract_timing_from_subtitles
+  split_video
+}
+if [[ $IS_RUNNING_TESTS == false ]]; then extract_video_chunks; fi

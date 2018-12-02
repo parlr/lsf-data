@@ -3,7 +3,7 @@
 # REQUIREMENT:
 #   sudo apt install --yes ffmpeg libav-tools
 # USAGE
-#   bash -x ./scripts/convert-videos.bash "$path/to/videos" ["$timing"]
+#   bash -x ./scripts/encode-videos.bash "$path/to/videos" ["$timing"]
 
 IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 FILES_TO_CONVERT="raw/*.mkv"
