@@ -7,7 +7,14 @@ BATS=./test/libs/bats/bin/bats
 .PHONY: test
 
 install: update
-	sudo apt-get install --yes \
+	sudo add-apt-repository ppa:duggan/bats --yes
+	sudo apt-get update --quiet --quiet
+	sudo apt-get install \
+		--yes \
+		--no-install-recommends \
+		--no-install-suggests \
+		--quiet --quiet \
+		bats \
 		ffmpeg \
 		libav-tools
 
