@@ -1,5082 +1,4066 @@
 [
   {
     "key": "abandonner",
-    "label": "abandonner",
     "video": "videos/abandonner.webm"
   },
   {
     "key": "abbaye",
-    "label": "abbaye",
     "video": "videos/abbaye.webm"
   },
   {
     "key": "abdiquer",
-    "label": "abdiquer",
     "video": "videos/abdiquer.webm"
   },
   {
     "key": "abeille",
-    "label": "abeille",
     "video": "videos/abeille.webm"
   },
   {
-    "key": "a-bientot",
-    "label": "à bientôt",
+    "key": "à bientôt",
     "video": "videos/à bientôt.webm"
   },
   {
     "key": "ablation",
-    "label": "ablation",
     "video": "videos/ablation.webm"
   },
   {
     "key": "abonnement",
-    "label": "abonnement",
     "video": "videos/abonnement.webm"
   },
   {
     "key": "academie",
-    "label": "academie",
     "video": "videos/academie.webm"
   },
   {
     "key": "accident-voiture",
-    "label": "accident-voiture",
     "video": "videos/accident-voiture.webm"
   },
   {
     "key": "accompagner",
-    "label": "accompagner",
     "video": "videos/accompagner.webm"
   },
   {
     "key": "accord",
-    "label": "accord",
     "video": "videos/accord.webm"
   },
   {
     "key": "accoustique",
-    "label": "accoustique",
     "video": "videos/accoustique.webm"
   },
   {
     "key": "acheter",
-    "label": "acheter",
     "video": "videos/acheter.webm"
   },
   {
     "key": "acide",
-    "label": "acide",
     "video": "videos/acide.webm"
   },
   {
     "key": "action",
-    "label": "action",
     "video": "videos/action.webm"
   },
   {
     "key": "adaptation",
-    "label": "adaptation",
     "video": "videos/adaptation.webm"
   },
   {
     "key": "adherer",
-    "label": "adherer",
     "video": "videos/adherer.webm"
   },
   {
     "key": "adjuger",
-    "label": "adjuger",
     "video": "videos/adjuger.webm"
   },
   {
     "key": "administrer",
-    "label": "administrer",
     "video": "videos/administrer.webm"
   },
   {
     "key": "adolescent",
-    "label": "adolescent",
     "video": "videos/adolescent.webm"
   },
   {
     "key": "adorer",
-    "label": "adorer",
     "video": "videos/adorer.webm"
   },
   {
     "key": "adversaire",
-    "label": "adversaire",
     "video": "videos/adversaire.webm"
   },
   {
     "key": "affaire",
-    "label": "affaire",
     "video": "videos/affaire.webm"
   },
   {
     "key": "agence",
-    "label": "agence",
     "video": "videos/agence.webm"
   },
   {
-    "key": "a-genoux",
-    "label": "à genoux",
+    "key": "à genoux",
     "video": "videos/à genoux.webm"
   },
   {
     "key": "agression",
-    "label": "agression",
     "video": "videos/agression.webm"
   },
   {
     "key": "agriculture",
-    "label": "agriculture",
     "video": "videos/agriculture.webm"
   },
   {
     "key": "Aix",
-    "label": "Aix",
     "video": "videos/Aix.webm"
   },
   {
     "key": "albi",
-    "label": "albi",
     "video": "videos/albi.webm"
   },
   {
     "key": "album_de_photos",
-    "label": "album_de_photos",
     "video": "videos/album_de_photos.webm"
   },
   {
     "key": "algerie",
-    "label": "algerie",
     "video": "videos/algerie.webm"
   },
   {
     "key": "allemagne",
-    "label": "allemagne",
     "video": "videos/allemagne.webm"
   },
   {
-    "key": "aller-chercher",
-    "label": "aller chercher",
+    "key": "aller chercher",
     "video": "videos/aller chercher.webm"
   },
   {
     "key": "aller",
-    "label": "aller",
     "video": "videos/aller.webm"
   },
   {
     "key": "amant",
-    "label": "amant",
     "video": "videos/amant.webm"
   },
   {
     "key": "ambiance",
-    "label": "ambiance",
     "video": "videos/ambiance.webm"
   },
   {
     "key": "ambition",
-    "label": "ambition",
     "video": "videos/ambition.webm"
   },
   {
-    "key": "ami.e.s",
-    "label": "ami·e·s",
+    "key": "ami·e·s",
     "video": "videos/ami·e·s.webm"
   },
   {
-    "key": "ami.e",
-    "label": "ami·e",
+    "key": "ami·e",
     "video": "videos/ami·e.webm"
   },
   {
     "key": "amour",
-    "label": "amour",
     "video": "videos/amour.webm"
   },
   {
     "key": "analyse",
-    "label": "analyse",
     "video": "videos/analyse.webm"
   },
   {
     "key": "anatomie",
-    "label": "anatomie",
     "video": "videos/anatomie.webm"
   },
   {
     "key": "angers",
-    "label": "angers",
     "video": "videos/angers.webm"
   },
   {
     "key": "anniversaire",
-    "label": "anniversaire",
     "video": "videos/anniversaire.webm"
   },
   {
     "key": "anonyme",
-    "label": "anonyme",
     "video": "videos/anonyme.webm"
   },
   {
     "key": "antiquite",
-    "label": "antiquite",
     "video": "videos/antiquite.webm"
   },
   {
     "key": "aorte",
-    "label": "aorte",
     "video": "videos/aorte.webm"
   },
   {
     "key": "apercevoir",
-    "label": "apercevoir",
     "video": "videos/apercevoir.webm"
   },
   {
     "key": "apesanteur",
-    "label": "apesanteur",
     "video": "videos/apesanteur.webm"
   },
   {
-    "key": "a-peu-pres",
-    "label": "à peu près",
+    "key": "à peu près",
     "video": "videos/à peu près.webm"
   },
   {
     "key": "appeler",
-    "label": "appeler",
     "video": "videos/appeler.webm"
   },
   {
     "key": "apporter",
-    "label": "apporter",
     "video": "videos/apporter.webm"
   },
   {
     "key": "apprendre",
-    "label": "apprendre",
     "video": "videos/apprendre.webm"
   },
   {
     "key": "approcher",
-    "label": "approcher",
     "video": "videos/approcher.webm"
   },
   {
-    "key": "apres-midi",
-    "label": "après-midi",
+    "key": "après-midi",
     "video": "videos/après-midi.webm"
   },
   {
-    "key": "apres",
-    "label": "après",
+    "key": "après",
     "video": "videos/après.webm"
   },
   {
     "key": "arbre",
-    "label": "arbre",
     "video": "videos/arbre.webm"
   },
   {
     "key": "architecte",
-    "label": "architecte",
     "video": "videos/architecte.webm"
   },
   {
     "key": "archives",
-    "label": "archives",
     "video": "videos/archives.webm"
   },
   {
-    "key": "argente",
-    "label": "argenté",
+    "key": "argenté",
     "video": "videos/argenté.webm"
   },
   {
-    "key": "arreter",
-    "label": "arrêter",
+    "key": "arrêter",
     "video": "videos/arrêter.webm"
   },
   {
     "key": "articulation-os",
-    "label": "articulation-os",
     "video": "videos/articulation-os.webm"
   },
   {
     "key": "arts",
-    "label": "arts",
     "video": "videos/arts.webm"
   },
   {
     "key": "assemblee_nationale",
-    "label": "assemblee_nationale",
     "video": "videos/assemblee_nationale.webm"
   },
   {
     "key": "association",
-    "label": "association",
     "video": "videos/association.webm"
   },
   {
     "key": "assurance",
-    "label": "assurance",
     "video": "videos/assurance.webm"
   },
   {
     "key": "asthme",
-    "label": "asthme",
     "video": "videos/asthme.webm"
   },
   {
     "key": "atome",
-    "label": "atome",
     "video": "videos/atome.webm"
   },
   {
-    "key": "a-tout-a-l'heure",
-    "label": "à tout à l'heure",
+    "key": "à tout à l'heure",
     "video": "videos/à tout à l'heure.webm"
   },
   {
     "key": "attendre",
-    "label": "attendre",
     "video": "videos/attendre.webm"
   },
   {
     "key": "attention",
-    "label": "attention",
     "video": "videos/attention.webm"
   },
   {
     "key": "attestation",
-    "label": "attestation",
     "video": "videos/attestation.webm"
   },
   {
     "key": "Aubagne",
-    "label": "Aubagne",
     "video": "videos/Aubagne.webm"
   },
   {
-    "key": "au-bord-de...",
-    "label": "au bord de…",
+    "key": "au bord de…",
     "video": "videos/au bord de….webm"
   },
   {
     "key": "audiogramme",
-    "label": "audiogramme",
     "video": "videos/audiogramme.webm"
   },
   {
     "key": "audiovisuel",
-    "label": "audiovisuel",
     "video": "videos/audiovisuel.webm"
   },
   {
     "key": "aujourd'hui",
-    "label": "aujourd'hui",
     "video": "videos/aujourd'hui.webm"
   },
   {
-    "key": "au-revoir",
-    "label": "au revoir",
+    "key": "au revoir",
     "video": "videos/au revoir.webm"
   },
   {
     "key": "australie",
-    "label": "australie",
     "video": "videos/australie.webm"
   },
   {
     "key": "automobile",
-    "label": "automobile",
     "video": "videos/automobile.webm"
   },
   {
     "key": "autonome",
-    "label": "autonome",
     "video": "videos/autonome.webm"
   },
   {
     "key": "autonomie",
-    "label": "autonomie",
     "video": "videos/autonomie.webm"
   },
   {
     "key": "autoroute",
-    "label": "autoroute",
     "video": "videos/autoroute.webm"
   },
   {
     "key": "autriche",
-    "label": "autriche",
     "video": "videos/autriche.webm"
   },
   {
     "key": "avant",
-    "label": "avant",
     "video": "videos/avant.webm"
   },
   {
     "key": "avec",
-    "label": "avec",
     "video": "videos/avec.webm"
   },
   {
-    "key": "avertir,-prevenir",
-    "label": "avertir, prévenir",
+    "key": "avertir, prévenir",
     "video": "videos/avertir, prévenir.webm"
   },
   {
     "key": "avignon",
-    "label": "avignon",
     "video": "videos/avignon.webm"
   },
   {
     "key": "avion",
-    "label": "avion",
     "video": "videos/avion.webm"
   },
   {
     "key": "avocat",
-    "label": "avocat",
     "video": "videos/avocat.webm"
   },
   {
     "key": "bac",
-    "label": "bac",
     "video": "videos/bac.webm"
   },
   {
     "key": "ballon",
-    "label": "ballon",
     "video": "videos/ballon.webm"
   },
   {
     "key": "banane",
-    "label": "banane",
     "video": "videos/banane.webm"
   },
   {
     "key": "banlieue",
-    "label": "banlieue",
     "video": "videos/banlieue.webm"
   },
   {
     "key": "banquet",
-    "label": "banquet",
     "video": "videos/banquet.webm"
   },
   {
     "key": "banque",
-    "label": "banque",
     "video": "videos/banque.webm"
   },
   {
     "key": "bapteme",
-    "label": "bapteme",
     "video": "videos/bapteme.webm"
   },
   {
     "key": "base",
-    "label": "base",
     "video": "videos/base.webm"
   },
   {
     "key": "bateau",
-    "label": "bateau",
     "video": "videos/bateau.webm"
   },
   {
     "key": "batiment",
-    "label": "batiment",
     "video": "videos/batiment.webm"
   },
   {
     "key": "beacoup",
-    "label": "beacoup",
     "video": "videos/beacoup.webm"
   },
   {
     "key": "beau",
-    "label": "beau",
     "video": "videos/beau.webm"
   },
   {
-    "key": "bebe",
-    "label": "bébé",
+    "key": "bébé",
     "video": "videos/bébé.webm"
   },
   {
     "key": "beige",
-    "label": "beige",
     "video": "videos/beige.webm"
   },
   {
     "key": "belgique",
-    "label": "belgique",
     "video": "videos/belgique.webm"
   },
   {
     "key": "benefice",
-    "label": "benefice",
     "video": "videos/benefice.webm"
   },
   {
     "key": "benevolat",
-    "label": "benevolat",
     "video": "videos/benevolat.webm"
   },
   {
     "key": "biarritz",
-    "label": "biarritz",
     "video": "videos/biarritz.webm"
   },
   {
     "key": "bible",
-    "label": "bible",
     "video": "videos/bible.webm"
   },
   {
     "key": "bibliotheque",
-    "label": "bibliotheque",
     "video": "videos/bibliotheque.webm"
   },
   {
-    "key": "bientot",
-    "label": "bientôt",
+    "key": "bientôt",
     "video": "videos/bientôt.webm"
   },
   {
     "key": "bien",
-    "label": "bien",
     "video": "videos/bien.webm"
   },
   {
     "key": "bilan",
-    "label": "bilan",
     "video": "videos/bilan.webm"
   },
   {
     "key": "bilinguisme",
-    "label": "bilinguisme",
     "video": "videos/bilinguisme.webm"
   },
   {
     "key": "billard",
-    "label": "billard",
     "video": "videos/billard.webm"
   },
   {
     "key": "biochimie",
-    "label": "biochimie",
     "video": "videos/biochimie.webm"
   },
   {
     "key": "biologie",
-    "label": "biologie",
     "video": "videos/biologie.webm"
   },
   {
     "key": "blanc",
-    "label": "blanc",
     "video": "videos/blanc.webm"
   },
   {
-    "key": "bleu-marine",
-    "label": "bleu marine",
+    "key": "bleu marine",
     "video": "videos/bleu marine.webm"
   },
   {
     "key": "bleu",
-    "label": "bleu",
     "video": "videos/bleu.webm"
   },
   {
     "key": "blond",
-    "label": "blond",
     "video": "videos/blond.webm"
   },
   {
     "key": "boeuf",
-    "label": "boeuf",
     "video": "videos/boeuf.webm"
   },
   {
     "key": "boire",
-    "label": "boire",
     "video": "videos/boire.webm"
   },
   {
     "key": "boiter",
-    "label": "boiter",
     "video": "videos/boiter.webm"
   },
   {
-    "key": "bon-appetit",
-    "label": "bon appétit",
+    "key": "bon appétit",
     "video": "videos/bon appétit.webm"
   },
   {
     "key": "bonjour",
-    "label": "bonjour",
     "video": "videos/bonjour.webm"
   },
   {
-    "key": "bonne-journee",
-    "label": "bonne journée",
+    "key": "bonne journée",
     "video": "videos/bonne journée.webm"
   },
   {
-    "key": "bonne-soiree",
-    "label": "bonne soirée",
+    "key": "bonne soirée",
     "video": "videos/bonne soirée.webm"
   },
   {
     "key": "bonsoir",
-    "label": "bonsoir",
     "video": "videos/bonsoir.webm"
   },
   {
     "key": "bon",
-    "label": "bon",
     "video": "videos/bon.webm"
   },
   {
     "key": "bordeaux",
-    "label": "bordeaux",
     "video": "videos/bordeaux.webm"
   },
   {
     "key": "boudisme",
-    "label": "boudisme",
     "video": "videos/boudisme.webm"
   },
   {
     "key": "bourgeois",
-    "label": "bourgeois",
     "video": "videos/bourgeois.webm"
   },
   {
     "key": "bowling",
-    "label": "bowling",
     "video": "videos/bowling.webm"
   },
   {
     "key": "bracelet",
-    "label": "bracelet",
     "video": "videos/bracelet.webm"
   },
   {
     "key": "bresil",
-    "label": "bresil",
     "video": "videos/bresil.webm"
   },
   {
     "key": "Bretagne",
-    "label": "Bretagne",
     "video": "videos/Bretagne.webm"
   },
   {
     "key": "bruxelle",
-    "label": "bruxelle",
     "video": "videos/bruxelle.webm"
   },
   {
     "key": "budget",
-    "label": "budget",
     "video": "videos/budget.webm"
   },
   {
     "key": "bulgarie",
-    "label": "bulgarie",
     "video": "videos/bulgarie.webm"
   },
   {
     "key": "bureau",
-    "label": "bureau",
     "video": "videos/bureau.webm"
   },
   {
     "key": "bus",
-    "label": "bus",
     "video": "videos/bus.webm"
   },
   {
     "key": "cable",
-    "label": "cable",
     "video": "videos/cable.webm"
   },
   {
-    "key": "cafe",
-    "label": "café",
+    "key": "café",
     "video": "videos/café.webm"
   },
   {
     "key": "calcul",
-    "label": "calcul",
     "video": "videos/calcul.webm"
   },
   {
     "key": "calendrier",
-    "label": "calendrier",
     "video": "videos/calendrier.webm"
   },
   {
     "key": "camion",
-    "label": "camion",
     "video": "videos/camion.webm"
   },
   {
     "key": "campagne",
-    "label": "campagne",
     "video": "videos/campagne.webm"
   },
   {
     "key": "canada",
-    "label": "canada",
     "video": "videos/canada.webm"
   },
   {
-    "key": "canape",
-    "label": "canapé",
+    "key": "canapé",
     "video": "videos/canapé.webm"
   },
   {
     "key": "canard",
-    "label": "canard",
     "video": "videos/canard.webm"
   },
   {
     "key": "cancer",
-    "label": "cancer",
     "video": "videos/cancer.webm"
   },
   {
     "key": "candidat",
-    "label": "candidat",
     "video": "videos/candidat.webm"
   },
   {
     "key": "capacite",
-    "label": "capacite",
     "video": "videos/capacite.webm"
   },
   {
     "key": "capitale",
-    "label": "capitale",
     "video": "videos/capitale.webm"
   },
   {
-    "key": "capter-des-mots",
-    "label": "capter des mots",
+    "key": "capter des mots",
     "video": "videos/capter des mots.webm"
   },
   {
     "key": "caractere",
-    "label": "caractere",
     "video": "videos/caractere.webm"
   },
   {
     "key": "careme",
-    "label": "careme",
     "video": "videos/careme.webm"
   },
   {
     "key": "carotte",
-    "label": "carotte",
     "video": "videos/carotte.webm"
   },
   {
     "key": "carte_d_identite",
-    "label": "carte_d_identite",
     "video": "videos/carte_d_identite.webm"
   },
   {
     "key": "car",
-    "label": "car",
     "video": "videos/car.webm"
   },
   {
     "key": "casser",
-    "label": "casser",
     "video": "videos/casser.webm"
   },
   {
     "key": "cassette",
-    "label": "cassette",
     "video": "videos/cassette.webm"
   },
   {
     "key": "catholique",
-    "label": "catholique",
     "video": "videos/catholique.webm"
   },
   {
-    "key": "ca-va",
-    "label": "ça va",
+    "key": "ça va",
     "video": "videos/ça va.webm"
   },
   {
     "key": "celibataire",
-    "label": "celibataire",
     "video": "videos/celibataire.webm"
   },
   {
     "key": "censure",
-    "label": "censure",
     "video": "videos/censure.webm"
   },
   {
-    "key": "centre-ville",
-    "label": "centre ville",
+    "key": "centre ville",
     "video": "videos/centre ville.webm"
   },
   {
     "key": "cerf",
-    "label": "cerf",
     "video": "videos/cerf.webm"
   },
   {
     "key": "certificat",
-    "label": "certificat",
     "video": "videos/certificat.webm"
   },
   {
     "key": "chaise",
-    "label": "chaise",
     "video": "videos/chaise.webm"
   },
   {
     "key": "chambery",
-    "label": "chambery",
     "video": "videos/chambery.webm"
   },
   {
     "key": "champignon",
-    "label": "champignon",
     "video": "videos/champignon.webm"
   },
   {
     "key": "chance",
-    "label": "chance",
     "video": "videos/chance.webm"
   },
   {
     "key": "changer",
-    "label": "changer",
     "video": "videos/changer.webm"
   },
   {
     "key": "chapeau",
-    "label": "chapeau",
     "video": "videos/chapeau.webm"
   },
   {
     "key": "charpente",
-    "label": "charpente",
     "video": "videos/charpente.webm"
   },
   {
-    "key": "chatain",
-    "label": "châtain",
+    "key": "châtain",
     "video": "videos/châtain.webm"
   },
   {
     "key": "chat",
-    "label": "chat",
     "video": "videos/chat.webm"
   },
   {
     "key": "chaud",
-    "label": "chaud",
     "video": "videos/chaud.webm"
   },
   {
     "key": "chaussette",
-    "label": "chaussette",
     "video": "videos/chaussette.webm"
   },
   {
     "key": "chemin",
-    "label": "chemin",
     "video": "videos/chemin.webm"
   },
   {
     "key": "chemise",
-    "label": "chemise",
     "video": "videos/chemise.webm"
   },
   {
     "key": "chequier",
-    "label": "chequier",
     "video": "videos/chequier.webm"
   },
   {
-    "key": "chercher-les-ennuis",
-    "label": "chercher les ennuis",
+    "key": "chercher les ennuis",
     "video": "videos/chercher les ennuis.webm"
   },
   {
-    "key": "chercher-quelqu'un-de-perdu",
-    "label": "chercher quelqu'un de perdu",
+    "key": "chercher quelqu'un de perdu",
     "video": "videos/chercher quelqu'un de perdu.webm"
   },
   {
     "key": "chercher",
-    "label": "chercher",
     "video": "videos/chercher.webm"
   },
   {
     "key": "chien",
-    "label": "chien",
     "video": "videos/chien.webm"
   },
   {
     "key": "chimie",
-    "label": "chimie",
     "video": "videos/chimie.webm"
   },
   {
     "key": "chine",
-    "label": "chine",
     "video": "videos/chine.webm"
   },
   {
-    "key": "chocolatine-(pain-au-chocolat)",
-    "label": "chocolatine (pain au chocolat)",
+    "key": "chocolatine (pain au chocolat)",
     "video": "videos/chocolatine (pain au chocolat).webm"
   },
   {
     "key": "chocolat",
-    "label": "chocolat",
     "video": "videos/chocolat.webm"
   },
   {
     "key": "cinema",
-    "label": "cinema",
     "video": "videos/cinema.webm"
   },
   {
-    "key": "cinema",
-    "label": "cinéma",
+    "key": "cinéma",
     "video": "videos/cinéma.webm"
   },
   {
     "key": "cirque",
-    "label": "cirque",
     "video": "videos/cirque.webm"
   },
   {
     "key": "citoyen",
-    "label": "citoyen",
     "video": "videos/citoyen.webm"
   },
   {
     "key": "clair",
-    "label": "clair",
     "video": "videos/clair.webm"
   },
   {
     "key": "clown",
-    "label": "clown",
     "video": "videos/clown.webm"
   },
   {
     "key": "coca",
-    "label": "coca",
     "video": "videos/coca.webm"
   },
   {
     "key": "code_de_la_route",
-    "label": "code_de_la_route",
     "video": "videos/code_de_la_route.webm"
   },
   {
     "key": "coiffure",
-    "label": "coiffure",
     "video": "videos/coiffure.webm"
   },
   {
     "key": "collaboration",
-    "label": "collaboration",
     "video": "videos/collaboration.webm"
   },
   {
-    "key": "collant-(vetement)",
-    "label": "collant (vêtement)",
+    "key": "collant (vêtement)",
     "video": "videos/collant (vêtement).webm"
   },
   {
-    "key": "college",
-    "label": "collège",
+    "key": "collège",
     "video": "videos/collège.webm"
   },
   {
-    "key": "combien-?",
-    "label": "combien ?",
+    "key": "combien ?",
     "video": "videos/combien ?.webm"
   },
   {
     "key": "comedien",
-    "label": "comedien",
     "video": "videos/comedien.webm"
   },
   {
     "key": "comedie",
-    "label": "comedie",
     "video": "videos/comedie.webm"
   },
   {
     "key": "comite",
-    "label": "comite",
     "video": "videos/comite.webm"
   },
   {
     "key": "commencer",
-    "label": "commencer",
     "video": "videos/commencer.webm"
   },
   {
-    "key": "comment-dire-?",
-    "label": "comment dire ?",
+    "key": "comment dire ?",
     "video": "videos/comment dire ?.webm"
   },
   {
-    "key": "comment-?",
-    "label": "comment ?",
+    "key": "comment ?",
     "video": "videos/comment ?.webm"
   },
   {
     "key": "commerce",
-    "label": "commerce",
     "video": "videos/commerce.webm"
   },
   {
     "key": "commission",
-    "label": "commission",
     "video": "videos/commission.webm"
   },
   {
     "key": "communication",
-    "label": "communication",
     "video": "videos/communication.webm"
   },
   {
     "key": "communiquer",
-    "label": "communiquer",
     "video": "videos/communiquer.webm"
   },
   {
     "key": "communisme",
-    "label": "communisme",
     "video": "videos/communisme.webm"
   },
   {
     "key": "competant",
-    "label": "competant",
     "video": "videos/competant.webm"
   },
   {
     "key": "competition",
-    "label": "competition",
     "video": "videos/competition.webm"
   },
   {
     "key": "comportement",
-    "label": "comportement",
     "video": "videos/comportement.webm"
   },
   {
     "key": "comprendre",
-    "label": "comprendre",
     "video": "videos/comprendre.webm"
   },
   {
     "key": "compris",
-    "label": "compris",
     "video": "videos/compris.webm"
   },
   {
     "key": "compromis",
-    "label": "compromis",
     "video": "videos/compromis.webm"
   },
   {
     "key": "comptabilite",
-    "label": "comptabilite",
     "video": "videos/comptabilite.webm"
   },
   {
     "key": "concentration",
-    "label": "concentration",
     "video": "videos/concentration.webm"
   },
   {
     "key": "concentrer",
-    "label": "concentrer",
     "video": "videos/concentrer.webm"
   },
   {
     "key": "concept",
-    "label": "concept",
     "video": "videos/concept.webm"
   },
   {
     "key": "concombre",
-    "label": "concombre",
     "video": "videos/concombre.webm"
   },
   {
     "key": "concours",
-    "label": "concours",
     "video": "videos/concours.webm"
   },
   {
     "key": "concurrence",
-    "label": "concurrence",
     "video": "videos/concurrence.webm"
   },
   {
-    "key": "conference-pour-les-entendants",
-    "label": "conférence pour les entendants",
+    "key": "conférence pour les entendants",
     "video": "videos/conférence pour les entendants.webm"
   },
   {
-    "key": "conference-pour-les-sourds",
-    "label": "conférence pour les sourds",
+    "key": "conférence pour les sourds",
     "video": "videos/conférence pour les sourds.webm"
   },
   {
     "key": "conference",
-    "label": "conference",
     "video": "videos/conference.webm"
   },
   {
     "key": "confiance",
-    "label": "confiance",
     "video": "videos/confiance.webm"
   },
   {
     "key": "configuration",
-    "label": "configuration",
     "video": "videos/configuration.webm"
   },
   {
     "key": "conflit",
-    "label": "conflit",
     "video": "videos/conflit.webm"
   },
   {
-    "key": "congres",
-    "label": "congrès",
+    "key": "congrès",
     "video": "videos/congrès.webm"
   },
   {
     "key": "connaissance",
-    "label": "connaissance",
     "video": "videos/connaissance.webm"
   },
   {
     "key": "conscience",
-    "label": "conscience",
     "video": "videos/conscience.webm"
   },
   {
     "key": "conseiller",
-    "label": "conseiller",
     "video": "videos/conseiller.webm"
   },
   {
     "key": "construction_navale",
-    "label": "construction_navale",
     "video": "videos/construction_navale.webm"
   },
   {
     "key": "content",
-    "label": "content",
     "video": "videos/content.webm"
   },
   {
     "key": "conte",
-    "label": "conte",
     "video": "videos/conte.webm"
   },
   {
     "key": "contrat",
-    "label": "contrat",
     "video": "videos/contrat.webm"
   },
   {
     "key": "convaincre2",
-    "label": "convaincre2",
     "video": "videos/convaincre2.webm"
   },
   {
     "key": "conversation_(discuter)",
-    "label": "conversation_(discuter)",
     "video": "videos/conversation_(discuter).webm"
   },
   {
     "key": "convertion",
-    "label": "convertion",
     "video": "videos/convertion.webm"
   },
   {
     "key": "convoquer",
-    "label": "convoquer",
     "video": "videos/convoquer.webm"
   },
   {
     "key": "corps",
-    "label": "corps",
     "video": "videos/corps.webm"
   },
   {
     "key": "correction_(annuler)",
-    "label": "correction_(annuler)",
     "video": "videos/correction_(annuler).webm"
   },
   {
     "key": "cotisation",
-    "label": "cotisation",
     "video": "videos/cotisation.webm"
   },
   {
     "key": "couleur",
-    "label": "couleur",
     "video": "videos/couleur.webm"
   },
   {
     "key": "coupable",
-    "label": "coupable",
     "video": "videos/coupable.webm"
   },
   {
     "key": "courir",
-    "label": "courir",
     "video": "videos/courir.webm"
   },
   {
     "key": "cours",
-    "label": "cours",
     "video": "videos/cours.webm"
   },
   {
     "key": "couscous",
-    "label": "couscous",
     "video": "videos/couscous.webm"
   },
   {
     "key": "cousin",
-    "label": "cousin",
     "video": "videos/cousin.webm"
   },
   {
     "key": "crayon",
-    "label": "crayon",
     "video": "videos/crayon.webm"
   },
   {
     "key": "credit",
-    "label": "credit",
     "video": "videos/credit.webm"
   },
   {
     "key": "crime",
-    "label": "crime",
     "video": "videos/crime.webm"
   },
   {
     "key": "critiquer",
-    "label": "critiquer",
     "video": "videos/critiquer.webm"
   },
   {
     "key": "croiser",
-    "label": "croiser",
     "video": "videos/croiser.webm"
   },
   {
     "key": "croissant",
-    "label": "croissant",
     "video": "videos/croissant.webm"
   },
   {
     "key": "cuisine",
-    "label": "cuisine",
     "video": "videos/cuisine.webm"
   },
   {
     "key": "culture1",
-    "label": "culture1",
     "video": "videos/culture1.webm"
   },
   {
     "key": "culture_de_la_terre",
-    "label": "culture_de_la_terre",
     "video": "videos/culture_de_la_terre.webm"
   },
   {
     "key": "curieux",
-    "label": "curieux",
     "video": "videos/curieux.webm"
   },
   {
     "key": "danemark",
-    "label": "danemark",
     "video": "videos/danemark.webm"
   },
   {
     "key": "danser",
-    "label": "danser",
     "video": "videos/danser.webm"
   },
   {
     "key": "debat",
-    "label": "debat",
     "video": "videos/debat.webm"
   },
   {
     "key": "debilite",
-    "label": "debilite",
     "video": "videos/debilite.webm"
   },
   {
     "key": "debit_banque",
-    "label": "debit_banque",
     "video": "videos/debit_banque.webm"
   },
   {
     "key": "decentralisation",
-    "label": "decentralisation",
     "video": "videos/decentralisation.webm"
   },
   {
     "key": "decision",
-    "label": "decision",
     "video": "videos/decision.webm"
   },
   {
     "key": "declaration_droits_de_l_homme",
-    "label": "declaration_droits_de_l_homme",
     "video": "videos/declaration_droits_de_l_homme.webm"
   },
   {
     "key": "declaration",
-    "label": "declaration",
     "video": "videos/declaration.webm"
   },
   {
     "key": "decommander",
-    "label": "decommander",
     "video": "videos/decommander.webm"
   },
   {
     "key": "decompte",
-    "label": "decompte",
     "video": "videos/decompte.webm"
   },
   {
     "key": "decors",
-    "label": "decors",
     "video": "videos/decors.webm"
   },
   {
     "key": "decouragement",
-    "label": "decouragement",
     "video": "videos/decouragement.webm"
   },
   {
     "key": "decouverte",
-    "label": "decouverte",
     "video": "videos/decouverte.webm"
   },
   {
     "key": "defaut",
-    "label": "defaut",
     "video": "videos/defaut.webm"
   },
   {
     "key": "defenseur",
-    "label": "defenseur",
     "video": "videos/defenseur.webm"
   },
   {
     "key": "deficit",
-    "label": "deficit",
     "video": "videos/deficit.webm"
   },
   {
     "key": "degressif",
-    "label": "degressif",
     "video": "videos/degressif.webm"
   },
   {
     "key": "degustation",
-    "label": "degustation",
     "video": "videos/degustation.webm"
   },
   {
     "key": "delivrance",
-    "label": "delivrance",
     "video": "videos/delivrance.webm"
   },
   {
     "key": "deluge",
-    "label": "deluge",
     "video": "videos/deluge.webm"
   },
   {
     "key": "demain",
-    "label": "demain",
     "video": "videos/demain.webm"
   },
   {
     "key": "demander",
-    "label": "demander",
     "video": "videos/demander.webm"
   },
   {
     "key": "demenagement",
-    "label": "demenagement",
     "video": "videos/demenagement.webm"
   },
   {
     "key": "demissionner",
-    "label": "demissionner",
     "video": "videos/demissionner.webm"
   },
   {
     "key": "democratie",
-    "label": "democratie",
     "video": "videos/democratie.webm"
   },
   {
     "key": "demonstration",
-    "label": "demonstration",
     "video": "videos/demonstration.webm"
   },
   {
     "key": "depression",
-    "label": "depression",
     "video": "videos/depression.webm"
   },
   {
     "key": "depute",
-    "label": "depute",
     "video": "videos/depute.webm"
   },
   {
-    "key": "de-rien",
-    "label": "de rien",
+    "key": "de rien",
     "video": "videos/de rien.webm"
   },
   {
-    "key": "derniere",
-    "label": "dernière",
+    "key": "dernière",
     "video": "videos/dernière.webm"
   },
   {
     "key": "derogation",
-    "label": "derogation",
     "video": "videos/derogation.webm"
   },
   {
-    "key": "derriere",
-    "label": "derrière",
+    "key": "derrière",
     "video": "videos/derrière.webm"
   },
   {
     "key": "dessert",
-    "label": "dessert",
     "video": "videos/dessert.webm"
   },
   {
-    "key": "detail",
-    "label": "détail",
+    "key": "détail",
     "video": "videos/détail.webm"
   },
   {
     "key": "dette",
-    "label": "dette",
     "video": "videos/dette.webm"
   },
   {
     "key": "devant",
-    "label": "devant",
     "video": "videos/devant.webm"
   },
   {
     "key": "devis",
-    "label": "devis",
     "video": "videos/devis.webm"
   },
   {
     "key": "devoir",
-    "label": "devoir",
     "video": "videos/devoir.webm"
   },
   {
     "key": "diabete",
-    "label": "diabete",
     "video": "videos/diabete.webm"
   },
   {
     "key": "dialoguer",
-    "label": "dialoguer",
     "video": "videos/dialoguer.webm"
   },
   {
     "key": "dialogue",
-    "label": "dialogue",
     "video": "videos/dialogue.webm"
   },
   {
-    "key": "different",
-    "label": "différent",
+    "key": "différent",
     "video": "videos/différent.webm"
   },
   {
     "key": "dijon",
-    "label": "dijon",
     "video": "videos/dijon.webm"
   },
   {
     "key": "dilatation",
-    "label": "dilatation",
     "video": "videos/dilatation.webm"
   },
   {
     "key": "diplomatique",
-    "label": "diplomatique",
     "video": "videos/diplomatique.webm"
   },
   {
     "key": "diplome",
-    "label": "diplome",
     "video": "videos/diplome.webm"
   },
   {
-    "key": "diplome",
-    "label": "diplôme",
+    "key": "diplôme",
     "video": "videos/diplôme.webm"
   },
   {
     "key": "directeur",
-    "label": "directeur",
     "video": "videos/directeur.webm"
   },
   {
     "key": "dire",
-    "label": "dire",
     "video": "videos/dire.webm"
   },
   {
     "key": "discuter",
-    "label": "discuter",
     "video": "videos/discuter.webm"
   },
   {
     "key": "distance",
-    "label": "distance",
     "video": "videos/distance.webm"
   },
   {
     "key": "divorcer",
-    "label": "divorcer",
     "video": "videos/divorcer.webm"
   },
   {
     "key": "divorce",
-    "label": "divorce",
     "video": "videos/divorce.webm"
   },
   {
     "key": "docteur",
-    "label": "docteur",
     "video": "videos/docteur.webm"
   },
   {
     "key": "doctorat_en_medecine",
-    "label": "doctorat_en_medecine",
     "video": "videos/doctorat_en_medecine.webm"
   },
   {
     "key": "documentation",
-    "label": "documentation",
     "video": "videos/documentation.webm"
   },
   {
     "key": "dommage",
-    "label": "dommage",
     "video": "videos/dommage.webm"
   },
   {
-    "key": "donner,-rendre",
-    "label": "donner, rendre",
+    "key": "donner, rendre",
     "video": "videos/donner, rendre.webm"
   },
   {
-    "key": "dore",
-    "label": "doré",
+    "key": "doré",
     "video": "videos/doré.webm"
   },
   {
     "key": "dormir",
-    "label": "dormir",
     "video": "videos/dormir.webm"
   },
   {
     "key": "dossier",
-    "label": "dossier",
     "video": "videos/dossier.webm"
   },
   {
     "key": "doyen",
-    "label": "doyen",
     "video": "videos/doyen.webm"
   },
   {
     "key": "drogue",
-    "label": "drogue",
     "video": "videos/drogue.webm"
   },
   {
     "key": "droit",
-    "label": "droit",
     "video": "videos/droit.webm"
   },
   {
     "key": "eau",
-    "label": "eau",
     "video": "videos/eau.webm"
   },
   {
     "key": "ebeniste",
-    "label": "ebeniste",
     "video": "videos/ebeniste.webm"
   },
   {
     "key": "echange",
-    "label": "echange",
     "video": "videos/echange.webm"
   },
   {
     "key": "echelon",
-    "label": "echelon",
     "video": "videos/echelon.webm"
   },
   {
     "key": "eclairage",
-    "label": "eclairage",
     "video": "videos/eclairage.webm"
   },
   {
     "key": "eclipse",
-    "label": "eclipse",
     "video": "videos/eclipse.webm"
   },
   {
-    "key": "ecole-maternelle",
-    "label": "école maternelle",
+    "key": "école maternelle",
     "video": "videos/école maternelle.webm"
   },
   {
     "key": "ecole",
-    "label": "ecole",
     "video": "videos/ecole.webm"
   },
   {
-    "key": "ecole",
-    "label": "école",
+    "key": "école",
     "video": "videos/école.webm"
   },
   {
     "key": "economie1",
-    "label": "economie1",
     "video": "videos/economie1.webm"
   },
   {
     "key": "ecosse",
-    "label": "ecosse",
     "video": "videos/ecosse.webm"
   },
   {
-    "key": "ecouter",
-    "label": "écouter",
+    "key": "écouter",
     "video": "videos/écouter.webm"
   },
   {
-    "key": "ecrire",
-    "label": "écrire",
+    "key": "écrire",
     "video": "videos/écrire.webm"
   },
   {
     "key": "edifice",
-    "label": "edifice",
     "video": "videos/edifice.webm"
   },
   {
     "key": "educateur",
-    "label": "educateur",
     "video": "videos/educateur.webm"
   },
   {
-    "key": "educateur",
-    "label": "éducateur",
+    "key": "éducateur",
     "video": "videos/éducateur.webm"
   },
   {
     "key": "egypte",
-    "label": "egypte",
     "video": "videos/egypte.webm"
   },
   {
     "key": "electricite",
-    "label": "electricite",
     "video": "videos/electricite.webm"
   },
   {
     "key": "electronique",
-    "label": "electronique",
     "video": "videos/electronique.webm"
   },
   {
     "key": "electro-technique",
-    "label": "electro-technique",
     "video": "videos/electro-technique.webm"
   },
   {
     "key": "elegance",
-    "label": "elegance",
     "video": "videos/elegance.webm"
   },
   {
-    "key": "eleve",
-    "label": "élève",
+    "key": "élève",
     "video": "videos/élève.webm"
   },
   {
     "key": "email",
-    "label": "email",
     "video": "videos/email.webm"
   },
   {
     "key": "emballage",
-    "label": "emballage",
     "video": "videos/emballage.webm"
   },
   {
     "key": "embaucher",
-    "label": "embaucher",
     "video": "videos/embaucher.webm"
   },
   {
     "key": "emplacement",
-    "label": "emplacement",
     "video": "videos/emplacement.webm"
   },
   {
     "key": "emploi_du_temps",
-    "label": "emploi_du_temps",
     "video": "videos/emploi_du_temps.webm"
   },
   {
     "key": "emprunt",
-    "label": "emprunt",
     "video": "videos/emprunt.webm"
   },
   {
     "key": "encephalogramme",
-    "label": "encephalogramme",
     "video": "videos/encephalogramme.webm"
   },
   {
     "key": "encore",
-    "label": "encore",
     "video": "videos/encore.webm"
   },
   {
     "key": "endoctriner",
-    "label": "endoctriner",
     "video": "videos/endoctriner.webm"
   },
   {
     "key": "enfant",
-    "label": "enfant",
     "video": "videos/enfant.webm"
   },
   {
     "key": "engagement",
-    "label": "engagement",
     "video": "videos/engagement.webm"
   },
   {
     "key": "engrenage",
-    "label": "engrenage",
     "video": "videos/engrenage.webm"
   },
   {
     "key": "enlevement",
-    "label": "enlevement",
     "video": "videos/enlevement.webm"
   },
   {
     "key": "ennemi",
-    "label": "ennemi",
     "video": "videos/ennemi.webm"
   },
   {
     "key": "enquete",
-    "label": "enquete",
     "video": "videos/enquete.webm"
   },
   {
     "key": "enregistrer",
-    "label": "enregistrer",
     "video": "videos/enregistrer.webm"
   },
   {
-    "key": "enseigner,-apprendre",
-    "label": "enseigner, apprendre",
+    "key": "enseigner, apprendre",
     "video": "videos/enseigner, apprendre.webm"
   },
   {
     "key": "enseigner",
-    "label": "enseigner",
     "video": "videos/enseigner.webm"
   },
   {
     "key": "ensemble",
-    "label": "ensemble",
     "video": "videos/ensemble.webm"
   },
   {
     "key": "entendant",
-    "label": "entendant",
     "video": "videos/entendant.webm"
   },
   {
     "key": "entendre",
-    "label": "entendre",
     "video": "videos/entendre.webm"
   },
   {
     "key": "enthousiasme",
-    "label": "enthousiasme",
     "video": "videos/enthousiasme.webm"
   },
   {
-    "key": "entree",
-    "label": "entrée",
+    "key": "entrée",
     "video": "videos/entrée.webm"
   },
   {
     "key": "envergure-oiseaux",
-    "label": "envergure-oiseaux",
     "video": "videos/envergure-oiseaux.webm"
   },
   {
     "key": "envie",
-    "label": "envie",
     "video": "videos/envie.webm"
   },
   {
     "key": "envoyer",
-    "label": "envoyer",
     "video": "videos/envoyer.webm"
   },
   {
     "key": "ephemere",
-    "label": "ephemere",
     "video": "videos/ephemere.webm"
   },
   {
     "key": "epilepsie",
-    "label": "epilepsie",
     "video": "videos/epilepsie.webm"
   },
   {
     "key": "equilibre",
-    "label": "equilibre",
     "video": "videos/equilibre.webm"
   },
   {
     "key": "equipe",
-    "label": "equipe",
     "video": "videos/equipe.webm"
   },
   {
     "key": "escargot",
-    "label": "escargot",
     "video": "videos/escargot.webm"
   },
   {
     "key": "espagne",
-    "label": "espagne",
     "video": "videos/espagne.webm"
   },
   {
-    "key": "esperer",
-    "label": "espérer",
+    "key": "espérer",
     "video": "videos/espérer.webm"
   },
   {
     "key": "essayer",
-    "label": "essayer",
     "video": "videos/essayer.webm"
   },
   {
     "key": "etat-pays",
-    "label": "etat-pays",
     "video": "videos/etat-pays.webm"
   },
   {
     "key": "etats-unis",
-    "label": "etats-unis",
     "video": "videos/etats-unis.webm"
   },
   {
-    "key": "ete",
-    "label": "été",
+    "key": "été",
     "video": "videos/été.webm"
   },
   {
-    "key": "etonner",
-    "label": "étonner",
+    "key": "étonner",
     "video": "videos/étonner.webm"
   },
   {
     "key": "etranger",
-    "label": "etranger",
     "video": "videos/etranger.webm"
   },
   {
-    "key": "etre-contre",
-    "label": "être contre",
+    "key": "être contre",
     "video": "videos/être contre.webm"
   },
   {
     "key": "etudiant",
-    "label": "etudiant",
     "video": "videos/etudiant.webm"
   },
   {
     "key": "europe",
-    "label": "europe",
     "video": "videos/europe.webm"
   },
   {
     "key": "eux",
-    "label": "eux",
     "video": "videos/eux.webm"
   },
   {
     "key": "evolution",
-    "label": "evolution",
     "video": "videos/evolution.webm"
   },
   {
     "key": "examen",
-    "label": "examen",
     "video": "videos/examen.webm"
   },
   {
     "key": "exemple",
-    "label": "exemple",
     "video": "videos/exemple.webm"
   },
   {
     "key": "exercice",
-    "label": "exercice",
     "video": "videos/exercice.webm"
   },
   {
     "key": "experience",
-    "label": "experience",
     "video": "videos/experience.webm"
   },
   {
     "key": "expert",
-    "label": "expert",
     "video": "videos/expert.webm"
   },
   {
     "key": "expliquer",
-    "label": "expliquer",
     "video": "videos/expliquer.webm"
   },
   {
     "key": "exploit",
-    "label": "exploit",
     "video": "videos/exploit.webm"
   },
   {
     "key": "exportation",
-    "label": "exportation",
     "video": "videos/exportation.webm"
   },
   {
-    "key": "expression-du-visage",
-    "label": "expression du visage",
+    "key": "expression du visage",
     "video": "videos/expression du visage.webm"
   },
   {
     "key": "expression-mots",
-    "label": "expression-mots",
     "video": "videos/expression-mots.webm"
   },
   {
     "key": "expression-visage",
-    "label": "expression-visage",
     "video": "videos/expression-visage.webm"
   },
   {
     "key": "fabrication",
-    "label": "fabrication",
     "video": "videos/fabrication.webm"
   },
   {
     "key": "facture",
-    "label": "facture",
     "video": "videos/facture.webm"
   },
   {
     "key": "faillite",
-    "label": "faillite",
     "video": "videos/faillite.webm"
   },
   {
     "key": "falcifier",
-    "label": "falcifier",
     "video": "videos/falcifier.webm"
   },
   {
     "key": "famille",
-    "label": "famille",
     "video": "videos/famille.webm"
   },
   {
     "key": "fantasme",
-    "label": "fantasme",
     "video": "videos/fantasme.webm"
   },
   {
     "key": "fascisme",
-    "label": "fascisme",
     "video": "videos/fascisme.webm"
   },
   {
-    "key": "fatigue",
-    "label": "fatigué",
+    "key": "fatigué",
     "video": "videos/fatigué.webm"
   },
   {
     "key": "faussaire",
-    "label": "faussaire",
     "video": "videos/faussaire.webm"
   },
   {
     "key": "faxer",
-    "label": "faxer",
     "video": "videos/faxer.webm"
   },
   {
     "key": "federation",
-    "label": "federation",
     "video": "videos/federation.webm"
   },
   {
     "key": "felicitation",
-    "label": "felicitation",
     "video": "videos/felicitation.webm"
   },
   {
-    "key": "femme-de-menage",
-    "label": "femme de ménage",
+    "key": "femme de ménage",
     "video": "videos/femme de ménage.webm"
   },
   {
     "key": "femme",
-    "label": "femme",
     "video": "videos/femme.webm"
   },
   {
-    "key": "fenetre",
-    "label": "fenêtre",
+    "key": "fenêtre",
     "video": "videos/fenêtre.webm"
   },
   {
-    "key": "ferme",
-    "label": "fermé",
+    "key": "fermé",
     "video": "videos/fermé.webm"
   },
   {
-    "key": "feter",
-    "label": "fêter",
+    "key": "fêter",
     "video": "videos/fêter.webm"
   },
   {
-    "key": "fete",
-    "label": "fête",
+    "key": "fête",
     "video": "videos/fête.webm"
   },
   {
     "key": "fier",
-    "label": "fier",
     "video": "videos/fier.webm"
   },
   {
     "key": "filet",
-    "label": "filet",
     "video": "videos/filet.webm"
   },
   {
-    "key": "fille-(la)",
-    "label": "fille (la)",
+    "key": "fille (la)",
     "video": "videos/fille (la).webm"
   },
   {
     "key": "fille",
-    "label": "fille",
     "video": "videos/fille.webm"
   },
   {
     "key": "film",
-    "label": "film",
     "video": "videos/film.webm"
   },
   {
     "key": "fils",
-    "label": "fils",
     "video": "videos/fils.webm"
   },
   {
     "key": "finir",
-    "label": "finir",
     "video": "videos/finir.webm"
   },
   {
     "key": "finlande",
-    "label": "finlande",
     "video": "videos/finlande.webm"
   },
   {
     "key": "fleur",
-    "label": "fleur",
     "video": "videos/fleur.webm"
   },
   {
     "key": "fleuve",
-    "label": "fleuve",
     "video": "videos/fleuve.webm"
   },
   {
     "key": "foie",
-    "label": "foie",
     "video": "videos/foie.webm"
   },
   {
-    "key": "fonce",
-    "label": "foncé",
+    "key": "foncé",
     "video": "videos/foncé.webm"
   },
   {
     "key": "fonder",
-    "label": "fonder",
     "video": "videos/fonder.webm"
   },
   {
     "key": "foot",
-    "label": "foot",
     "video": "videos/foot.webm"
   },
   {
     "key": "foret2",
-    "label": "foret2",
     "video": "videos/foret2.webm"
   },
   {
     "key": "formateur",
-    "label": "formateur",
     "video": "videos/formateur.webm"
   },
   {
     "key": "formation",
-    "label": "formation",
     "video": "videos/formation.webm"
   },
   {
     "key": "forme",
-    "label": "forme",
     "video": "videos/forme.webm"
   },
   {
-    "key": "francais-(langue)",
-    "label": "français (langue)",
+    "key": "français (langue)",
     "video": "videos/français (langue).webm"
   },
   {
     "key": "francais",
-    "label": "francais",
     "video": "videos/francais.webm"
   },
   {
     "key": "france",
-    "label": "france",
     "video": "videos/france.webm"
   },
   {
-    "key": "frere",
-    "label": "frère",
+    "key": "frère",
     "video": "videos/frère.webm"
   },
   {
     "key": "frite",
-    "label": "frite",
     "video": "videos/frite.webm"
   },
   {
     "key": "froid",
-    "label": "froid",
     "video": "videos/froid.webm"
   },
   {
     "key": "fromage",
-    "label": "fromage",
     "video": "videos/fromage.webm"
   },
   {
     "key": "fruit",
-    "label": "fruit",
     "video": "videos/fruit.webm"
   },
   {
     "key": "futur",
-    "label": "futur",
     "video": "videos/futur.webm"
   },
   {
     "key": "Gap",
-    "label": "Gap",
     "video": "videos/Gap.webm"
   },
   {
-    "key": "garcon",
-    "label": "garçon",
+    "key": "garçon",
     "video": "videos/garçon.webm"
   },
   {
     "key": "gare",
-    "label": "gare",
     "video": "videos/gare.webm"
   },
   {
-    "key": "gateau",
-    "label": "gâteau",
+    "key": "gâteau",
     "video": "videos/gâteau.webm"
   },
   {
     "key": "gentil",
-    "label": "gentil",
     "video": "videos/gentil.webm"
   },
   {
     "key": "geographie",
-    "label": "geographie",
     "video": "videos/geographie.webm"
   },
   {
     "key": "girafe",
-    "label": "girafe",
     "video": "videos/girafe.webm"
   },
   {
     "key": "glisser",
-    "label": "glisser",
     "video": "videos/glisser.webm"
   },
   {
     "key": "grammaire",
-    "label": "grammaire",
     "video": "videos/grammaire.webm"
   },
   {
-    "key": "grand-mere",
-    "label": "grand-mère",
+    "key": "grand-mère",
     "video": "videos/grand-mère.webm"
   },
   {
     "key": "grand-parent",
-    "label": "grand-parent",
     "video": "videos/grand-parent.webm"
   },
   {
-    "key": "grand-pere",
-    "label": "grand-père",
+    "key": "grand-père",
     "video": "videos/grand-père.webm"
   },
   {
     "key": "grand",
-    "label": "grand",
     "video": "videos/grand.webm"
   },
   {
     "key": "grave",
-    "label": "grave",
     "video": "videos/grave.webm"
   },
   {
     "key": "gravure",
-    "label": "gravure",
     "video": "videos/gravure.webm"
   },
   {
     "key": "grece",
-    "label": "grece",
     "video": "videos/grece.webm"
   },
   {
     "key": "gris",
-    "label": "gris",
     "video": "videos/gris.webm"
   },
   {
     "key": "gronder",
-    "label": "gronder",
     "video": "videos/gronder.webm"
   },
   {
     "key": "gros",
-    "label": "gros",
     "video": "videos/gros.webm"
   },
   {
     "key": "guyane",
-    "label": "guyane",
     "video": "videos/guyane.webm"
   },
   {
     "key": "gymnastique",
-    "label": "gymnastique",
     "video": "videos/gymnastique.webm"
   },
   {
     "key": "habiter",
-    "label": "habiter",
     "video": "videos/habiter.webm"
   },
   {
     "key": "haine",
-    "label": "haine",
     "video": "videos/haine.webm"
   },
   {
     "key": "handicape",
-    "label": "handicape",
     "video": "videos/handicape.webm"
   },
   {
-    "key": "helicoptere",
-    "label": "hélicoptère",
+    "key": "hélicoptère",
     "video": "videos/hélicoptère.webm"
   },
   {
     "key": "herbe",
-    "label": "herbe",
     "video": "videos/herbe.webm"
   },
   {
     "key": "heritage",
-    "label": "heritage",
     "video": "videos/heritage.webm"
   },
   {
     "key": "hierarchie2",
-    "label": "hierarchie2",
     "video": "videos/hierarchie2.webm"
   },
   {
     "key": "hier",
-    "label": "hier",
     "video": "videos/hier.webm"
   },
   {
     "key": "histoire",
-    "label": "histoire",
     "video": "videos/histoire.webm"
   },
   {
     "key": "hiver",
-    "label": "hiver",
     "video": "videos/hiver.webm"
   },
   {
     "key": "hollande",
-    "label": "hollande",
     "video": "videos/hollande.webm"
   },
   {
     "key": "hommage",
-    "label": "hommage",
     "video": "videos/hommage.webm"
   },
   {
     "key": "homme",
-    "label": "homme",
     "video": "videos/homme.webm"
   },
   {
     "key": "hongrie",
-    "label": "hongrie",
     "video": "videos/hongrie.webm"
   },
   {
     "key": "honneur",
-    "label": "honneur",
     "video": "videos/honneur.webm"
   },
   {
     "key": "honte",
-    "label": "honte",
     "video": "videos/honte.webm"
   },
   {
     "key": "hopital",
-    "label": "hopital",
     "video": "videos/hopital.webm"
   },
   {
-    "key": "hopital",
-    "label": "hôpital",
+    "key": "hôpital",
     "video": "videos/hôpital.webm"
   },
   {
     "key": "horizon",
-    "label": "horizon",
     "video": "videos/horizon.webm"
   },
   {
     "key": "horticulture",
-    "label": "horticulture",
     "video": "videos/horticulture.webm"
   },
   {
     "key": "hotel",
-    "label": "hotel",
     "video": "videos/hotel.webm"
   },
   {
     "key": "huissier",
-    "label": "huissier",
     "video": "videos/huissier.webm"
   },
   {
     "key": "humour",
-    "label": "humour",
     "video": "videos/humour.webm"
   },
   {
     "key": "hypnose",
-    "label": "hypnose",
     "video": "videos/hypnose.webm"
   },
   {
     "key": "hypocrite",
-    "label": "hypocrite",
     "video": "videos/hypocrite.webm"
   },
   {
     "key": "iconique",
-    "label": "iconique",
     "video": "videos/iconique.webm"
   },
   {
     "key": "ideologie",
-    "label": "ideologie",
     "video": "videos/ideologie.webm"
   },
   {
-    "key": "il-fait-beau",
-    "label": "il fait beau",
+    "key": "il fait beau",
     "video": "videos/il fait beau.webm"
   },
   {
     "key": "illusion",
-    "label": "illusion",
     "video": "videos/illusion.webm"
   },
   {
-    "key": "il-neige",
-    "label": "il neige",
+    "key": "il neige",
     "video": "videos/il neige.webm"
   },
   {
-    "key": "il-n'y-a-personne",
-    "label": "il n'y a personne",
+    "key": "il n'y a personne",
     "video": "videos/il n'y a personne.webm"
   },
   {
-    "key": "I-love-you",
-    "label": "I love you",
+    "key": "I love you",
     "video": "videos/I love you.webm"
   },
   {
-    "key": "il-pleut",
-    "label": "il pleut",
+    "key": "il pleut",
     "video": "videos/il pleut.webm"
   },
   {
-    "key": "il-y-a-du-vent",
-    "label": "il y a du vent",
+    "key": "il y a du vent",
     "video": "videos/il y a du vent.webm"
   },
   {
-    "key": "imiter,-copier",
-    "label": "imiter, copier",
+    "key": "imiter, copier",
     "video": "videos/imiter, copier.webm"
   },
   {
     "key": "immeuble",
-    "label": "immeuble",
     "video": "videos/immeuble.webm"
   },
   {
     "key": "important",
-    "label": "important",
     "video": "videos/important.webm"
   },
   {
     "key": "impots",
-    "label": "impots",
     "video": "videos/impots.webm"
   },
   {
     "key": "imprimer",
-    "label": "imprimer",
     "video": "videos/imprimer.webm"
   },
   {
     "key": "inauguration",
-    "label": "inauguration",
     "video": "videos/inauguration.webm"
   },
   {
     "key": "inde",
-    "label": "inde",
     "video": "videos/inde.webm"
   },
   {
     "key": "individu",
-    "label": "individu",
     "video": "videos/individu.webm"
   },
   {
     "key": "infarctus",
-    "label": "infarctus",
     "video": "videos/infarctus.webm"
   },
   {
     "key": "infirmiere",
-    "label": "infirmiere",
     "video": "videos/infirmiere.webm"
   },
   {
-    "key": "infirmiere",
-    "label": "infirmière",
+    "key": "infirmière",
     "video": "videos/infirmière.webm"
   },
   {
     "key": "influence",
-    "label": "influence",
     "video": "videos/influence.webm"
   },
   {
     "key": "information",
-    "label": "information",
     "video": "videos/information.webm"
   },
   {
     "key": "informatique",
-    "label": "informatique",
     "video": "videos/informatique.webm"
   },
   {
     "key": "informer",
-    "label": "informer",
     "video": "videos/informer.webm"
   },
   {
     "key": "ingenieur",
-    "label": "ingenieur",
     "video": "videos/ingenieur.webm"
   },
   {
     "key": "insertion",
-    "label": "insertion",
     "video": "videos/insertion.webm"
   },
   {
-    "key": "instituteur,-professeur",
-    "label": "instituteur, professeur",
+    "key": "instituteur, professeur",
     "video": "videos/instituteur, professeur.webm"
   },
   {
     "key": "intelligence",
-    "label": "intelligence",
     "video": "videos/intelligence.webm"
   },
   {
     "key": "intergration",
-    "label": "intergration",
     "video": "videos/intergration.webm"
   },
   {
     "key": "interioriser",
-    "label": "interioriser",
     "video": "videos/interioriser.webm"
   },
   {
     "key": "international",
-    "label": "international",
     "video": "videos/international.webm"
   },
   {
     "key": "internet",
-    "label": "internet",
     "video": "videos/internet.webm"
   },
   {
     "key": "interpreter",
-    "label": "interpreter",
     "video": "videos/interpreter.webm"
   },
   {
     "key": "intervenir",
-    "label": "intervenir",
     "video": "videos/intervenir.webm"
   },
   {
     "key": "interview",
-    "label": "interview",
     "video": "videos/interview.webm"
   },
   {
     "key": "invention",
-    "label": "invention",
     "video": "videos/invention.webm"
   },
   {
     "key": "inviter",
-    "label": "inviter",
     "video": "videos/inviter.webm"
   },
   {
     "key": "irlande",
-    "label": "irlande",
     "video": "videos/irlande.webm"
   },
   {
     "key": "israel",
-    "label": "israel",
     "video": "videos/israel.webm"
   },
   {
-    "key": "italien-(langue)",
-    "label": "italien (langue)",
+    "key": "italien (langue)",
     "video": "videos/italien (langue).webm"
   },
   {
     "key": "italie",
-    "label": "italie",
     "video": "videos/italie.webm"
   },
   {
-    "key": "j'ai-le-temps",
-    "label": "j'ai le temps",
+    "key": "j'ai le temps",
     "video": "videos/j'ai le temps.webm"
   },
   {
     "key": "j'aime",
-    "label": "j'aime",
     "video": "videos/j'aime.webm"
   },
   {
-    "key": "j'ai-vu",
-    "label": "j'ai vu",
+    "key": "j'ai vu",
     "video": "videos/j'ai vu.webm"
   },
   {
     "key": "j'ai",
-    "label": "j'ai",
     "video": "videos/j'ai.webm"
   },
   {
     "key": "jamais",
-    "label": "jamais",
     "video": "videos/jamais.webm"
   },
   {
     "key": "jambon",
-    "label": "jambon",
     "video": "videos/jambon.webm"
   },
   {
     "key": "japon",
-    "label": "japon",
     "video": "videos/japon.webm"
   },
   {
     "key": "jardinage",
-    "label": "jardinage",
     "video": "videos/jardinage.webm"
   },
   {
     "key": "jaune",
-    "label": "jaune",
     "video": "videos/jaune.webm"
   },
   {
     "key": "jazz",
-    "label": "jazz",
     "video": "videos/jazz.webm"
   },
   {
-    "key": "je-connais",
-    "label": "je connais",
+    "key": "je connais",
     "video": "videos/je connais.webm"
   },
   {
-    "key": "je-crois",
-    "label": "je crois",
+    "key": "je crois",
     "video": "videos/je crois.webm"
   },
   {
-    "key": "je-n'aime-pas",
-    "label": "je n'aime pas",
+    "key": "je n'aime pas",
     "video": "videos/je n'aime pas.webm"
   },
   {
-    "key": "je-n'ai-pas-le-temps",
-    "label": "je n'ai pas le temps",
+    "key": "je n'ai pas le temps",
     "video": "videos/je n'ai pas le temps.webm"
   },
   {
-    "key": "je-n'ai-pas-vu",
-    "label": "je n'ai pas vu",
+    "key": "je n'ai pas vu",
     "video": "videos/je n'ai pas vu.webm"
   },
   {
-    "key": "je-n'ai-pas",
-    "label": "je n'ai pas",
+    "key": "je n'ai pas",
     "video": "videos/je n'ai pas.webm"
   },
   {
-    "key": "je-ne-connais-pas",
-    "label": "je ne connais pas",
+    "key": "je ne connais pas",
     "video": "videos/je ne connais pas.webm"
   },
   {
-    "key": "je-ne-crois-pas",
-    "label": "je ne crois pas",
+    "key": "je ne crois pas",
     "video": "videos/je ne crois pas.webm"
   },
   {
-    "key": "je-ne-peux-pas",
-    "label": "je ne peux pas",
+    "key": "je ne peux pas",
     "video": "videos/je ne peux pas.webm"
   },
   {
-    "key": "je-ne-sais-pas",
-    "label": "je ne sais pas",
+    "key": "je ne sais pas",
     "video": "videos/je ne sais pas.webm"
   },
   {
-    "key": "je-ne-suis-pas-la",
-    "label": "je ne suis pas là",
+    "key": "je ne suis pas là",
     "video": "videos/je ne suis pas là.webm"
   },
   {
-    "key": "je-ne-veux-pas",
-    "label": "je ne veux pas",
+    "key": "je ne veux pas",
     "video": "videos/je ne veux pas.webm"
   },
   {
-    "key": "je-peux",
-    "label": "je peux",
+    "key": "je peux",
     "video": "videos/je peux.webm"
   },
   {
-    "key": "je-sais",
-    "label": "je sais",
+    "key": "je sais",
     "video": "videos/je sais.webm"
   },
   {
-    "key": "je-suis-d'accord",
-    "label": "je suis d'accord",
+    "key": "je suis d'accord",
     "video": "videos/je suis d'accord.webm"
   },
   {
-    "key": "je-suis-la",
-    "label": "je suis là",
+    "key": "je suis là",
     "video": "videos/je suis là.webm"
   },
   {
-    "key": "jeu-de-cartes",
-    "label": "jeu de cartes",
+    "key": "jeu de cartes",
     "video": "videos/jeu de cartes.webm"
   },
   {
     "key": "jeunesse",
-    "label": "jeunesse",
     "video": "videos/jeunesse.webm"
   },
   {
     "key": "jeune",
-    "label": "jeune",
     "video": "videos/jeune.webm"
   },
   {
     "key": "jeu",
-    "label": "jeu",
     "video": "videos/jeu.webm"
   },
   {
-    "key": "je-veux",
-    "label": "je veux",
+    "key": "je veux",
     "video": "videos/je veux.webm"
   },
   {
     "key": "jouer",
-    "label": "jouer",
     "video": "videos/jouer.webm"
   },
   {
-    "key": "journee",
-    "label": "journée",
+    "key": "journée",
     "video": "videos/journée.webm"
   },
   {
     "key": "jupe",
-    "label": "jupe",
     "video": "videos/jupe.webm"
   },
   {
     "key": "justice2",
-    "label": "justice2",
     "video": "videos/justice2.webm"
   },
   {
     "key": "kaki",
-    "label": "kaki",
     "video": "videos/kaki.webm"
   },
   {
     "key": "kidnapper",
-    "label": "kidnapper",
     "video": "videos/kidnapper.webm"
   },
   {
     "key": "kilo",
-    "label": "kilo",
     "video": "videos/kilo.webm"
   },
   {
     "key": "kinesitherapie",
-    "label": "kinesitherapie",
     "video": "videos/kinesitherapie.webm"
   },
   {
     "key": "kleptomanie",
-    "label": "kleptomanie",
     "video": "videos/kleptomanie.webm"
   },
   {
     "key": "km",
-    "label": "km",
     "video": "videos/km.webm"
   },
   {
     "key": "k_watt",
-    "label": "k_watt",
     "video": "videos/k_watt.webm"
   },
   {
     "key": "laid",
-    "label": "laid",
     "video": "videos/laid.webm"
   },
   {
     "key": "la_mode",
-    "label": "la_mode",
     "video": "videos/la_mode.webm"
   },
   {
     "key": "langue",
-    "label": "langue",
     "video": "videos/langue.webm"
   },
   {
     "key": "laos",
-    "label": "laos",
     "video": "videos/laos.webm"
   },
   {
     "key": "leader",
-    "label": "leader",
     "video": "videos/leader.webm"
   },
   {
     "key": "lecture_labiale",
-    "label": "lecture_labiale",
     "video": "videos/lecture_labiale.webm"
   },
   {
     "key": "lecture",
-    "label": "lecture",
     "video": "videos/lecture.webm"
   },
   {
-    "key": "legume",
-    "label": "légume",
+    "key": "légume",
     "video": "videos/légume.webm"
   },
   {
     "key": "libellule",
-    "label": "libellule",
     "video": "videos/libellule.webm"
   },
   {
     "key": "liberte",
-    "label": "liberte",
     "video": "videos/liberte.webm"
   },
   {
     "key": "libre",
-    "label": "libre",
     "video": "videos/libre.webm"
   },
   {
     "key": "licenciement",
-    "label": "licenciement",
     "video": "videos/licenciement.webm"
   },
   {
     "key": "lille",
-    "label": "lille",
     "video": "videos/lille.webm"
   },
   {
     "key": "limoges",
-    "label": "limoges",
     "video": "videos/limoges.webm"
   },
   {
     "key": "linguistique",
-    "label": "linguistique",
     "video": "videos/linguistique.webm"
   },
   {
     "key": "lit",
-    "label": "lit",
     "video": "videos/lit.webm"
   },
   {
     "key": "livre",
-    "label": "livre",
     "video": "videos/livre.webm"
   },
   {
     "key": "location",
-    "label": "location",
     "video": "videos/location.webm"
   },
   {
     "key": "loi",
-    "label": "loi",
     "video": "videos/loi.webm"
   },
   {
     "key": "LSF",
-    "label": "LSF",
     "video": "videos/LSF.webm"
   },
   {
-    "key": "lui,-elle",
-    "label": "lui, elle",
+    "key": "lui, elle",
     "video": "videos/lui, elle.webm"
   },
   {
     "key": "lyon",
-    "label": "lyon",
     "video": "videos/lyon.webm"
   },
   {
     "key": "machine",
-    "label": "machine",
     "video": "videos/machine.webm"
   },
   {
     "key": "madame",
-    "label": "madame",
     "video": "videos/madame.webm"
   },
   {
     "key": "mademoiselle",
-    "label": "mademoiselle",
     "video": "videos/mademoiselle.webm"
   },
   {
     "key": "mafia",
-    "label": "mafia",
     "video": "videos/mafia.webm"
   },
   {
     "key": "maintenant",
-    "label": "maintenant",
     "video": "videos/maintenant.webm"
   },
   {
     "key": "mairie",
-    "label": "mairie",
     "video": "videos/mairie.webm"
   },
   {
     "key": "maison",
-    "label": "maison",
     "video": "videos/maison.webm"
   },
   {
-    "key": "maitresse",
-    "label": "maîtresse",
+    "key": "maîtresse",
     "video": "videos/maîtresse.webm"
   },
   {
     "key": "majeur",
-    "label": "majeur",
     "video": "videos/majeur.webm"
   },
   {
     "key": "malade",
-    "label": "malade",
     "video": "videos/malade.webm"
   },
   {
     "key": "maladie",
-    "label": "maladie",
     "video": "videos/maladie.webm"
   },
   {
     "key": "mal-entendant",
-    "label": "mal-entendant",
     "video": "videos/mal-entendant.webm"
   },
   {
     "key": "maman",
-    "label": "maman",
     "video": "videos/maman.webm"
   },
   {
-    "key": "ma,-mes",
-    "label": "ma, mes",
+    "key": "ma, mes",
     "video": "videos/ma, mes.webm"
   },
   {
     "key": "manger",
-    "label": "manger",
     "video": "videos/manger.webm"
   },
   {
     "key": "manifestation2",
-    "label": "manifestation2",
     "video": "videos/manifestation2.webm"
   },
   {
     "key": "manteau",
-    "label": "manteau",
     "video": "videos/manteau.webm"
   },
   {
     "key": "marcher",
-    "label": "marcher",
     "video": "videos/marcher.webm"
   },
   {
     "key": "marginal",
-    "label": "marginal",
     "video": "videos/marginal.webm"
   },
   {
     "key": "marier",
-    "label": "marier",
     "video": "videos/marier.webm"
   },
   {
     "key": "Marignane",
-    "label": "Marignane",
     "video": "videos/Marignane.webm"
   },
   {
     "key": "maroc",
-    "label": "maroc",
     "video": "videos/maroc.webm"
   },
   {
     "key": "marron",
-    "label": "marron",
     "video": "videos/marron.webm"
   },
   {
     "key": "marseille",
-    "label": "marseille",
     "video": "videos/marseille.webm"
   },
   {
     "key": "Marseille",
-    "label": "Marseille",
     "video": "videos/Marseille.webm"
   },
   {
     "key": "matin",
-    "label": "matin",
     "video": "videos/matin.webm"
   },
   {
     "key": "mauvais",
-    "label": "mauvais",
     "video": "videos/mauvais.webm"
   },
   {
     "key": "mecanique",
-    "label": "mecanique",
     "video": "videos/mecanique.webm"
   },
   {
-    "key": "mechant",
-    "label": "méchant",
+    "key": "méchant",
     "video": "videos/méchant.webm"
   },
   {
     "key": "medecin",
-    "label": "medecin",
     "video": "videos/medecin.webm"
   },
   {
-    "key": "medecin",
-    "label": "médecin",
+    "key": "médecin",
     "video": "videos/médecin.webm"
   },
   {
     "key": "medicament",
-    "label": "medicament",
     "video": "videos/medicament.webm"
   },
   {
     "key": "memoire_these",
-    "label": "memoire_these",
     "video": "videos/memoire_these.webm"
   },
   {
     "key": "mensuel",
-    "label": "mensuel",
     "video": "videos/mensuel.webm"
   },
   {
     "key": "merci",
-    "label": "merci",
     "video": "videos/merci.webm"
   },
   {
     "key": "mer",
-    "label": "mer",
     "video": "videos/mer.webm"
   },
   {
     "key": "message",
-    "label": "message",
     "video": "videos/message.webm"
   },
   {
     "key": "messe",
-    "label": "messe",
     "video": "videos/messe.webm"
   },
   {
     "key": "methode",
-    "label": "methode",
     "video": "videos/methode.webm"
   },
   {
     "key": "metier",
-    "label": "metier",
     "video": "videos/metier.webm"
   },
   {
-    "key": "mettre-a-la-porte",
-    "label": "mettre à la porte",
+    "key": "mettre à la porte",
     "video": "videos/mettre à la porte.webm"
   },
   {
     "key": "mettre",
-    "label": "mettre",
     "video": "videos/mettre.webm"
   },
   {
     "key": "metz",
-    "label": "metz",
     "video": "videos/metz.webm"
   },
   {
     "key": "mexique",
-    "label": "mexique",
     "video": "videos/mexique.webm"
   },
   {
     "key": "microbe",
-    "label": "microbe",
     "video": "videos/microbe.webm"
   },
   {
     "key": "microscope",
-    "label": "microscope",
     "video": "videos/microscope.webm"
   },
   {
     "key": "midi",
-    "label": "midi",
     "video": "videos/midi.webm"
   },
   {
     "key": "militaire",
-    "label": "militaire",
     "video": "videos/militaire.webm"
   },
   {
     "key": "mine",
-    "label": "mine",
     "video": "videos/mine.webm"
   },
   {
     "key": "minorite",
-    "label": "minorite",
     "video": "videos/minorite.webm"
   },
   {
     "key": "moderne",
-    "label": "moderne",
     "video": "videos/moderne.webm"
   },
   {
     "key": "moi",
-    "label": "moi",
     "video": "videos/moi.webm"
   },
   {
     "key": "monaco",
-    "label": "monaco",
     "video": "videos/monaco.webm"
   },
   {
     "key": "monde",
-    "label": "monde",
     "video": "videos/monde.webm"
   },
   {
     "key": "monsieur",
-    "label": "monsieur",
     "video": "videos/monsieur.webm"
   },
   {
     "key": "montagne",
-    "label": "montagne",
     "video": "videos/montagne.webm"
   },
   {
-    "key": "montgolfiere",
-    "label": "montgolfière",
+    "key": "montgolfière",
     "video": "videos/montgolfière.webm"
   },
   {
     "key": "montpellier",
-    "label": "montpellier",
     "video": "videos/montpellier.webm"
   },
   {
-    "key": "montre-(accessoire)",
-    "label": "montre (accessoire)",
+    "key": "montre (accessoire)",
     "video": "videos/montre (accessoire).webm"
   },
   {
     "key": "moquer",
-    "label": "moquer",
     "video": "videos/moquer.webm"
   },
   {
     "key": "moral",
-    "label": "moral",
     "video": "videos/moral.webm"
   },
   {
     "key": "moto",
-    "label": "moto",
     "video": "videos/moto.webm"
   },
   {
     "key": "mot",
-    "label": "mot",
     "video": "videos/mot.webm"
   },
   {
     "key": "mouton",
-    "label": "mouton",
     "video": "videos/mouton.webm"
   },
   {
     "key": "mouvement",
-    "label": "mouvement",
     "video": "videos/mouvement.webm"
   },
   {
     "key": "mulhouse",
-    "label": "mulhouse",
     "video": "videos/mulhouse.webm"
   },
   {
     "key": "musique",
-    "label": "musique",
     "video": "videos/musique.webm"
   },
   {
     "key": "musulman",
-    "label": "musulman",
     "video": "videos/musulman.webm"
   },
   {
     "key": "mutation",
-    "label": "mutation",
     "video": "videos/mutation.webm"
   },
   {
     "key": "nager",
-    "label": "nager",
     "video": "videos/nager.webm"
   },
   {
     "key": "nancy",
-    "label": "nancy",
     "video": "videos/nancy.webm"
   },
   {
     "key": "nantes",
-    "label": "nantes",
     "video": "videos/nantes.webm"
   },
   {
     "key": "nationalite",
-    "label": "nationalite",
     "video": "videos/nationalite.webm"
   },
   {
     "key": "naturel",
-    "label": "naturel",
     "video": "videos/naturel.webm"
   },
   {
     "key": "neurologique",
-    "label": "neurologique",
     "video": "videos/neurologique.webm"
   },
   {
     "key": "neutre",
-    "label": "neutre",
     "video": "videos/neutre.webm"
   },
   {
     "key": "neveu",
-    "label": "neveu",
     "video": "videos/neveu.webm"
   },
   {
-    "key": "niece",
-    "label": "nièce",
+    "key": "nièce",
     "video": "videos/nièce.webm"
   },
   {
     "key": "nimes",
-    "label": "nimes",
     "video": "videos/nimes.webm"
   },
   {
     "key": "niveau",
-    "label": "niveau",
     "video": "videos/niveau.webm"
   },
   {
     "key": "noir",
-    "label": "noir",
     "video": "videos/noir.webm"
   },
   {
     "key": "nombreux",
-    "label": "nombreux",
     "video": "videos/nombreux.webm"
   },
   {
-    "key": "non-merci",
-    "label": "non merci",
+    "key": "non merci",
     "video": "videos/non merci.webm"
   },
   {
-    "key": "non-signe",
-    "label": "non-signé",
+    "key": "non-signé",
     "video": "videos/non-signé.webm"
   },
   {
     "key": "non",
-    "label": "non",
     "video": "videos/non.webm"
   },
   {
     "key": "normal",
-    "label": "normal",
     "video": "videos/normal.webm"
   },
   {
     "key": "norvege",
-    "label": "norvege",
     "video": "videos/norvege.webm"
   },
   {
     "key": "notaire",
-    "label": "notaire",
     "video": "videos/notaire.webm"
   },
   {
     "key": "nous",
-    "label": "nous",
     "video": "videos/nous.webm"
   },
   {
     "key": "nouvelle",
-    "label": "nouvelle",
     "video": "videos/nouvelle.webm"
   },
   {
     "key": "nucleaire",
-    "label": "nucleaire",
     "video": "videos/nucleaire.webm"
   },
   {
     "key": "objectif",
-    "label": "objectif",
     "video": "videos/objectif.webm"
   },
   {
     "key": "objection",
-    "label": "objection",
     "video": "videos/objection.webm"
   },
   {
     "key": "objet",
-    "label": "objet",
     "video": "videos/objet.webm"
   },
   {
     "key": "obligation",
-    "label": "obligation",
     "video": "videos/obligation.webm"
   },
   {
     "key": "observateur",
-    "label": "observateur",
     "video": "videos/observateur.webm"
   },
   {
     "key": "oeuf",
-    "label": "oeuf",
     "video": "videos/oeuf.webm"
   },
   {
     "key": "officiel",
-    "label": "officiel",
     "video": "videos/officiel.webm"
   },
   {
     "key": "offrir",
-    "label": "offrir",
     "video": "videos/offrir.webm"
   },
   {
     "key": "oie",
-    "label": "oie",
     "video": "videos/oie.webm"
   },
   {
     "key": "oncle",
-    "label": "oncle",
     "video": "videos/oncle.webm"
   },
   {
     "key": "opression",
-    "label": "opression",
     "video": "videos/opression.webm"
   },
   {
     "key": "oral",
-    "label": "oral",
     "video": "videos/oral.webm"
   },
   {
     "key": "orange",
-    "label": "orange",
     "video": "videos/orange.webm"
   },
   {
     "key": "organiser",
-    "label": "organiser",
     "video": "videos/organiser.webm"
   },
   {
     "key": "orientation",
-    "label": "orientation",
     "video": "videos/orientation.webm"
   },
   {
     "key": "origine",
-    "label": "origine",
     "video": "videos/origine.webm"
   },
   {
     "key": "orleans",
-    "label": "orleans",
     "video": "videos/orleans.webm"
   },
   {
     "key": "or",
-    "label": "or",
     "video": "videos/or.webm"
   },
   {
     "key": "oublier",
-    "label": "oublier",
     "video": "videos/oublier.webm"
   },
   {
     "key": "oui",
-    "label": "oui",
     "video": "videos/oui.webm"
   },
   {
-    "key": "oumanie-(?)",
-    "label": "oumanie (?)",
+    "key": "oumanie (?)",
     "video": "videos/oumanie (?).webm"
   },
   {
     "key": "ours",
-    "label": "ours",
     "video": "videos/ours.webm"
   },
   {
     "key": "outil",
-    "label": "outil",
     "video": "videos/outil.webm"
   },
   {
     "key": "ouvert",
-    "label": "ouvert",
     "video": "videos/ouvert.webm"
   },
   {
-    "key": "...-ou-...",
-    "label": "… ou …",
+    "key": "… ou …",
     "video": "videos/… ou ….webm"
   },
   {
-    "key": "ou-?",
-    "label": "où ?",
+    "key": "où ?",
     "video": "videos/où ?.webm"
   },
   {
     "key": "paella",
-    "label": "paella",
     "video": "videos/paella.webm"
   },
   {
     "key": "pain",
-    "label": "pain",
     "video": "videos/pain.webm"
   },
   {
     "key": "palme",
-    "label": "palme",
     "video": "videos/palme.webm"
   },
   {
     "key": "pantalon",
-    "label": "pantalon",
     "video": "videos/pantalon.webm"
   },
   {
     "key": "papa",
-    "label": "papa",
     "video": "videos/papa.webm"
   },
   {
     "key": "papier",
-    "label": "papier",
     "video": "videos/papier.webm"
   },
   {
     "key": "paques",
-    "label": "paques",
     "video": "videos/paques.webm"
   },
   {
-    "key": "parametre(s)",
-    "label": "paramètre(s)",
+    "key": "paramètre(s)",
     "video": "videos/paramètre(s).webm"
   },
   {
     "key": "pardon",
-    "label": "pardon",
     "video": "videos/pardon.webm"
   },
   {
     "key": "pareil",
-    "label": "pareil",
     "video": "videos/pareil.webm"
   },
   {
     "key": "parent",
-    "label": "parent",
     "video": "videos/parent.webm"
   },
   {
     "key": "paris",
-    "label": "paris",
     "video": "videos/paris.webm"
   },
   {
     "key": "Paris",
-    "label": "Paris",
     "video": "videos/Paris.webm"
   },
   {
-    "key": "parle",
-    "label": "parlé",
+    "key": "parlé",
     "video": "videos/parlé.webm"
   },
   {
     "key": "participer",
-    "label": "participer",
     "video": "videos/participer.webm"
   },
   {
     "key": "partir",
-    "label": "partir",
     "video": "videos/partir.webm"
   },
   {
-    "key": "pas-compris",
-    "label": "pas compris",
+    "key": "pas compris",
     "video": "videos/pas compris.webm"
   },
   {
-    "key": "pas-content",
-    "label": "pas content",
+    "key": "pas content",
     "video": "videos/pas content.webm"
   },
   {
-    "key": "pas-d'accord",
-    "label": "pas d'accord",
+    "key": "pas d'accord",
     "video": "videos/pas d'accord.webm"
   },
   {
-    "key": "pas-grave",
-    "label": "pas grave",
+    "key": "pas grave",
     "video": "videos/pas grave.webm"
   },
   {
-    "key": "pas-la-peine",
-    "label": "pas la peine",
+    "key": "pas la peine",
     "video": "videos/pas la peine.webm"
   },
   {
-    "key": "pate",
-    "label": "pâte",
+    "key": "pâte",
     "video": "videos/pâte.webm"
   },
   {
-    "key": "patin-a-glace",
-    "label": "patin à glace",
+    "key": "patin à glace",
     "video": "videos/patin à glace.webm"
   },
   {
-    "key": "patin-a-roulettes",
-    "label": "patin à roulettes",
+    "key": "patin à roulettes",
     "video": "videos/patin à roulettes.webm"
   },
   {
     "key": "patron",
-    "label": "patron",
     "video": "videos/patron.webm"
   },
   {
     "key": "pause",
-    "label": "pause",
     "video": "videos/pause.webm"
   },
   {
     "key": "payer",
-    "label": "payer",
     "video": "videos/payer.webm"
   },
   {
     "key": "pedagogie",
-    "label": "pedagogie",
     "video": "videos/pedagogie.webm"
   },
   {
     "key": "pedophile",
-    "label": "pedophile",
     "video": "videos/pedophile.webm"
   },
   {
     "key": "perdre",
-    "label": "perdre",
     "video": "videos/perdre.webm"
   },
   {
     "key": "personne",
-    "label": "personne",
     "video": "videos/personne.webm"
   },
   {
-    "key": "petit.e-ami.e",
-    "label": "petit·e-ami·e",
+    "key": "petit·e-ami·e",
     "video": "videos/petit·e-ami·e.webm"
   },
   {
     "key": "petite-fille",
-    "label": "petite-fille",
     "video": "videos/petite-fille.webm"
   },
   {
     "key": "petit-fils",
-    "label": "petit-fils",
     "video": "videos/petit-fils.webm"
   },
   {
     "key": "petits-enfants",
-    "label": "petits-enfants",
     "video": "videos/petits-enfants.webm"
   },
   {
     "key": "petit",
-    "label": "petit",
     "video": "videos/petit.webm"
   },
   {
     "key": "peur",
-    "label": "peur",
     "video": "videos/peur.webm"
   },
   {
     "key": "pharmacie",
-    "label": "pharmacie",
     "video": "videos/pharmacie.webm"
   },
   {
     "key": "philosophe",
-    "label": "philosophe",
     "video": "videos/philosophe.webm"
   },
   {
     "key": "photocopie",
-    "label": "photocopie",
     "video": "videos/photocopie.webm"
   },
   {
     "key": "photographie",
-    "label": "photographie",
     "video": "videos/photographie.webm"
   },
   {
     "key": "photo",
-    "label": "photo",
     "video": "videos/photo.webm"
   },
   {
     "key": "phrase",
-    "label": "phrase",
     "video": "videos/phrase.webm"
   },
   {
     "key": "physique",
-    "label": "physique",
     "video": "videos/physique.webm"
   },
   {
     "key": "ping-pong",
-    "label": "ping-pong",
     "video": "videos/ping-pong.webm"
   },
   {
     "key": "pique-nique",
-    "label": "pique-nique",
     "video": "videos/pique-nique.webm"
   },
   {
     "key": "piscine",
-    "label": "piscine",
     "video": "videos/piscine.webm"
   },
   {
     "key": "plage",
-    "label": "plage",
     "video": "videos/plage.webm"
   },
   {
-    "key": "planche-a-voile",
-    "label": "planche à voile",
+    "key": "planche à voile",
     "video": "videos/planche à voile.webm"
   },
   {
-    "key": "planete",
-    "label": "planète",
+    "key": "planète",
     "video": "videos/planète.webm"
   },
   {
     "key": "plastique",
-    "label": "plastique",
     "video": "videos/plastique.webm"
   },
   {
     "key": "pleurer",
-    "label": "pleurer",
     "video": "videos/pleurer.webm"
   },
   {
     "key": "pleuvoir",
-    "label": "pleuvoir",
     "video": "videos/pleuvoir.webm"
   },
   {
     "key": "plombier",
-    "label": "plombier",
     "video": "videos/plombier.webm"
   },
   {
     "key": "plonger",
-    "label": "plonger",
     "video": "videos/plonger.webm"
   },
   {
     "key": "plusieurs",
-    "label": "plusieurs",
     "video": "videos/plusieurs.webm"
   },
   {
     "key": "poeme",
-    "label": "poeme",
     "video": "videos/poeme.webm"
   },
   {
     "key": "poisson",
-    "label": "poisson",
     "video": "videos/poisson.webm"
   },
   {
     "key": "poitiers",
-    "label": "poitiers",
     "video": "videos/poitiers.webm"
   },
   {
     "key": "politique",
-    "label": "politique",
     "video": "videos/politique.webm"
   },
   {
-    "key": "polonais-(langue)",
-    "label": "polonais (langue)",
+    "key": "polonais (langue)",
     "video": "videos/polonais (langue).webm"
   },
   {
-    "key": "pomme-de-terre",
-    "label": "pomme de terre",
+    "key": "pomme de terre",
     "video": "videos/pomme de terre.webm"
   },
   {
     "key": "pomme",
-    "label": "pomme",
     "video": "videos/pomme.webm"
   },
   {
     "key": "pompier",
-    "label": "pompier",
     "video": "videos/pompier.webm"
   },
   {
     "key": "pont",
-    "label": "pont",
     "video": "videos/pont.webm"
   },
   {
     "key": "portable",
-    "label": "portable",
     "video": "videos/portable.webm"
   },
   {
     "key": "porte",
-    "label": "porte",
     "video": "videos/porte.webm"
   },
   {
     "key": "positif",
-    "label": "positif",
     "video": "videos/positif.webm"
   },
   {
     "key": "poubelle",
-    "label": "poubelle",
     "video": "videos/poubelle.webm"
   },
   {
     "key": "poule",
-    "label": "poule",
     "video": "videos/poule.webm"
   },
   {
-    "key": "pourquoi-?",
-    "label": "pourquoi ?",
+    "key": "pourquoi ?",
     "video": "videos/pourquoi ?.webm"
   },
   {
     "key": "pourquoi",
-    "label": "pourquoi",
     "video": "videos/pourquoi.webm"
   },
   {
-    "key": "pour-rien",
-    "label": "pour rien",
+    "key": "pour rien",
     "video": "videos/pour rien.webm"
   },
   {
     "key": "pour",
-    "label": "pour",
     "video": "videos/pour.webm"
   },
   {
     "key": "pouvoir",
-    "label": "pouvoir",
     "video": "videos/pouvoir.webm"
   },
   {
-    "key": "prefere.e",
-    "label": "préféré·e",
+    "key": "préféré·e",
     "video": "videos/préféré·e.webm"
   },
   {
-    "key": "preferer",
-    "label": "préférer",
+    "key": "préférer",
     "video": "videos/préférer.webm"
   },
   {
-    "key": "premiere",
-    "label": "première",
+    "key": "première",
     "video": "videos/première.webm"
   },
   {
     "key": "prendre",
-    "label": "prendre",
     "video": "videos/prendre.webm"
   },
   {
-    "key": "prenom",
-    "label": "prénom",
+    "key": "prénom",
     "video": "videos/prénom.webm"
   },
   {
-    "key": "presenter,-montrer",
-    "label": "présenter, montrer",
+    "key": "présenter, montrer",
     "video": "videos/présenter, montrer.webm"
   },
   {
-    "key": "president-de-la-republique",
-    "label": "président de la république",
+    "key": "président de la république",
     "video": "videos/président de la république.webm"
   },
   {
-    "key": "preter",
-    "label": "prêter",
+    "key": "prêter",
     "video": "videos/prêter.webm"
   },
   {
-    "key": "pret",
-    "label": "prêt",
+    "key": "prêt",
     "video": "videos/prêt.webm"
   },
   {
     "key": "printemps",
-    "label": "printemps",
     "video": "videos/printemps.webm"
   },
   {
     "key": "priori",
-    "label": "priori",
     "video": "videos/priori.webm"
   },
   {
     "key": "prive2",
-    "label": "prive2",
     "video": "videos/prive2.webm"
   },
   {
     "key": "probleme",
-    "label": "probleme",
     "video": "videos/probleme.webm"
   },
   {
     "key": "production",
-    "label": "production",
     "video": "videos/production.webm"
   },
   {
     "key": "programme",
-    "label": "programme",
     "video": "videos/programme.webm"
   },
   {
     "key": "promenade",
-    "label": "promenade",
     "video": "videos/promenade.webm"
   },
   {
     "key": "pronom",
-    "label": "pronom",
     "video": "videos/pronom.webm"
   },
   {
     "key": "proposer",
-    "label": "proposer",
     "video": "videos/proposer.webm"
   },
   {
     "key": "proposition",
-    "label": "proposition",
     "video": "videos/proposition.webm"
   },
   {
-    "key": "proteger",
-    "label": "protéger",
+    "key": "protéger",
     "video": "videos/protéger.webm"
   },
   {
     "key": "psychologue",
-    "label": "psychologue",
     "video": "videos/psychologue.webm"
   },
   {
-    "key": "pull-(vetement)",
-    "label": "pull (vêtement)",
+    "key": "pull (vêtement)",
     "video": "videos/pull (vêtement).webm"
   },
   {
-    "key": "quand-?",
-    "label": "quand ?",
+    "key": "quand ?",
     "video": "videos/quand ?.webm"
   },
   {
-    "key": "qui-?",
-    "label": "qui ?",
+    "key": "qui ?",
     "video": "videos/qui ?.webm"
   },
   {
-    "key": "quoi-?",
-    "label": "quoi ?",
+    "key": "quoi ?",
     "video": "videos/quoi ?.webm"
   },
   {
     "key": "raconter",
-    "label": "raconter",
     "video": "videos/raconter.webm"
   },
   {
     "key": "radioactif",
-    "label": "radioactif",
     "video": "videos/radioactif.webm"
   },
   {
     "key": "ranger",
-    "label": "ranger",
     "video": "videos/ranger.webm"
   },
   {
     "key": "rat",
-    "label": "rat",
     "video": "videos/rat.webm"
   },
   {
     "key": "recherche",
-    "label": "recherche",
     "video": "videos/recherche.webm"
   },
   {
     "key": "refuser",
-    "label": "refuser",
     "video": "videos/refuser.webm"
   },
   {
     "key": "regarder",
-    "label": "regarder",
     "video": "videos/regarder.webm"
   },
   {
     "key": "reims",
-    "label": "reims",
     "video": "videos/reims.webm"
   },
   {
     "key": "rejoindre",
-    "label": "rejoindre",
     "video": "videos/rejoindre.webm"
   },
   {
     "key": "relation",
-    "label": "relation",
     "video": "videos/relation.webm"
   },
   {
     "key": "rembourser",
-    "label": "rembourser",
     "video": "videos/rembourser.webm"
   },
   {
     "key": "rencontrer",
-    "label": "rencontrer",
     "video": "videos/rencontrer.webm"
   },
   {
     "key": "rendez-vous",
-    "label": "rendez-vous",
     "video": "videos/rendez-vous.webm"
   },
   {
     "key": "rennes",
-    "label": "rennes",
     "video": "videos/rennes.webm"
   },
   {
-    "key": "repondre",
-    "label": "répondre",
+    "key": "répondre",
     "video": "videos/répondre.webm"
   },
   {
     "key": "responsable",
-    "label": "responsable",
     "video": "videos/responsable.webm"
   },
   {
     "key": "restaurant",
-    "label": "restaurant",
     "video": "videos/restaurant.webm"
   },
   {
     "key": "restauration",
-    "label": "restauration",
     "video": "videos/restauration.webm"
   },
   {
     "key": "rester",
-    "label": "rester",
     "video": "videos/rester.webm"
   },
   {
     "key": "retard",
-    "label": "retard",
     "video": "videos/retard.webm"
   },
   {
-    "key": "reveur",
-    "label": "réveur",
+    "key": "réveur",
     "video": "videos/réveur.webm"
   },
   {
-    "key": "reviser",
-    "label": "réviser",
+    "key": "réviser",
     "video": "videos/réviser.webm"
   },
   {
     "key": "revision",
-    "label": "revision",
     "video": "videos/revision.webm"
   },
   {
     "key": "rire",
-    "label": "rire",
     "video": "videos/rire.webm"
   },
   {
     "key": "rival",
-    "label": "rival",
     "video": "videos/rival.webm"
   },
   {
-    "key": "riviere",
-    "label": "rivière",
+    "key": "rivière",
     "video": "videos/rivière.webm"
   },
   {
     "key": "riz",
-    "label": "riz",
     "video": "videos/riz.webm"
   },
   {
     "key": "robe",
-    "label": "robe",
     "video": "videos/robe.webm"
   },
   {
     "key": "roi",
-    "label": "roi",
     "video": "videos/roi.webm"
   },
   {
     "key": "role",
-    "label": "role",
     "video": "videos/role.webm"
   },
   {
     "key": "roller",
-    "label": "roller",
     "video": "videos/roller.webm"
   },
   {
     "key": "rome",
-    "label": "rome",
     "video": "videos/rome.webm"
   },
   {
     "key": "rose",
-    "label": "rose",
     "video": "videos/rose.webm"
   },
   {
     "key": "rouge",
-    "label": "rouge",
     "video": "videos/rouge.webm"
   },
   {
     "key": "rouler",
-    "label": "rouler",
     "video": "videos/rouler.webm"
   },
   {
     "key": "roumanie",
-    "label": "roumanie",
     "video": "videos/roumanie.webm"
   },
   {
-    "key": "route-nationale",
-    "label": "route nationale",
+    "key": "route nationale",
     "video": "videos/route nationale.webm"
   },
   {
     "key": "roux",
-    "label": "roux",
     "video": "videos/roux.webm"
   },
   {
-    "key": "sac-a-main",
-    "label": "sac à main",
+    "key": "sac à main",
     "video": "videos/sac à main.webm"
   },
   {
     "key": "saint-etienne",
-    "label": "saint-etienne",
     "video": "videos/saint-etienne.webm"
   },
   {
-    "key": "saison-(de-l'annee)",
-    "label": "saison (de l'année)",
+    "key": "saison (de l'année)",
     "video": "videos/saison (de l'année).webm"
   },
   {
-    "key": "saisons-(de-l'annee)",
-    "label": "saisons (de l'année)",
+    "key": "saisons (de l'année)",
     "video": "videos/saisons (de l'année).webm"
   },
   {
     "key": "salade",
-    "label": "salade",
     "video": "videos/salade.webm"
   },
   {
     "key": "salle",
-    "label": "salle",
     "video": "videos/salle.webm"
   },
   {
     "key": "s'allier",
-    "label": "s'allier",
     "video": "videos/s'allier.webm"
   },
   {
     "key": "sandwich",
-    "label": "sandwich",
     "video": "videos/sandwich.webm"
   },
   {
-    "key": "sans-interruption",
-    "label": "sans interruption",
+    "key": "sans interruption",
     "video": "videos/sans interruption.webm"
   },
   {
     "key": "sante",
-    "label": "sante",
     "video": "videos/sante.webm"
   },
   {
     "key": "s'asseoir",
-    "label": "s'asseoir",
     "video": "videos/s'asseoir.webm"
   },
   {
     "key": "saucisson",
-    "label": "saucisson",
     "video": "videos/saucisson.webm"
   },
   {
     "key": "sauf",
-    "label": "sauf",
     "video": "videos/sauf.webm"
   },
   {
     "key": "scanner_medical",
-    "label": "scanner_medical",
     "video": "videos/scanner_medical.webm"
   },
   {
     "key": "schizophrene",
-    "label": "schizophrene",
     "video": "videos/schizophrene.webm"
   },
   {
     "key": "sculpture",
-    "label": "sculpture",
     "video": "videos/sculpture.webm"
   },
   {
     "key": "secretaria",
-    "label": "secretaria",
     "video": "videos/secretaria.webm"
   },
   {
-    "key": "se-faufiler",
-    "label": "se faufiler",
+    "key": "se faufiler",
     "video": "videos/se faufiler.webm"
   },
   {
     "key": "segregation",
-    "label": "segregation",
     "video": "videos/segregation.webm"
   },
   {
     "key": "seisme",
-    "label": "seisme",
     "video": "videos/seisme.webm"
   },
   {
     "key": "selection2",
-    "label": "selection2",
     "video": "videos/selection2.webm"
   },
   {
-    "key": "se-lever",
-    "label": "se lever",
+    "key": "se lever",
     "video": "videos/se lever.webm"
   },
   {
-    "key": "se-moquer",
-    "label": "se moquer",
+    "key": "se moquer",
     "video": "videos/se moquer.webm"
   },
   {
-    "key": "sens-(direction)",
-    "label": "sens (direction)",
+    "key": "sens (direction)",
     "video": "videos/sens (direction).webm"
   },
   {
-    "key": "se-promener",
-    "label": "se promener",
+    "key": "se promener",
     "video": "videos/se promener.webm"
   },
   {
-    "key": "se-rappeler",
-    "label": "se rappeler",
+    "key": "se rappeler",
     "video": "videos/se rappeler.webm"
   },
   {
-    "key": "se-reveiller",
-    "label": "se réveiller",
+    "key": "se réveiller",
     "video": "videos/se réveiller.webm"
   },
   {
-    "key": "serre",
-    "label": "serré",
+    "key": "serré",
     "video": "videos/serré.webm"
   },
   {
-    "key": "se-taire",
-    "label": "se taire",
+    "key": "se taire",
     "video": "videos/se taire.webm"
   },
   {
-    "key": "seul.e",
-    "label": "seul·e",
+    "key": "seul·e",
     "video": "videos/seul·e.webm"
   },
   {
-    "key": "short-(vetement)",
-    "label": "short (vêtement)",
+    "key": "short (vêtement)",
     "video": "videos/short (vêtement).webm"
   },
   {
-    "key": "signaire-(vocabulaire-LSF)",
-    "label": "signaire (vocabulaire LSF)",
+    "key": "signaire (vocabulaire LSF)",
     "video": "videos/signaire (vocabulaire LSF).webm"
   },
   {
-    "key": "signe",
-    "label": "signé",
+    "key": "signé",
     "video": "videos/signé.webm"
   },
   {
     "key": "silence",
-    "label": "silence",
     "video": "videos/silence.webm"
   },
   {
-    "key": "s'il-vous-plait",
-    "label": "s'il vous plait",
+    "key": "s'il vous plait",
     "video": "videos/s'il vous plait.webm"
   },
   {
     "key": "ski",
-    "label": "ski",
     "video": "videos/ski.webm"
   },
   {
     "key": "snowboard",
-    "label": "snowboard",
     "video": "videos/snowboard.webm"
   },
   {
     "key": "social",
-    "label": "social",
     "video": "videos/social.webm"
   },
   {
     "key": "soeur",
-    "label": "soeur",
     "video": "videos/soeur.webm"
   },
   {
     "key": "soigner",
-    "label": "soigner",
     "video": "videos/soigner.webm"
   },
   {
     "key": "soir",
-    "label": "soir",
     "video": "videos/soir.webm"
   },
   {
     "key": "soldat",
-    "label": "soldat",
     "video": "videos/soldat.webm"
   },
   {
     "key": "soleil",
-    "label": "soleil",
     "video": "videos/soleil.webm"
   },
   {
-    "key": "son,-sa,-ses,-leurs",
-    "label": "son, sa, ses, leurs",
+    "key": "son, sa, ses, leurs",
     "video": "videos/son, sa, ses, leurs.webm"
   },
   {
     "key": "sortie",
-    "label": "sortie",
     "video": "videos/sortie.webm"
   },
   {
-    "key": "soucoupe-volante",
-    "label": "soucoupe volante",
+    "key": "soucoupe volante",
     "video": "videos/soucoupe volante.webm"
   },
   {
     "key": "sourd",
-    "label": "sourd",
     "video": "videos/sourd.webm"
   },
   {
     "key": "sourire",
-    "label": "sourire",
     "video": "videos/sourire.webm"
   },
   {
     "key": "souris",
-    "label": "souris",
     "video": "videos/souris.webm"
   },
   {
     "key": "sous-marin",
-    "label": "sous-marin",
     "video": "videos/sous-marin.webm"
   },
   {
     "key": "sous_titrage",
-    "label": "sous_titrage",
     "video": "videos/sous_titrage.webm"
   },
   {
     "key": "souvent",
-    "label": "souvent",
     "video": "videos/souvent.webm"
   },
   {
     "key": "sport",
-    "label": "sport",
     "video": "videos/sport.webm"
   },
   {
     "key": "stage",
-    "label": "stage",
     "video": "videos/stage.webm"
   },
   {
     "key": "stagiaire",
-    "label": "stagiaire",
     "video": "videos/stagiaire.webm"
   },
   {
     "key": "statuts",
-    "label": "statuts",
     "video": "videos/statuts.webm"
   },
   {
     "key": "strasbourg",
-    "label": "strasbourg",
     "video": "videos/strasbourg.webm"
   },
   {
     "key": "subvention",
-    "label": "subvention",
     "video": "videos/subvention.webm"
   },
   {
     "key": "sucre",
-    "label": "sucre",
     "video": "videos/sucre.webm"
   },
   {
     "key": "suede",
-    "label": "suede",
     "video": "videos/suede.webm"
   },
   {
     "key": "suivre",
-    "label": "suivre",
     "video": "videos/suivre.webm"
   },
   {
     "key": "super",
-    "label": "super",
     "video": "videos/super.webm"
   },
   {
     "key": "surveiller",
-    "label": "surveiller",
     "video": "videos/surveiller.webm"
   },
   {
     "key": "symbole",
-    "label": "symbole",
     "video": "videos/symbole.webm"
   },
   {
     "key": "sympathie",
-    "label": "sympathie",
     "video": "videos/sympathie.webm"
   },
   {
     "key": "sympathique",
-    "label": "sympathique",
     "video": "videos/sympathique.webm"
   },
   {
     "key": "syndicat",
-    "label": "syndicat",
     "video": "videos/syndicat.webm"
   },
   {
     "key": "tableau",
-    "label": "tableau",
     "video": "videos/tableau.webm"
   },
   {
     "key": "table",
-    "label": "table",
     "video": "videos/table.webm"
   },
   {
-    "key": "taille-(mesure)",
-    "label": "taille (mesure)",
+    "key": "taille (mesure)",
     "video": "videos/taille (mesure).webm"
   },
   {
     "key": "talon",
-    "label": "talon",
     "video": "videos/talon.webm"
   },
   {
     "key": "tante",
-    "label": "tante",
     "video": "videos/tante.webm"
   },
   {
     "key": "tard",
-    "label": "tard",
     "video": "videos/tard.webm"
   },
   {
     "key": "tarif",
-    "label": "tarif",
     "video": "videos/tarif.webm"
   },
   {
     "key": "tartine",
-    "label": "tartine",
     "video": "videos/tartine.webm"
   },
   {
     "key": "taureau",
-    "label": "taureau",
     "video": "videos/taureau.webm"
   },
   {
     "key": "taxe",
-    "label": "taxe",
     "video": "videos/taxe.webm"
   },
   {
     "key": "technique",
-    "label": "technique",
     "video": "videos/technique.webm"
   },
   {
     "key": "telecommunication",
-    "label": "telecommunication",
     "video": "videos/telecommunication.webm"
   },
   {
-    "key": "telephoner",
-    "label": "téléphoner",
+    "key": "téléphoner",
     "video": "videos/téléphoner.webm"
   },
   {
-    "key": "telephone",
-    "label": "téléphone",
+    "key": "téléphone",
     "video": "videos/téléphone.webm"
   },
   {
     "key": "television",
-    "label": "television",
     "video": "videos/television.webm"
   },
   {
-    "key": "television",
-    "label": "télévision",
+    "key": "télévision",
     "video": "videos/télévision.webm"
   },
   {
     "key": "tennis",
-    "label": "tennis",
     "video": "videos/tennis.webm"
   },
   {
     "key": "terminer",
-    "label": "terminer",
     "video": "videos/terminer.webm"
   },
   {
     "key": "terre",
-    "label": "terre",
     "video": "videos/terre.webm"
   },
   {
     "key": "terrible",
-    "label": "terrible",
     "video": "videos/terrible.webm"
   },
   {
     "key": "TGV",
-    "label": "TGV",
     "video": "videos/TGV.webm"
   },
   {
     "key": "theatre",
-    "label": "theatre",
     "video": "videos/theatre.webm"
   },
   {
-    "key": "theatre",
-    "label": "théatre",
+    "key": "théatre",
     "video": "videos/théatre.webm"
   },
   {
-    "key": "theme",
-    "label": "thème",
+    "key": "thème",
     "video": "videos/thème.webm"
   },
   {
     "key": "theorie",
-    "label": "theorie",
     "video": "videos/theorie.webm"
   },
   {
     "key": "thermometre1",
-    "label": "thermometre1",
     "video": "videos/thermometre1.webm"
   },
   {
-    "key": "the",
-    "label": "thé",
+    "key": "thé",
     "video": "videos/thé.webm"
   },
   {
     "key": "timbre",
-    "label": "timbre",
     "video": "videos/timbre.webm"
   },
   {
     "key": "toi",
-    "label": "toi",
     "video": "videos/toi.webm"
   },
   {
     "key": "tomate",
-    "label": "tomate",
     "video": "videos/tomate.webm"
   },
   {
     "key": "tomber",
-    "label": "tomber",
     "video": "videos/tomber.webm"
   },
   {
-    "key": "ton,-ta,-tes",
-    "label": "ton, ta, tes",
+    "key": "ton, ta, tes",
     "video": "videos/ton, ta, tes.webm"
   },
   {
-    "key": "tortue-de-mer",
-    "label": "tortue de mer",
+    "key": "tortue de mer",
     "video": "videos/tortue de mer.webm"
   },
   {
-    "key": "tortue-de-terre",
-    "label": "tortue de terre",
+    "key": "tortue de terre",
     "video": "videos/tortue de terre.webm"
   },
   {
-    "key": "tot",
-    "label": "tôt",
+    "key": "tôt",
     "video": "videos/tôt.webm"
   },
   {
     "key": "toujours",
-    "label": "toujours",
     "video": "videos/toujours.webm"
   },
   {
     "key": "toulouse",
-    "label": "toulouse",
     "video": "videos/toulouse.webm"
   },
   {
     "key": "tourisme",
-    "label": "tourisme",
     "video": "videos/tourisme.webm"
   },
   {
     "key": "tours",
-    "label": "tours",
     "video": "videos/tours.webm"
   },
   {
-    "key": "tous-les-quinze-jours",
-    "label": "tous les quinze jours",
+    "key": "tous les quinze jours",
     "video": "videos/tous les quinze jours.webm"
   },
   {
-    "key": "toute-la-nuit",
-    "label": "toute la nuit",
+    "key": "toute la nuit",
     "video": "videos/toute la nuit.webm"
   },
   {
-    "key": "tout-le-monde",
-    "label": "tout le monde",
+    "key": "tout le monde",
     "video": "videos/tout le monde.webm"
   },
   {
     "key": "tout",
-    "label": "tout",
     "video": "videos/tout.webm"
   },
   {
     "key": "toxique",
-    "label": "toxique",
     "video": "videos/toxique.webm"
   },
   {
     "key": "train",
-    "label": "train",
     "video": "videos/train.webm"
   },
   {
     "key": "trajectoire",
-    "label": "trajectoire",
     "video": "videos/trajectoire.webm"
   },
   {
     "key": "transport",
-    "label": "transport",
     "video": "videos/transport.webm"
   },
   {
     "key": "travailler",
-    "label": "travailler",
     "video": "videos/travailler.webm"
   },
   {
-    "key": "tremblement-de-terre",
-    "label": "tremblement de terre",
+    "key": "tremblement de terre",
     "video": "videos/tremblement de terre.webm"
   },
   {
     "key": "trimestre",
-    "label": "trimestre",
     "video": "videos/trimestre.webm"
   },
   {
     "key": "triste",
-    "label": "triste",
     "video": "videos/triste.webm"
   },
   {
     "key": "trophee",
-    "label": "trophee",
     "video": "videos/trophee.webm"
   },
   {
     "key": "t-shirt",
-    "label": "t-shirt",
     "video": "videos/t-shirt.webm"
   },
   {
     "key": "typique",
-    "label": "typique",
     "video": "videos/typique.webm"
   },
   {
     "key": "urss",
-    "label": "urss",
     "video": "videos/urss.webm"
   },
   {
     "key": "usine",
-    "label": "usine",
     "video": "videos/usine.webm"
   },
   {
     "key": "vacances",
-    "label": "vacances",
     "video": "videos/vacances.webm"
   },
   {
     "key": "vaccination",
-    "label": "vaccination",
     "video": "videos/vaccination.webm"
   },
   {
     "key": "vache",
-    "label": "vache",
     "video": "videos/vache.webm"
   },
   {
     "key": "vaincre",
-    "label": "vaincre",
     "video": "videos/vaincre.webm"
   },
   {
     "key": "vallee",
-    "label": "vallee",
     "video": "videos/vallee.webm"
   },
   {
     "key": "vanite",
-    "label": "vanite",
     "video": "videos/vanite.webm"
   },
   {
     "key": "veau",
-    "label": "veau",
     "video": "videos/veau.webm"
   },
   {
-    "key": "velo",
-    "label": "vélo",
+    "key": "vélo",
     "video": "videos/vélo.webm"
   },
   {
     "key": "vendre",
-    "label": "vendre",
     "video": "videos/vendre.webm"
   },
   {
     "key": "venir",
-    "label": "venir",
     "video": "videos/venir.webm"
   },
   {
     "key": "vent",
-    "label": "vent",
     "video": "videos/vent.webm"
   },
   {
-    "key": "verbe-directionnel",
-    "label": "verbe directionnel",
+    "key": "verbe directionnel",
     "video": "videos/verbe directionnel.webm"
   },
   {
     "key": "verglas",
-    "label": "verglas",
     "video": "videos/verglas.webm"
   },
   {
-    "key": "verre-de-terre",
-    "label": "verre de terre",
+    "key": "verre de terre",
     "video": "videos/verre de terre.webm"
   },
   {
     "key": "vert",
-    "label": "vert",
     "video": "videos/vert.webm"
   },
   {
-    "key": "vetement",
-    "label": "vêtement",
+    "key": "vêtement",
     "video": "videos/vêtement.webm"
   },
   {
     "key": "vibration",
-    "label": "vibration",
     "video": "videos/vibration.webm"
   },
   {
     "key": "victoire",
-    "label": "victoire",
     "video": "videos/victoire.webm"
   },
   {
     "key": "vieu",
-    "label": "vieu",
     "video": "videos/vieu.webm"
   },
   {
     "key": "village",
-    "label": "village",
     "video": "videos/village.webm"
   },
   {
     "key": "ville",
-    "label": "ville",
     "video": "videos/ville.webm"
   },
   {
     "key": "violet",
-    "label": "violet",
     "video": "videos/violet.webm"
   },
   {
     "key": "virus",
-    "label": "virus",
     "video": "videos/virus.webm"
   },
   {
     "key": "visite",
-    "label": "visite",
     "video": "videos/visite.webm"
   },
   {
     "key": "visuel",
-    "label": "visuel",
     "video": "videos/visuel.webm"
   },
   {
     "key": "Vitrolle",
-    "label": "Vitrolle",
     "video": "videos/Vitrolle.webm"
   },
   {
     "key": "vocabulaire",
-    "label": "vocabulaire",
     "video": "videos/vocabulaire.webm"
   },
   {
     "key": "voir",
-    "label": "voir",
     "video": "videos/voir.webm"
   },
   {
     "key": "voisin",
-    "label": "voisin",
     "video": "videos/voisin.webm"
   },
   {
     "key": "voiture",
-    "label": "voiture",
     "video": "videos/voiture.webm"
   },
   {
     "key": "voler",
-    "label": "voler",
     "video": "videos/voler.webm"
   },
   {
     "key": "vous",
-    "label": "vous",
     "video": "videos/vous.webm"
   },
   {
     "key": "week-end",
-    "label": "week-end",
     "video": "videos/week-end.webm"
   },
   {
     "key": "zoo",
-    "label": "zoo",
     "video": "videos/zoo.webm"
   }
 ]
