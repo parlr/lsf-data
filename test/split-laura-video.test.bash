@@ -45,7 +45,7 @@ teardown() {
   assert_equal "$(cut -f3- -d ' ' "$timing_path")" 'son, sa, ses, leurs'
 }
 
-@test 'call ffmpeg with correct arguments' {
+@test 'call ffmpeg with correct arguments to split' {
   ffmpeg() { echo "ffmpeg $*"; exit; }  # mock
   export -f ffmpeg
 

@@ -15,7 +15,7 @@ teardown() {
   echo
 }
 
-@test 'call ffmpeg with correct arguments' {
+@test 'call ffmpeg with correct arguments to encode' {
   ffmpeg() { echo "ffmpeg $*"; exit; }  # mock
   export -f ffmpeg
 
