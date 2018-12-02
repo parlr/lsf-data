@@ -19,7 +19,6 @@ build:
 	time bash ./scripts/split-laura-video.bash ./data/partie-2*.hd.mkv
 	time bash ./scripts/encode-videos.bash
 	time bash ./scripts/create-json-dictionary.bash
-	time bash ./scripts/raw-to-production.bash
 
 update:
 	git submodule update --init --recursive
