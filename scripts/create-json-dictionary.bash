@@ -39,7 +39,7 @@ function fill_dictionary() {
 
         mot="${drop_mkv_extension%.*}"
 
-        [[ $IS_RUNNING_TESTS == false ]] && echo "Adding: $mot"
+        [[ $IS_RUNNING_TESTS == false ]] && echo "Indexing: $mot"
         add_word "$mot"
     done
 }

@@ -42,7 +42,7 @@ function convert() {
     local mot="${drop_milliseconds/.mkv/}"
     local target_file="./videos/$mot.webm"
 
-    echo "Extracting: $mot"
+    echo "Encoding: $mot"
     encode "$source_file" "$target_file"
   done
 }
