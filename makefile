@@ -29,4 +29,5 @@ build:
 
 update-dictionary:
 	bash ./scripts/create-json-dictionary.bash
+	cp ./vocabulaire.json ../lsf/src/assets/
 
