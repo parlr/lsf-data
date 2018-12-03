@@ -6,7 +6,7 @@ BATS=./test/libs/bats/bin/bats
 
 .PHONY: test
 
-install: update
+install:
 	sudo add-apt-repository ppa:duggan/bats --yes
 	sudo apt-get update --quiet --quiet
 	sudo apt-get install \
