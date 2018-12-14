@@ -18,6 +18,16 @@ install:
 		ffmpeg \
 		libav-tools
 
+install-subtitle-editor:
+	sudo add-apt-repository ppa:alex-p/aegisub --yes
+	sudo apt-get update --quiet --quiet
+	sudo apt-get install  \
+		--yes \
+		--no-install-recommends \
+		--no-install-suggests \
+		--quiet --quiet \
+		aegisub
+
 test:
 	${BATS} --pretty ./test/*.test.bash
 
