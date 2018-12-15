@@ -15,6 +15,8 @@ extract-and-encode() {
     local end="$4"
 
     ffmpeg_args=(
+        -ss "$start" \
+        -to "$end" \
         -r 14  # framerate
         -vf scale=640x480
         -b:v 512k
@@ -30,10 +32,8 @@ extract-and-encode() {
 
     ffmpeg -y \
         -i "$video_source" \
-        -ss "$start" \
-        -to "$end" \
         "${ffmpeg_args[@]}" \
-        "$target_file" < /dev/null
+        "$target_file"  < /dev/null  # to prevent ffmpeg from swallowing input 
 }
 
 process-all() {
