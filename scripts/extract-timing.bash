@@ -5,7 +5,7 @@
 IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 FAIL=1
 
-extract_timing_from_subtitles() {
+extract-timing-from-subtitles() {
   if [[ $# -eq 0 ]] ; then
       echo 'missing argument: subtitle_filepath'
       exit $FAIL
@@ -27,4 +27,4 @@ EOD
 ) "$subtitle_filepath" > "$timing_filepath"
 }
 
-if [[ $IS_RUNNING_TESTS == false ]]; then extract_timing_from_subtitles "$@"; fi
+if [[ $IS_RUNNING_TESTS == false ]]; then extract-timing-from-subtitles "$@"; fi

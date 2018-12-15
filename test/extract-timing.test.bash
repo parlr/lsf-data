@@ -16,14 +16,14 @@ teardown() {
 }
 
 @test "stop if no argument given" {
-  run extract_timing_from_subtitles
+  run extract-timing-from-subtitles
 
   assert_output 'missing argument: subtitle_filepath'
   assert_failure
 }
 
 @test "create timing file" {
-  run extract_timing_from_subtitles ./.tmp/fake.ass
+  run extract-timing-from-subtitles ./.tmp/fake.ass
   
   assert_file_exist ./.tmp/fake.tsv
 }
@@ -31,7 +31,7 @@ teardown() {
 @test "extract word timing" {
   run bash -c "echo 'Dialogue: 0,0:00:01.64,0:00:04.07,Default,,0,0,0,,bonjour' > ./.tmp/fake.ass"
 
-  run extract_timing_from_subtitles ./.tmp/fake.ass
+  run extract-timing-from-subtitles ./.tmp/fake.ass
   
   assert_equal "$(cut -f1 -d ' ' ./.tmp/fake.tsv)" '0:00:01.64'
   assert_equal "$(cut -f2 -d ' ' ./.tmp/fake.tsv)" '0:00:04.07'
@@ -41,7 +41,7 @@ teardown() {
 @test "extract multiple words" {
   run bash -c "echo 'Dialogue: 0,0:12:15.01,0:12:17.36,Default,,0,0,0,,son, sa, ses, leurs' > ./.tmp/fake.ass"
 
-  run extract_timing_from_subtitles ./.tmp/fake.ass
+  run extract-timing-from-subtitles ./.tmp/fake.ass
   
   assert_equal "$(cut -f1 -d ' ' ./.tmp/fake.tsv)" '0:12:15.01'
   assert_equal "$(cut -f2 -d ' ' ./.tmp/fake.tsv)" '0:12:17.36'
