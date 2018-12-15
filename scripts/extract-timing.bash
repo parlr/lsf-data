@@ -4,7 +4,6 @@
 
 IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 FAIL=1
-export DIRECTORY_PATH
 
 extract_timing_from_subtitles() {
   if [[ $# -eq 0 ]] ; then
