@@ -10,23 +10,7 @@ IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 SOURCE_VIDEO_FILE="$1" # video file to split
 directory_path="${SOURCE_VIDEO_FILE%/*}"
 filename="${SOURCE_VIDEO_FILE##*/}"
-extension="${SOURCE_VIDEO_FILE##*.}"
 timing_path="${2:-$directory_path/$filename.tsv}"   # timing, as: mot  start_time end_time
-input_data_path="$directory_path/${filename/.$extension/.ass}"
-
-extract_timing_from_subtitles() {
-  awk -f <(cat - <<-'EOD'
-    BEGIN{FS=","} 
-    /Dialogue/{
-      output=$2" "$3" "$10; 
-      for (field=11; field<=NF; field++) {
-        output=output","$field
-      }; 
-      print output
-    }
-EOD
-) "$input_data_path" > "$timing_path"
-}
 
 extract_word_chunk() {
   local target_file="$1"
@@ -60,7 +44,6 @@ split_video() {
 }
 
 function extract_video_chunks() {
-  extract_timing_from_subtitles
   split_video
 }
 if [[ $IS_RUNNING_TESTS == false ]]; then extract_video_chunks; fi

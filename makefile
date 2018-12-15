@@ -31,9 +31,9 @@ install-subtitle-editor:
 test:
 	${BATS} --pretty ./test/*.test.bash
 
-build:
-	time bash ./scripts/split-laura-video.bash ./data/partie-1*.hd.mkv
-	time bash ./scripts/split-laura-video.bash ./data/partie-2*.hd.mkv
+build: 
+	time bash ./scripts/extract-timing.bash ./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.ass
+	time bash ./scripts/extract-timing.bash ./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.ass
 	time bash ./scripts/encode-videos.bash
 	time bash ./scripts/create-json-dictionary.bash
 
