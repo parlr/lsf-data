@@ -38,10 +38,10 @@ extract-timing:
 		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.ass
 
 extract-and-encode:
-	bash -x ./scripts/extract-and-encode.bash \
+	bash ./scripts/extract-and-encode.bash \
 		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.mkv \
 		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv
-	bash -x ./scripts/extract-and-encode.bash \
+	bash ./scripts/extract-and-encode.bash \
 		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.mkv \
 		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv
 
