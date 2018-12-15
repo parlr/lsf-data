@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-# see: https://askubuntu.com/q/56022/22343
-# REQUIREMENT:
-#   sudo apt install --yes ffmpeg libav-tools
 # USAGE
 #   bash -x ./scripts/extract-timing.bash "$path/to/subtitle.ass"
 
