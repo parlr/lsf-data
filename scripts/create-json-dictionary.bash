@@ -35,9 +35,9 @@ function fill_dictionary() {
     for filepath in $FILES_TO_INDEX; do
         local filename="${filepath##*/}"
         local video="${filepath#*/}"
-        local drop_mkv_extension="${filename/.mkv/}"
+        local drop_extension="${filename%.*}"
 
-        mot="${drop_mkv_extension%.*}"
+        mot="${drop_extension%.*}"
 
         [[ $IS_RUNNING_TESTS == false ]] && echo "Indexing: $mot"
         add_word "$mot" "$video"

@@ -42,7 +42,7 @@ process-all() {
     if [[ $# -eq 0 ]] ; then
         echo 'missing arguments.'
         echo 'usage:'
-        echo "    extract-and-encode.bash path/to/video.mkv [path/to/timing.tsv]"
+        echo "    extract-and-encode.bash path/to/video.webm [path/to/timing.tsv]"
         exit $FAIL
     fi
     if [[ -z $2 ]]; then

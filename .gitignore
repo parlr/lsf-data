@@ -1,7 +1,7 @@
 *.flv
 *.tsv
 raw/*
-data/*.mkv
+data/*.webm
 node_modules/
 yarn-error.log
 
