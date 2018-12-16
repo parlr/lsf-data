@@ -30,8 +30,9 @@ install-subtitle-editor:
 
 .PHONY: install-uploader
 install-uploader:
-	wget https://github.com/yarl/pattypan/releases/download/v18.02/pattypan.jar
-	apt install \
+	curl https://github.com/yarl/pattypan/releases/download/v18.02/pattypan.jar \
+		--output pattypan.jar \
+		--location
 		--yes \
 		--no-install-recommends \
 		--no-install-suggests \
