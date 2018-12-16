@@ -37,6 +37,15 @@ extract-timing:
 	time bash ./scripts/extract-timing.bash \
 		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.ass
 
+extract-copy:
+	mkdir videos-hd
+	bash ./scripts/extract-copy.bash \
+		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.mkv \
+		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv
+	bash ./scripts/extract-copy.bash \
+		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.mkv \
+		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv
+
 extract-and-encode:
 	bash ./scripts/extract-and-encode.bash \
 		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.mkv \
