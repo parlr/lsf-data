@@ -6,7 +6,6 @@ load 'libs/bats-file/load'
 export IS_RUNNING_TESTS=true
 load '../scripts/extract-and-encode'
 
-
 setup() {
   mkdir --parents ./.tmp
 }
@@ -41,7 +40,7 @@ OUTPUT
 
   run extract-and-encode ./.tmp/paris.mkv 'paris' '0:00:00.00' '0:00:01.00' 
 
-  assert_output 'ffmpeg -y -i ./.tmp/paris.mkv -ss 0:00:00.00 -to 0:00:01.00 -r 14 -vf scale=640x480 -b:v 512k -minrate 256k -maxrate 742k -quality good -speed 4 -crf 37 -c:v libvpx-vp9 -loglevel error videos/paris.webm' 
+  assert_output 'ffmpeg -y -i ./.tmp/paris.mkv -ss 0:00:00.00 -to 0:00:01.00 -r 14 -vf scale=640x480 -b:v 512k -minrate 256k -maxrate 742k -quality good -speed 4 -crf 37 -c:v libvpx-vp9 -loglevel error videos//paris.webm' 
 }
 
 @test 'extract clip from video' {
@@ -51,6 +50,27 @@ OUTPUT
 
   assert_file_exist ./videos/paris.webm
 }
+
+@test 'extract clip to author directory' {
+  cp ./test/paris.mkv ./.tmp/
+  mkdir -p videos/test-author/
+
+  run extract-and-encode ./.tmp/paris.mkv 'paris' '0:00:00.00' '0:00:01.00' 'test-author'
+
+  assert_file_exist ./videos/test-author/paris.webm
+  rm --recursive --force videos/test-author/
+}
+
+@test "process all create author's directory" {
+  extract-and-encode() { echo "$*"; }  # mock
+  export -f extract-and-encode
+
+  run process-all 'foo' 'bar' test-author
+
+  assert_file_exist videos/test-author/
+  rm --recursive --force videos/test-author/
+}
+
 
 @test 'process all entries' {
   cp ./test/paris.mkv ./.tmp/paris.mkv

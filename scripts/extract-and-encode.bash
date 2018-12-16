@@ -7,12 +7,14 @@
 
 IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 FAIL=1
+ROOT_VIDEOS_DIRECTORY="videos"
 
 extract-and-encode() {
     local video_source="$1"
     local mot="$2"
     local start="$3"
     local end="$4"
+    local video_author="$5"
 
     ffmpeg_args=(
         -ss "$start"
@@ -28,7 +30,7 @@ extract-and-encode() {
         -c:v libvpx-vp9  # video codec
         -loglevel error
     )
-    local target_file="videos/$mot.webm"
+    local target_file="${ROOT_VIDEOS_DIRECTORY}/${video_author}/${mot}.webm"
 
     ffmpeg -y \
         -i "$video_source" \
@@ -49,10 +51,13 @@ process-all() {
     fi
     local video_source="$1"
     local video_timing="$2"
+    local video_author="$3"
+
+    if [[ ! -d $video_author ]]; then mkdir -p "${ROOT_VIDEOS_DIRECTORY}/${video_author}"; fi
 
   while read -r start end mot; do
     echo "Extracting: $mot"
-    extract-and-encode "$video_source" "$mot" "${start}" "${end}"
+    extract-and-encode "$video_source" "$mot" "${start}" "${end}" "$video_author"
   done < "$video_timing"
 }
 if [[ $IS_RUNNING_TESTS == false ]]; then process-all "$@"; fi
