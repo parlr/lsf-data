@@ -15,8 +15,8 @@ extract-and-encode() {
     local end="$4"
 
     ffmpeg_args=(
-        -ss "$start" \
-        -to "$end" \
+        -ss "$start"
+        -to "$end"
         -r 14  # framerate
         -vf scale=640x480
         -b:v 512k
