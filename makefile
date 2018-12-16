@@ -6,6 +6,7 @@ BATS=./test/libs/bats/bin/bats
 
 .PHONY: install
 install:
+	sudo add-apt-repository ppa:jonathonf/ffmpeg-4 --yes
 	sudo add-apt-repository ppa:duggan/bats --yes
 	sudo apt-get update --quiet --quiet
 	sudo apt-get install \
@@ -14,8 +15,7 @@ install:
 		--no-install-suggests \
 		--quiet --quiet \
 		bats \
-		ffmpeg \
-		libav-tools
+		ffmpeg
 
 .PHONY: install-subtitle-editor
 install-subtitle-editor:
