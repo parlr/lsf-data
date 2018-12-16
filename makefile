@@ -33,12 +33,14 @@ install-uploader:
 	curl https://github.com/yarl/pattypan/releases/download/v18.02/pattypan.jar \
 		--output pattypan.jar \
 		--location
+	apt-get install \
 		--yes \
 		--no-install-recommends \
 		--no-install-suggests \
 		--quiet --quiet \
 	openjfx \
-	openjdk-8-jdk
+	openjdk-8-jre \
+	openjdk-8-jre-headless
 
 .PHONY: test
 test:
