@@ -38,7 +38,7 @@ extract-timing:
 		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.ass
 
 extract-copy:
-	mkdir videos-hd
+	if [[ ! -d videos-hd ]]; then mkdir videos-hd; fi
 	bash ./scripts/extract-copy.bash \
 		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.mkv \
 		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv
