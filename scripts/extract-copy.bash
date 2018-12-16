@@ -15,18 +15,16 @@ extract-copy() {
     local end="$4"
 
     ffmpeg_args=(
-        -ss "$start" 
+        -y
+        -ss "$start"
+        -i "$video_source"
         -to "$end"
-        -acodec copy
-        -vcodec copy
+        -c copy
         -loglevel error
     )
     local target_file="videos-hd/$mot.webm"
 
-    ffmpeg -y \
-        -i "$video_source" \
-        "${ffmpeg_args[@]}" \
-        "$target_file"  < /dev/null  # to prevent ffmpeg from swallowing input 
+    ffmpeg "${ffmpeg_args[@]}" "$target_file"  < /dev/null  # to prevent ffmpeg from swallowing input 
 }
 
 process-all() {

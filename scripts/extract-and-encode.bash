@@ -17,6 +17,8 @@ extract-and-encode() {
     local video_author="$5"
 
     ffmpeg_args=(
+        -y
+        -i "$video_source"
         -ss "$start"
         -to "$end"
         -r 14  # framerate
@@ -32,10 +34,7 @@ extract-and-encode() {
     )
     local target_file="${ROOT_VIDEOS_DIRECTORY}/${video_author}/${mot}.webm"
 
-    ffmpeg -y \
-        -i "$video_source" \
-        "${ffmpeg_args[@]}" \
-        "$target_file"  < /dev/null  # to prevent ffmpeg from swallowing input 
+    ffmpeg "${ffmpeg_args[@]}" "$target_file"  < /dev/null  # to prevent ffmpeg from swallowing input 
 }
 
 process-all() {

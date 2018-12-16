@@ -41,7 +41,7 @@ OUTPUT
 
   run extract-copy ./.tmp/paris.webm 'paris' '0:00:00.00' '0:00:01.00' 
 
-  assert_output 'ffmpeg -y -i ./.tmp/paris.webm -ss 0:00:00.00 -to 0:00:01.00 -acodec copy -vcodec copy -loglevel error videos-hd/paris.webm' 
+  assert_output 'ffmpeg -y -ss 0:00:00.00 -i ./.tmp/paris.webm -to 0:00:01.00 -c copy -loglevel error videos-hd/paris.webm' 
 }
 
 @test 'extract clip from video' {
