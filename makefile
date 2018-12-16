@@ -28,6 +28,16 @@ install-subtitle-editor:
 		--quiet --quiet \
 		aegisub
 
+install-uploader:
+	wget https://github.com/yarl/pattypan/releases/download/v18.02/pattypan.jar
+	apt install \
+		--yes \
+		--no-install-recommends \
+		--no-install-suggests \
+		--quiet --quiet \
+	openjfx \
+	openjdk-8-jdk
+
 test:
 	${BATS} --pretty ./test/*.test.bash
 
