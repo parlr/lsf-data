@@ -53,13 +53,14 @@ OUTPUT
 }
 
 @test 'process all entries' {
-  cp ./test/paris.webm ./.tmp/paris.webm
-  echo '0:00:00.00 0:00:01.00 paris' > ./.tmp/dataset.tsv
-  cp ./test/paris.webm ./.tmp/bordeaux.webm
-  echo '0:00:00.00 0:00:01.00 bordeaux' >> ./.tmp/dataset.tsv
+  cp ./test/paris.webm ./.tmp/.paris.webm
+  echo '0:00:00.00 0:00:01.00 .paris' > ./.tmp/dataset.tsv
+  cp ./test/paris.webm ./.tmp/.bordeaux.webm
+  echo '0:00:00.00 0:00:01.00 .bordeaux' >> ./.tmp/dataset.tsv
 
-  run process-all ./test/paris.webm ./.tmp/dataset.tsv
+  run process-all ./.tmp/.paris.webm ./.tmp/dataset.tsv
 
-  assert_file_exist ./videos-hd/paris.webm
-  assert_file_exist ./videos-hd/bordeaux.webm
+  assert_file_exist ./videos-hd/.paris.webm
+  assert_file_exist ./videos-hd/.bordeaux.webm
+  rm ./videos-hd/.{paris,bordeaux}.webm
 }
