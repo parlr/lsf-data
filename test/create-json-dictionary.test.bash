@@ -48,12 +48,12 @@ teardown() {
   entry=$(cat <<-MOT
   {
     "key": "bonjour",
-    "video": "videos/bonjour.webm"
+    "video": "jauvert/bonjour.webm"
   },
 MOT
 )
 
-  run add_word "bonjour"
+  run add_word "bonjour" "jauvert/bonjour.webm"
 
   content=$(cat $JSON_FILE)
   assert_equal "$content" "$entry" 
