@@ -26,10 +26,17 @@ OUTPUT
   assert_failure
 }
 
-@test "fails if 'timing'argument missing" {
-  run process-all ./.tmp/paris.webm
+@test "fails if 'timing' argument missing" {
+  run process-all video.webm
 
   assert_output 'missing argument: path/to/timing.tsv'
+  assert_failure
+}
+
+@test "fails if 'output_directory' argument missing" {
+  run process-all video.webm timing.tsv
+
+  assert_output 'missing argument: path/to/output/'
   assert_failure
 }
 
@@ -38,37 +45,30 @@ OUTPUT
   export -f ffmpeg
   cp ./test/paris.webm ./.tmp/
 
-  run extract-and-encode ./.tmp/paris.webm 'paris' '0:00:00.00' '0:00:01.00' 
+  FFMPEG_OPTIONS=( -imported-options )
+  run extract-and-encode ./.tmp/paris.webm 'paris' '0:00:00.00' '0:00:01.00' .tmp/output/
 
-  assert_output 'ffmpeg -y -i ./.tmp/paris.webm -ss 0:00:00.00 -to 0:00:01.00 -r 14 -vf scale=640x480 -b:v 512k -minrate 256k -maxrate 742k -quality good -speed 4 -crf 37 -c:v libvpx-vp9 -loglevel error videos//paris.webm' 
+  assert_output 'ffmpeg -i ./.tmp/paris.webm -ss 0:00:00.00 -to 0:00:01.00 -imported-options .tmp/output//paris.webm' 
 }
 
-@test 'extract clip from video' {
+@test "extract clip to output_directory" {
   cp ./test/paris.webm ./.tmp/
+  mkdir -p ./.tmp/output/
 
-  run extract-and-encode ./.tmp/paris.webm 'paris' '0:00:00.00' '0:00:01.00' 
+  run extract-and-encode ./.tmp/paris.webm 'paris' '0:00:00.00' '0:00:01.00' .tmp/output/
 
-  assert_file_exist ./videos/paris.webm
+  assert_file_exist ./.tmp/output/paris.webm
+  rm --recursive --force ./.tmp/output/
 }
 
-@test 'extract clip to author directory' {
-  cp ./test/paris.webm ./.tmp/
-  mkdir -p videos/test-author/
-
-  run extract-and-encode ./.tmp/paris.webm 'paris' '0:00:00.00' '0:00:01.00' 'test-author'
-
-  assert_file_exist ./videos/test-author/paris.webm
-  rm --recursive --force videos/test-author/
-}
-
-@test "process all create author's directory" {
+@test "process all create output_directory" {
   extract-and-encode() { echo "$*"; }  # mock
   export -f extract-and-encode
 
-  run process-all 'foo' 'bar' test-author
+  run process-all 'foo' 'bar' ./.tmp/output/
 
-  assert_file_exist videos/test-author/
-  rm --recursive --force videos/test-author/
+  assert_file_exist ./.tmp/output/
+  rm --recursive --force ./.tmp/output/
 }
 
 
@@ -78,9 +78,9 @@ OUTPUT
   cp ./test/paris.webm ./.tmp/bordeaux.webm
   echo '0:00:00.00 0:00:01.00 bordeaux' >> ./.tmp/dataset.tsv
 
-  run process-all ./test/paris.webm ./.tmp/dataset.tsv
+  run process-all ./test/paris.webm ./.tmp/dataset.tsv ./.tmp/output/
 
-  assert_file_exist ./videos/paris.webm
-  assert_file_exist ./videos/bordeaux.webm
-  rm ./videos/{paris,bordeaux}.webm
+  assert_file_exist ./.tmp/output/paris.webm
+  assert_file_exist ./.tmp/output/bordeaux.webm
+  rm ./.tmp/output/{paris,bordeaux}.webm
 }

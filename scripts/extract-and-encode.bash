@@ -7,14 +7,13 @@
 
 IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 FAIL=1
-ROOT_VIDEOS_DIRECTORY="videos"
 
 extract-and-encode() {
     local video_source="$1"
     local mot="$2"
     local start="$3"
     local end="$4"
-    local video_author="$5"
+    local output_directory="$5"
 
     ffmpeg_args=(
         -y
@@ -32,9 +31,8 @@ extract-and-encode() {
         -c:v libvpx-vp9  # video codec
         -loglevel error
     )
-    local target_file="${ROOT_VIDEOS_DIRECTORY}/${video_author}/${mot}.webm"
 
-    ffmpeg "${ffmpeg_args[@]}" "$target_file"  < /dev/null  # to prevent ffmpeg from swallowing input 
+    ffmpeg "${ffmpeg_args[@]}" "$output_directory/$mot.webm"  < /dev/null  # to prevent ffmpeg from swallowing input 
 }
 
 process-all() {
@@ -48,15 +46,21 @@ process-all() {
         echo 'missing argument: path/to/timing.tsv'
         exit $FAIL
     fi
+    if [[ -z $3 ]]; then
+        echo 'missing argument: path/to/output/'
+        exit $FAIL
+    fi
+
     local video_source="$1"
     local video_timing="$2"
-    local video_author="$3"
+    local output_directory="$3"
 
-    if [[ ! -d $video_author ]]; then mkdir -p "${ROOT_VIDEOS_DIRECTORY}/${video_author}"; fi
+    if [[ ! -d $output_directory ]]; then mkdir -p "$output_directory"; fi
 
   while read -r start end mot; do
     echo "Extracting: $mot"
-    extract-and-encode "$video_source" "$mot" "${start}" "${end}" "$video_author"
+    extract-and-encode "$video_source" "$mot" "${start}" "${end}" "$output_directory"
   done < "$video_timing"
 }
+
 if [[ $IS_RUNNING_TESTS == false ]]; then process-all "$@"; fi
