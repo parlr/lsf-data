@@ -7,14 +7,15 @@ IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 export FFMPEG_OPTIONS=(  # options for mobile        
     -b:v 512k
     -c:v libvpx-vp9  # video codec
+    -cpu-used 4
     -crf 37  # maximum quality level.
     -filter:v scale=640x480
-    -loglevel error
+    -loglevel warning
     -maxrate 742k
     -minrate 256k
-    -pass 1 
     -quality good
     -r 14  # framerate
+    -cpu-used 4
     -speed 4
     -threads 4
     -tile-columns 1

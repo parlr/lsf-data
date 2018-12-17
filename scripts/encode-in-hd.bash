@@ -7,12 +7,12 @@ IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 export FFMPEG_OPTIONS=(  # HD options
     -b:v 1024k
     -c:v libvpx-vp9  # video codec
+    -cpu-used 4
     -crf 32  # maximum quality level.
     -filter:v scale=1280x720 
-    -loglevel error
+    -loglevel warning
     -maxrate 1485k 
     -minrate 512k 
-    -pass 1 
     -quality good 
     -speed 4
     -threads 8
