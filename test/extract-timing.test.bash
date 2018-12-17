@@ -33,8 +33,8 @@ teardown() {
 
   run extract-timing-from-subtitles ./.tmp/fake.ass
   
-  assert_equal "$(cut -f1 -d ' ' ./.tmp/fake.tsv)" '0:00:01.64'
-  assert_equal "$(cut -f2 -d ' ' ./.tmp/fake.tsv)" '0:00:04.07'
+  assert_equal "$(cut -f1 -d ' ' ./.tmp/fake.tsv)" '00:00:01.64'
+  assert_equal "$(cut -f2 -d ' ' ./.tmp/fake.tsv)" '00:00:04.07'
   assert_equal "$(cut -f3 -d ' ' ./.tmp/fake.tsv)" 'bonjour'
 }
 
@@ -43,7 +43,7 @@ teardown() {
 
   run extract-timing-from-subtitles ./.tmp/fake.ass
   
-  assert_equal "$(cut -f1 -d ' ' ./.tmp/fake.tsv)" '0:12:15.01'
-  assert_equal "$(cut -f2 -d ' ' ./.tmp/fake.tsv)" '0:12:17.36'
+  assert_equal "$(cut -f1 -d ' ' ./.tmp/fake.tsv)" '00:12:15.01'
+  assert_equal "$(cut -f2 -d ' ' ./.tmp/fake.tsv)" '00:12:17.36'
   assert_equal "$(cut -f3- -d ' ' ./.tmp/fake.tsv)" 'son, sa, ses, leurs'
 }

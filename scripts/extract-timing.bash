@@ -17,7 +17,7 @@ extract-timing-from-subtitles() {
   awk -f <(cat - <<-'EOD'
     BEGIN{FS=","} 
     /Dialogue/{
-      output=$2" "$3" "$10; 
+      output=0$2" 0"$3" "$10; 
       for (field=11; field<=NF; field++) {
         output=output","$field
       }; 
