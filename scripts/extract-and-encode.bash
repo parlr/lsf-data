@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # see: https://askubuntu.com/q/56022/22343
 # REQUIREMENT:
-#   sudo apt install --yes ffmpeg libav-tools
+#   make install
 # USAGE
 #   bash -x ./scripts/extract-and-encode.bash "$path/to/videos" [path/to/timing.tsv]
 
