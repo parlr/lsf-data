@@ -81,3 +81,42 @@ update-dictionary:
 	bash ./scripts/create-json-dictionary.bash
 	cp ./vocabulaire.json ../lsf/src/assets/
 
+.PHONY: convert-jauvert-to-webm
+convert-jauvert-to-webm:
+	@echo "Convert MP4 source to WEBM (only accepted in Commons)"
+	@if (( $$(ls ./data/partie-*.jauvert-laura.hd.mp4 | wc -l) != 2 )); then printf "\n/!\ Files to convert are missing!\n\n"; exit 1; fi 
+	rm data/*.webm
+	time ffmpeg \
+		-i ./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.mp4 \
+		-b:v 1024k \
+		-c:v libvpx-vp9 \
+		-cpu-used 4 \
+		-crf 32 \
+		-g 240 \
+		-loglevel warning \
+		-maxrate 1485k \
+		-minrate 512k \
+		-quality good \
+		-speed 4 \
+		-threads 8 \
+		-tile-columns 2 \
+		-vf scale=1280x720 \
+		-y \
+		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.webm
+	time ffmpeg \
+		-i ./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.mp4 \
+		-b:v 1024k \
+		-c:v libvpx-vp9 \
+		-cpu-used 4 \
+		-crf 32 \
+		-g 240 \
+		-loglevel warning \
+		-maxrate 1485k \
+		-minrate 512k \
+		-quality good \
+		-speed 4 \
+		-threads 8 \
+		-tile-columns 2 \
+		-vf scale=1280x720 \
+		-y \
+		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.webm
