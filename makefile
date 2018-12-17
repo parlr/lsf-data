@@ -53,24 +53,28 @@ extract-timing:
 	time bash ./scripts/extract-timing.bash \
 		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.ass
 
-.PHONY: extract-in-hd
-extract-in-hd:
+.PHONY: encode-in-hd
+encode-in-hd:
 	if [[ ! -d videos-hd ]]; then mkdir videos-hd; fi
-	bash ./scripts/extract-in-hd.bash \
+	bash ./scripts/encode-in-hd.bash \
 		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.webm \
-		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv
-	bash ./scripts/extract-in-hd.bash \
+		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv \
+		./videos/hd/
+	bash ./scripts/encode-in-hd.bash \
 		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.webm \
-		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv
+		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv \
+		./videos/hd/
 
 .PHONY: encode-for-mobile
 encode-for-mobile:
 	bash ./scripts/encode-for-mobile.bash \
 		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.webm \
-		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv
+		./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv \
+		./videos/jauvert/
 	bash ./scripts/encode-for-mobile.bash \
 		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.webm \
-		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv
+		./data/partie-2:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.tsv \
+		./videos/jauvert/
 
 .PHONY: build
 build: extract-timing encode-for-mobile
