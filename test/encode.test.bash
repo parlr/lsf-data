@@ -4,7 +4,7 @@ load 'libs/bats-support/load'
 load 'libs/bats-assert/load'
 load 'libs/bats-file/load'
 export IS_RUNNING_TESTS=true
-load '../scripts/extract-and-encode'
+load '../scripts/encode'
 
 setup() {
   mkdir --parents ./.tmp
