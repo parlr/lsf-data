@@ -16,12 +16,12 @@
     "video": "education-nationale/abonnement.webm"
   },
   {
-    "key": "academie",
-    "video": "education-nationale/academie.webm"
+    "key": "académie",
+    "video": "education-nationale/académie.webm"
   },
   {
-    "key": "accident-voiture",
-    "video": "education-nationale/accident-voiture.webm"
+    "key": "accident de voiture",
+    "video": "education-nationale/accident de voiture.webm"
   },
   {
     "key": "accompagner",
@@ -32,12 +32,12 @@
     "video": "education-nationale/accord.webm"
   },
   {
-    "key": "accoustique",
-    "video": "education-nationale/accoustique.webm"
-  },
-  {
     "key": "acide",
     "video": "education-nationale/acide.webm"
+  },
+  {
+    "key": "acoustique",
+    "video": "education-nationale/acoustique.webm"
   },
   {
     "key": "action",
@@ -48,8 +48,8 @@
     "video": "education-nationale/adaptation.webm"
   },
   {
-    "key": "adherer",
-    "video": "education-nationale/adherer.webm"
+    "key": "adhérer",
+    "video": "education-nationale/adhérer.webm"
   },
   {
     "key": "adjuger",
@@ -80,20 +80,20 @@
     "video": "education-nationale/agriculture.webm"
   },
   {
-    "key": "albi",
-    "video": "education-nationale/albi.webm"
+    "key": "Albi",
+    "video": "education-nationale/Albi.webm"
   },
   {
-    "key": "album_de_photos",
-    "video": "education-nationale/album_de_photos.webm"
+    "key": "album de photos",
+    "video": "education-nationale/album de photos.webm"
   },
   {
-    "key": "algerie",
-    "video": "education-nationale/algerie.webm"
+    "key": "Algérie",
+    "video": "education-nationale/Algérie.webm"
   },
   {
-    "key": "allemagne",
-    "video": "education-nationale/allemagne.webm"
+    "key": "Allemagne",
+    "video": "education-nationale/Allemagne.webm"
   },
   {
     "key": "ambiance",
@@ -112,16 +112,16 @@
     "video": "education-nationale/anatomie.webm"
   },
   {
-    "key": "angers",
-    "video": "education-nationale/angers.webm"
+    "key": "Angers",
+    "video": "education-nationale/Angers.webm"
   },
   {
     "key": "anonyme",
     "video": "education-nationale/anonyme.webm"
   },
   {
-    "key": "antiquite",
-    "video": "education-nationale/antiquite.webm"
+    "key": "antiquité",
+    "video": "education-nationale/antiquité.webm"
   },
   {
     "key": "aorte",
@@ -132,6 +132,10 @@
     "video": "education-nationale/apesanteur.webm"
   },
   {
+    "key": "a priori",
+    "video": "education-nationale/a priori.webm"
+  },
+  {
     "key": "architecte",
     "video": "education-nationale/architecte.webm"
   },
@@ -140,16 +144,16 @@
     "video": "education-nationale/archives.webm"
   },
   {
-    "key": "articulation-os",
-    "video": "education-nationale/articulation-os.webm"
+    "key": "articulation, os",
+    "video": "education-nationale/articulation, os.webm"
   },
   {
     "key": "arts",
     "video": "education-nationale/arts.webm"
   },
   {
-    "key": "assemblee_nationale",
-    "video": "education-nationale/assemblee_nationale.webm"
+    "key": "assemblée nationale",
+    "video": "education-nationale/assemblée nationale.webm"
   },
   {
     "key": "association",
@@ -180,24 +184,24 @@
     "video": "education-nationale/audiovisuel.webm"
   },
   {
-    "key": "australie",
-    "video": "education-nationale/australie.webm"
+    "key": "Australie",
+    "video": "education-nationale/Australie.webm"
   },
   {
-    "key": "automobile",
-    "video": "education-nationale/automobile.webm"
+    "key": "automobile, voiture",
+    "video": "education-nationale/automobile, voiture.webm"
   },
   {
     "key": "autonomie",
     "video": "education-nationale/autonomie.webm"
   },
   {
-    "key": "autriche",
-    "video": "education-nationale/autriche.webm"
+    "key": "Autriche",
+    "video": "education-nationale/Autriche.webm"
   },
   {
-    "key": "avignon",
-    "video": "education-nationale/avignon.webm"
+    "key": "Avignon",
+    "video": "education-nationale/Avignon.webm"
   },
   {
     "key": "avocat",
@@ -220,40 +224,40 @@
     "video": "education-nationale/banque.webm"
   },
   {
-    "key": "bapteme",
-    "video": "education-nationale/bapteme.webm"
+    "key": "baptême",
+    "video": "education-nationale/baptême.webm"
   },
   {
     "key": "base",
     "video": "education-nationale/base.webm"
   },
   {
-    "key": "batiment",
-    "video": "education-nationale/batiment.webm"
+    "key": "bâtiment",
+    "video": "education-nationale/bâtiment.webm"
   },
   {
-    "key": "belgique",
-    "video": "education-nationale/belgique.webm"
+    "key": "Belgique",
+    "video": "education-nationale/Belgique.webm"
   },
   {
-    "key": "benefice",
-    "video": "education-nationale/benefice.webm"
+    "key": "bénéfice",
+    "video": "education-nationale/bénéfice.webm"
   },
   {
-    "key": "benevolat",
-    "video": "education-nationale/benevolat.webm"
+    "key": "bénévolat",
+    "video": "education-nationale/bénévolat.webm"
   },
   {
-    "key": "biarritz",
-    "video": "education-nationale/biarritz.webm"
+    "key": "Biarritz",
+    "video": "education-nationale/Biarritz.webm"
   },
   {
     "key": "bible",
     "video": "education-nationale/bible.webm"
   },
   {
-    "key": "bibliotheque",
-    "video": "education-nationale/bibliotheque.webm"
+    "key": "bibliothèque",
+    "video": "education-nationale/bibliothèque.webm"
   },
   {
     "key": "bilan",
@@ -272,36 +276,36 @@
     "video": "education-nationale/biologie.webm"
   },
   {
-    "key": "bordeaux",
-    "video": "education-nationale/bordeaux.webm"
+    "key": "Bordeaux",
+    "video": "education-nationale/Bordeaux.webm"
   },
   {
-    "key": "boudisme",
-    "video": "education-nationale/boudisme.webm"
+    "key": "bouddhisme",
+    "video": "education-nationale/bouddhisme.webm"
   },
   {
     "key": "bourgeois",
     "video": "education-nationale/bourgeois.webm"
   },
   {
-    "key": "bresil",
-    "video": "education-nationale/bresil.webm"
+    "key": "Brésil",
+    "video": "education-nationale/Brésil.webm"
   },
   {
-    "key": "bruxelle",
-    "video": "education-nationale/bruxelle.webm"
+    "key": "Bruxelles",
+    "video": "education-nationale/Bruxelles.webm"
   },
   {
     "key": "budget",
     "video": "education-nationale/budget.webm"
   },
   {
-    "key": "bulgarie",
-    "video": "education-nationale/bulgarie.webm"
+    "key": "Bulgarie",
+    "video": "education-nationale/Bulgarie.webm"
   },
   {
-    "key": "cable",
-    "video": "education-nationale/cable.webm"
+    "key": "câble",
+    "video": "education-nationale/câble.webm"
   },
   {
     "key": "calcul",
@@ -312,8 +316,8 @@
     "video": "education-nationale/calendrier.webm"
   },
   {
-    "key": "canada",
-    "video": "education-nationale/canada.webm"
+    "key": "Canada",
+    "video": "education-nationale/Canada.webm"
   },
   {
     "key": "cancer",
@@ -324,68 +328,68 @@
     "video": "education-nationale/candidat.webm"
   },
   {
-    "key": "capacite",
-    "video": "education-nationale/capacite.webm"
+    "key": "capacité",
+    "video": "education-nationale/capacité.webm"
   },
   {
     "key": "capitale",
     "video": "education-nationale/capitale.webm"
   },
   {
-    "key": "caractere",
-    "video": "education-nationale/caractere.webm"
+    "key": "caractère",
+    "video": "education-nationale/caractère.webm"
   },
   {
-    "key": "careme",
-    "video": "education-nationale/careme.webm"
+    "key": "carême",
+    "video": "education-nationale/carême.webm"
   },
   {
-    "key": "carte_d_identite",
-    "video": "education-nationale/carte_d_identite.webm"
+    "key": "carte d'identité",
+    "video": "education-nationale/carte d'identité.webm"
   },
   {
     "key": "catholique",
     "video": "education-nationale/catholique.webm"
   },
   {
-    "key": "celibataire",
-    "video": "education-nationale/celibataire.webm"
+    "key": "célibataire",
+    "video": "education-nationale/célibataire.webm"
   },
   {
     "key": "censure",
     "video": "education-nationale/censure.webm"
   },
   {
-    "key": "chambery",
-    "video": "education-nationale/chambery.webm"
+    "key": "Chambéry",
+    "video": "education-nationale/Chambéry.webm"
   },
   {
     "key": "charpente",
     "video": "education-nationale/charpente.webm"
   },
   {
-    "key": "chequier",
-    "video": "education-nationale/chequier.webm"
+    "key": "chéquier",
+    "video": "education-nationale/chéquier.webm"
   },
   {
     "key": "chimie",
     "video": "education-nationale/chimie.webm"
   },
   {
-    "key": "chine",
-    "video": "education-nationale/chine.webm"
+    "key": "Chine",
+    "video": "education-nationale/Chine.webm"
   },
   {
-    "key": "cinema",
-    "video": "education-nationale/cinema.webm"
+    "key": "cinéma",
+    "video": "education-nationale/cinéma.webm"
   },
   {
     "key": "citoyen",
     "video": "education-nationale/citoyen.webm"
   },
   {
-    "key": "code_de_la_route",
-    "video": "education-nationale/code_de_la_route.webm"
+    "key": "code de la route",
+    "video": "education-nationale/code de la route.webm"
   },
   {
     "key": "coiffure",
@@ -396,16 +400,16 @@
     "video": "education-nationale/collaboration.webm"
   },
   {
-    "key": "comedien",
-    "video": "education-nationale/comedien.webm"
+    "key": "comédien",
+    "video": "education-nationale/comédien.webm"
   },
   {
-    "key": "comedie",
-    "video": "education-nationale/comedie.webm"
+    "key": "comédie",
+    "video": "education-nationale/comédie.webm"
   },
   {
-    "key": "comite",
-    "video": "education-nationale/comite.webm"
+    "key": "comité",
+    "video": "education-nationale/comité.webm"
   },
   {
     "key": "commerce",
@@ -424,12 +428,12 @@
     "video": "education-nationale/communisme.webm"
   },
   {
-    "key": "competant",
-    "video": "education-nationale/competant.webm"
+    "key": "compétant",
+    "video": "education-nationale/compétant.webm"
   },
   {
-    "key": "competition",
-    "video": "education-nationale/competition.webm"
+    "key": "compétition",
+    "video": "education-nationale/compétition.webm"
   },
   {
     "key": "comportement",
@@ -440,8 +444,8 @@
     "video": "education-nationale/compromis.webm"
   },
   {
-    "key": "comptabilite",
-    "video": "education-nationale/comptabilite.webm"
+    "key": "comptabilité",
+    "video": "education-nationale/comptabilité.webm"
   },
   {
     "key": "concentration",
@@ -460,8 +464,8 @@
     "video": "education-nationale/concurrence.webm"
   },
   {
-    "key": "conference",
-    "video": "education-nationale/conference.webm"
+    "key": "conférence",
+    "video": "education-nationale/conférence.webm"
   },
   {
     "key": "confiance",
@@ -488,8 +492,8 @@
     "video": "education-nationale/conseiller.webm"
   },
   {
-    "key": "construction_navale",
-    "video": "education-nationale/construction_navale.webm"
+    "key": "construction navale",
+    "video": "education-nationale/construction navale.webm"
   },
   {
     "key": "conte",
@@ -500,24 +504,24 @@
     "video": "education-nationale/contrat.webm"
   },
   {
-    "key": "convaincre2",
-    "video": "education-nationale/convaincre2.webm"
+    "key": "convaincre",
+    "video": "education-nationale/convaincre.webm"
   },
   {
-    "key": "conversation_(discuter)",
-    "video": "education-nationale/conversation_(discuter).webm"
+    "key": "conversation (discuter)",
+    "video": "education-nationale/conversation (discuter).webm"
   },
   {
-    "key": "convertion",
-    "video": "education-nationale/convertion.webm"
+    "key": "conversion",
+    "video": "education-nationale/conversion.webm"
   },
   {
     "key": "convoquer",
     "video": "education-nationale/convoquer.webm"
   },
   {
-    "key": "correction_(annuler)",
-    "video": "education-nationale/correction_(annuler).webm"
+    "key": "correction (corriger)",
+    "video": "education-nationale/correction (corriger).webm"
   },
   {
     "key": "cotisation",
@@ -528,8 +532,8 @@
     "video": "education-nationale/coupable.webm"
   },
   {
-    "key": "credit",
-    "video": "education-nationale/credit.webm"
+    "key": "crédit",
+    "video": "education-nationale/crédit.webm"
   },
   {
     "key": "crime",
@@ -540,124 +544,124 @@
     "video": "education-nationale/critiquer.webm"
   },
   {
-    "key": "culture1",
-    "video": "education-nationale/culture1.webm"
+    "key": "culture de la terre",
+    "video": "education-nationale/culture de la terre.webm"
   },
   {
-    "key": "culture_de_la_terre",
-    "video": "education-nationale/culture_de_la_terre.webm"
+    "key": "culture (1)",
+    "video": "education-nationale/culture.webm"
   },
   {
     "key": "curieux",
     "video": "education-nationale/curieux.webm"
   },
   {
-    "key": "danemark",
-    "video": "education-nationale/danemark.webm"
+    "key": "Danemark",
+    "video": "education-nationale/Danemark.webm"
   },
   {
-    "key": "debat",
-    "video": "education-nationale/debat.webm"
+    "key": "débat",
+    "video": "education-nationale/débat.webm"
   },
   {
-    "key": "debilite",
-    "video": "education-nationale/debilite.webm"
+    "key": "débilité",
+    "video": "education-nationale/débilité.webm"
   },
   {
-    "key": "debit_banque",
-    "video": "education-nationale/debit_banque.webm"
+    "key": "débit banque",
+    "video": "education-nationale/débit banque.webm"
   },
   {
-    "key": "decentralisation",
-    "video": "education-nationale/decentralisation.webm"
+    "key": "décentralisation",
+    "video": "education-nationale/décentralisation.webm"
   },
   {
-    "key": "decision",
-    "video": "education-nationale/decision.webm"
+    "key": "décision",
+    "video": "education-nationale/décision.webm"
   },
   {
-    "key": "declaration_droits_de_l_homme",
-    "video": "education-nationale/declaration_droits_de_l_homme.webm"
+    "key": "déclaration droits de l'homme",
+    "video": "education-nationale/déclaration droits de l'homme.webm"
   },
   {
-    "key": "declaration",
-    "video": "education-nationale/declaration.webm"
+    "key": "déclaration (1)",
+    "video": "education-nationale/déclaration.webm"
   },
   {
-    "key": "decommander",
-    "video": "education-nationale/decommander.webm"
+    "key": "décommander",
+    "video": "education-nationale/décommander.webm"
   },
   {
-    "key": "decompte",
-    "video": "education-nationale/decompte.webm"
+    "key": "décompte",
+    "video": "education-nationale/décompte.webm"
   },
   {
-    "key": "decors",
-    "video": "education-nationale/decors.webm"
+    "key": "décors",
+    "video": "education-nationale/décors.webm"
   },
   {
-    "key": "decouragement",
-    "video": "education-nationale/decouragement.webm"
+    "key": "découragement",
+    "video": "education-nationale/découragement.webm"
   },
   {
-    "key": "decouverte",
-    "video": "education-nationale/decouverte.webm"
+    "key": "découverte",
+    "video": "education-nationale/découverte.webm"
   },
   {
-    "key": "defaut",
-    "video": "education-nationale/defaut.webm"
+    "key": "défaut",
+    "video": "education-nationale/défaut.webm"
   },
   {
-    "key": "defenseur",
-    "video": "education-nationale/defenseur.webm"
+    "key": "défenseur",
+    "video": "education-nationale/défenseur.webm"
   },
   {
-    "key": "deficit",
-    "video": "education-nationale/deficit.webm"
+    "key": "déficit",
+    "video": "education-nationale/déficit.webm"
   },
   {
-    "key": "degressif",
-    "video": "education-nationale/degressif.webm"
+    "key": "dégressif",
+    "video": "education-nationale/dégressif.webm"
   },
   {
-    "key": "degustation",
-    "video": "education-nationale/degustation.webm"
+    "key": "dégustation",
+    "video": "education-nationale/dégustation.webm"
   },
   {
-    "key": "delivrance",
-    "video": "education-nationale/delivrance.webm"
+    "key": "délivrance",
+    "video": "education-nationale/délivrance.webm"
   },
   {
-    "key": "deluge",
-    "video": "education-nationale/deluge.webm"
+    "key": "déluge",
+    "video": "education-nationale/déluge.webm"
   },
   {
-    "key": "demenagement",
-    "video": "education-nationale/demenagement.webm"
+    "key": "démenagement",
+    "video": "education-nationale/démenagement.webm"
   },
   {
-    "key": "demissionner",
-    "video": "education-nationale/demissionner.webm"
+    "key": "démissionner",
+    "video": "education-nationale/démissionner.webm"
   },
   {
-    "key": "democratie",
-    "video": "education-nationale/democratie.webm"
+    "key": "démocratie",
+    "video": "education-nationale/démocratie.webm"
   },
   {
-    "key": "demonstration",
-    "video": "education-nationale/demonstration.webm"
+    "key": "démonstration",
+    "video": "education-nationale/démonstration.webm"
   },
   {
-    "key": "depression",
-    "video": "education-nationale/depression.webm"
+    "key": "dépression",
+    "video": "education-nationale/dépression.webm"
   },
   {
-    "key": "depute",
-    "video": "education-nationale/depute.webm"
+    "key": "député",
+    "video": "education-nationale/député.webm"
   },
   {
-    "key": "derogation",
-    "video": "education-nationale/derogation.webm"
+    "key": "dérogation",
+    "video": "education-nationale/dérogation.webm"
   },
   {
     "key": "dette",
@@ -668,16 +672,16 @@
     "video": "education-nationale/devis.webm"
   },
   {
-    "key": "diabete",
-    "video": "education-nationale/diabete.webm"
+    "key": "diabète",
+    "video": "education-nationale/diabète.webm"
   },
   {
     "key": "dialogue",
     "video": "education-nationale/dialogue.webm"
   },
   {
-    "key": "dijon",
-    "video": "education-nationale/dijon.webm"
+    "key": "Dijon",
+    "video": "education-nationale/Dijon.webm"
   },
   {
     "key": "dilatation",
@@ -688,8 +692,8 @@
     "video": "education-nationale/diplomatique.webm"
   },
   {
-    "key": "diplome",
-    "video": "education-nationale/diplome.webm"
+    "key": "diplôme",
+    "video": "education-nationale/diplôme.webm"
   },
   {
     "key": "directeur",
@@ -704,8 +708,8 @@
     "video": "education-nationale/divorce.webm"
   },
   {
-    "key": "doctorat_en_medecine",
-    "video": "education-nationale/doctorat_en_medecine.webm"
+    "key": "doctorat en médecine",
+    "video": "education-nationale/doctorat en médecine.webm"
   },
   {
     "key": "documentation",
@@ -728,64 +732,64 @@
     "video": "education-nationale/droit.webm"
   },
   {
-    "key": "ebeniste",
-    "video": "education-nationale/ebeniste.webm"
+    "key": "ébéniste",
+    "video": "education-nationale/ébéniste.webm"
   },
   {
-    "key": "echange",
-    "video": "education-nationale/echange.webm"
+    "key": "échange",
+    "video": "education-nationale/échange.webm"
   },
   {
-    "key": "echelon",
-    "video": "education-nationale/echelon.webm"
+    "key": "échelon",
+    "video": "education-nationale/échelon.webm"
   },
   {
-    "key": "eclairage",
-    "video": "education-nationale/eclairage.webm"
+    "key": "éclairage",
+    "video": "education-nationale/éclairage.webm"
   },
   {
-    "key": "eclipse",
-    "video": "education-nationale/eclipse.webm"
+    "key": "éclipse",
+    "video": "education-nationale/éclipse.webm"
   },
   {
-    "key": "ecole",
-    "video": "education-nationale/ecole.webm"
+    "key": "école",
+    "video": "education-nationale/école.webm"
   },
   {
-    "key": "economie1",
-    "video": "education-nationale/economie1.webm"
+    "key": "économie",
+    "video": "education-nationale/économie.webm"
   },
   {
-    "key": "ecosse",
-    "video": "education-nationale/ecosse.webm"
+    "key": "Écosse",
+    "video": "education-nationale/Écosse.webm"
   },
   {
-    "key": "edifice",
-    "video": "education-nationale/edifice.webm"
+    "key": "édifice",
+    "video": "education-nationale/édifice.webm"
   },
   {
-    "key": "educateur",
-    "video": "education-nationale/educateur.webm"
+    "key": "éducateur",
+    "video": "education-nationale/éducateur.webm"
   },
   {
-    "key": "egypte",
-    "video": "education-nationale/egypte.webm"
+    "key": "Égypte",
+    "video": "education-nationale/Égypte.webm"
   },
   {
-    "key": "electricite",
-    "video": "education-nationale/electricite.webm"
+    "key": "électricité",
+    "video": "education-nationale/électricité.webm"
   },
   {
-    "key": "electronique",
-    "video": "education-nationale/electronique.webm"
+    "key": "électronique",
+    "video": "education-nationale/électronique.webm"
   },
   {
-    "key": "electro-technique",
-    "video": "education-nationale/electro-technique.webm"
+    "key": "électrotechnique",
+    "video": "education-nationale/électrotechnique.webm"
   },
   {
-    "key": "elegance",
-    "video": "education-nationale/elegance.webm"
+    "key": "élégance",
+    "video": "education-nationale/élégance.webm"
   },
   {
     "key": "emballage",
@@ -796,16 +800,16 @@
     "video": "education-nationale/embaucher.webm"
   },
   {
-    "key": "emploi_du_temps",
-    "video": "education-nationale/emploi_du_temps.webm"
+    "key": "emploi du temps",
+    "video": "education-nationale/emploi du temps.webm"
   },
   {
     "key": "emprunt",
     "video": "education-nationale/emprunt.webm"
   },
   {
-    "key": "encephalogramme",
-    "video": "education-nationale/encephalogramme.webm"
+    "key": "encéphalogramme",
+    "video": "education-nationale/encéphalogramme.webm"
   },
   {
     "key": "endoctriner",
@@ -820,16 +824,16 @@
     "video": "education-nationale/engrenage.webm"
   },
   {
-    "key": "enlevement",
-    "video": "education-nationale/enlevement.webm"
+    "key": "enlèvement",
+    "video": "education-nationale/enlèvement.webm"
   },
   {
     "key": "ennemi",
     "video": "education-nationale/ennemi.webm"
   },
   {
-    "key": "enquete",
-    "video": "education-nationale/enquete.webm"
+    "key": "enquête",
+    "video": "education-nationale/enquête.webm"
   },
   {
     "key": "enregistrer",
@@ -844,56 +848,56 @@
     "video": "education-nationale/enthousiasme.webm"
   },
   {
-    "key": "envergure-oiseaux",
-    "video": "education-nationale/envergure-oiseaux.webm"
+    "key": "envergure (oiseaux)",
+    "video": "education-nationale/envergure (oiseaux).webm"
   },
   {
     "key": "envie",
     "video": "education-nationale/envie.webm"
   },
   {
-    "key": "ephemere",
-    "video": "education-nationale/ephemere.webm"
+    "key": "éphémère",
+    "video": "education-nationale/éphémère.webm"
   },
   {
-    "key": "epilepsie",
-    "video": "education-nationale/epilepsie.webm"
+    "key": "épilepsie",
+    "video": "education-nationale/épilepsie.webm"
   },
   {
-    "key": "equilibre",
-    "video": "education-nationale/equilibre.webm"
+    "key": "équilibre",
+    "video": "education-nationale/équilibre.webm"
   },
   {
-    "key": "equipe",
-    "video": "education-nationale/equipe.webm"
+    "key": "équipe",
+    "video": "education-nationale/équipe.webm"
   },
   {
-    "key": "espagne",
-    "video": "education-nationale/espagne.webm"
+    "key": "Espagne",
+    "video": "education-nationale/Espagne.webm"
   },
   {
-    "key": "etat-pays",
-    "video": "education-nationale/etat-pays.webm"
+    "key": "État, pays",
+    "video": "education-nationale/État, pays.webm"
   },
   {
-    "key": "etats-unis",
-    "video": "education-nationale/etats-unis.webm"
+    "key": "États-Unis",
+    "video": "education-nationale/États-Unis.webm"
   },
   {
-    "key": "etranger",
-    "video": "education-nationale/etranger.webm"
+    "key": "étranger",
+    "video": "education-nationale/étranger.webm"
   },
   {
-    "key": "etudiant",
-    "video": "education-nationale/etudiant.webm"
+    "key": "étudiant",
+    "video": "education-nationale/étudiant.webm"
   },
   {
-    "key": "europe",
-    "video": "education-nationale/europe.webm"
+    "key": "Europe",
+    "video": "education-nationale/Europe.webm"
   },
   {
-    "key": "evolution",
-    "video": "education-nationale/evolution.webm"
+    "key": "évolution",
+    "video": "education-nationale/évolution.webm"
   },
   {
     "key": "examen",
@@ -908,8 +912,8 @@
     "video": "education-nationale/exercice.webm"
   },
   {
-    "key": "experience",
-    "video": "education-nationale/experience.webm"
+    "key": "expérience",
+    "video": "education-nationale/expérience.webm"
   },
   {
     "key": "expert",
@@ -924,12 +928,12 @@
     "video": "education-nationale/exportation.webm"
   },
   {
-    "key": "expression-mots",
-    "video": "education-nationale/expression-mots.webm"
+    "key": "expression du visage",
+    "video": "education-nationale/expression du visage.webm"
   },
   {
-    "key": "expression-visage",
-    "video": "education-nationale/expression-visage.webm"
+    "key": "expression, mots",
+    "video": "education-nationale/expression, mots.webm"
   },
   {
     "key": "fabrication",
@@ -944,8 +948,8 @@
     "video": "education-nationale/faillite.webm"
   },
   {
-    "key": "falcifier",
-    "video": "education-nationale/falcifier.webm"
+    "key": "falsifier",
+    "video": "education-nationale/falsifier.webm"
   },
   {
     "key": "fantasme",
@@ -960,16 +964,16 @@
     "video": "education-nationale/faussaire.webm"
   },
   {
-    "key": "federation",
-    "video": "education-nationale/federation.webm"
+    "key": "fédération",
+    "video": "education-nationale/fédération.webm"
   },
   {
-    "key": "felicitation",
-    "video": "education-nationale/felicitation.webm"
+    "key": "félicitation",
+    "video": "education-nationale/félicitation.webm"
   },
   {
-    "key": "finlande",
-    "video": "education-nationale/finlande.webm"
+    "key": "Finlande",
+    "video": "education-nationale/Finlande.webm"
   },
   {
     "key": "fleuve",
@@ -984,28 +988,28 @@
     "video": "education-nationale/fonder.webm"
   },
   {
-    "key": "foret2",
-    "video": "education-nationale/foret2.webm"
+    "key": "forêt",
+    "video": "education-nationale/forêt.webm"
   },
   {
     "key": "formation",
     "video": "education-nationale/formation.webm"
   },
   {
-    "key": "francais",
-    "video": "education-nationale/francais.webm"
+    "key": "français",
+    "video": "education-nationale/français.webm"
   },
   {
-    "key": "france",
-    "video": "education-nationale/france.webm"
+    "key": "France",
+    "video": "education-nationale/France.webm"
   },
   {
     "key": "futur",
     "video": "education-nationale/futur.webm"
   },
   {
-    "key": "geographie",
-    "video": "education-nationale/geographie.webm"
+    "key": "géographie",
+    "video": "education-nationale/géographie.webm"
   },
   {
     "key": "grammaire",
@@ -1016,12 +1020,12 @@
     "video": "education-nationale/gravure.webm"
   },
   {
-    "key": "grece",
-    "video": "education-nationale/grece.webm"
+    "key": "Grèce",
+    "video": "education-nationale/Grèce.webm"
   },
   {
-    "key": "guyane",
-    "video": "education-nationale/guyane.webm"
+    "key": "Guyane",
+    "video": "education-nationale/Guyane.webm"
   },
   {
     "key": "gymnastique",
@@ -1032,44 +1036,44 @@
     "video": "education-nationale/haine.webm"
   },
   {
-    "key": "handicape",
-    "video": "education-nationale/handicape.webm"
+    "key": "handicapé",
+    "video": "education-nationale/handicapé.webm"
   },
   {
-    "key": "heritage",
-    "video": "education-nationale/heritage.webm"
+    "key": "héritage",
+    "video": "education-nationale/héritage.webm"
   },
   {
-    "key": "hierarchie2",
-    "video": "education-nationale/hierarchie2.webm"
+    "key": "hiérarchie",
+    "video": "education-nationale/hiérarchie.webm"
   },
   {
     "key": "histoire",
     "video": "education-nationale/histoire.webm"
   },
   {
-    "key": "hollande",
-    "video": "education-nationale/hollande.webm"
+    "key": "Hollande",
+    "video": "education-nationale/Hollande.webm"
   },
   {
     "key": "hommage",
     "video": "education-nationale/hommage.webm"
   },
   {
-    "key": "homme",
+    "key": "homme (1)",
     "video": "education-nationale/homme.webm"
   },
   {
-    "key": "hongrie",
-    "video": "education-nationale/hongrie.webm"
+    "key": "Hongrie",
+    "video": "education-nationale/Hongrie.webm"
   },
   {
     "key": "honneur",
     "video": "education-nationale/honneur.webm"
   },
   {
-    "key": "hopital",
-    "video": "education-nationale/hopital.webm"
+    "key": "hôpital",
+    "video": "education-nationale/hôpital.webm"
   },
   {
     "key": "horizon",
@@ -1080,8 +1084,8 @@
     "video": "education-nationale/horticulture.webm"
   },
   {
-    "key": "hotel",
-    "video": "education-nationale/hotel.webm"
+    "key": "hôtel",
+    "video": "education-nationale/hôtel.webm"
   },
   {
     "key": "huissier",
@@ -1092,16 +1096,16 @@
     "video": "education-nationale/hypocrite.webm"
   },
   {
-    "key": "ideologie",
-    "video": "education-nationale/ideologie.webm"
+    "key": "idéologie",
+    "video": "education-nationale/idéologie.webm"
   },
   {
     "key": "illusion",
     "video": "education-nationale/illusion.webm"
   },
   {
-    "key": "impots",
-    "video": "education-nationale/impots.webm"
+    "key": "impôts",
+    "video": "education-nationale/impôts.webm"
   },
   {
     "key": "imprimer",
@@ -1112,8 +1116,8 @@
     "video": "education-nationale/inauguration.webm"
   },
   {
-    "key": "inde",
-    "video": "education-nationale/inde.webm"
+    "key": "Inde",
+    "video": "education-nationale/Inde.webm"
   },
   {
     "key": "individu",
@@ -1124,8 +1128,8 @@
     "video": "education-nationale/infarctus.webm"
   },
   {
-    "key": "infirmiere",
-    "video": "education-nationale/infirmiere.webm"
+    "key": "infirmière",
+    "video": "education-nationale/infirmière.webm"
   },
   {
     "key": "influence",
@@ -1144,8 +1148,8 @@
     "video": "education-nationale/informer.webm"
   },
   {
-    "key": "ingenieur",
-    "video": "education-nationale/ingenieur.webm"
+    "key": "ingénieur",
+    "video": "education-nationale/ingénieur.webm"
   },
   {
     "key": "insertion",
@@ -1156,24 +1160,24 @@
     "video": "education-nationale/intelligence.webm"
   },
   {
-    "key": "intergration",
-    "video": "education-nationale/intergration.webm"
-  },
-  {
-    "key": "interioriser",
-    "video": "education-nationale/interioriser.webm"
+    "key": "intérioriser",
+    "video": "education-nationale/intérioriser.webm"
   },
   {
     "key": "international",
     "video": "education-nationale/international.webm"
   },
   {
-    "key": "internet",
-    "video": "education-nationale/internet.webm"
+    "key": "Internet",
+    "video": "education-nationale/Internet.webm"
   },
   {
-    "key": "interpreter",
-    "video": "education-nationale/interpreter.webm"
+    "key": "interpréter",
+    "video": "education-nationale/interpréter.webm"
+  },
+  {
+    "key": "interrogation",
+    "video": "education-nationale/interrogation.webm"
   },
   {
     "key": "intervenir",
@@ -1188,20 +1192,20 @@
     "video": "education-nationale/invention.webm"
   },
   {
-    "key": "irlande",
-    "video": "education-nationale/irlande.webm"
+    "key": "Irlande",
+    "video": "education-nationale/Irlande.webm"
   },
   {
-    "key": "israel",
-    "video": "education-nationale/israel.webm"
+    "key": "Israël",
+    "video": "education-nationale/Israël.webm"
   },
   {
-    "key": "italie",
-    "video": "education-nationale/italie.webm"
+    "key": "Italie",
+    "video": "education-nationale/Italie.webm"
   },
   {
-    "key": "japon",
-    "video": "education-nationale/japon.webm"
+    "key": "Japon",
+    "video": "education-nationale/Japon.webm"
   },
   {
     "key": "jardinage",
@@ -1216,72 +1220,72 @@
     "video": "education-nationale/jeunesse.webm"
   },
   {
-    "key": "justice2",
-    "video": "education-nationale/justice2.webm"
+    "key": "justice",
+    "video": "education-nationale/justice.webm"
+  },
+  {
+    "key": "Kg (kilogramme)",
+    "video": "education-nationale/Kg (kilogramme).webm"
   },
   {
     "key": "kidnapper",
     "video": "education-nationale/kidnapper.webm"
   },
   {
-    "key": "kilo",
-    "video": "education-nationale/kilo.webm"
-  },
-  {
-    "key": "kinesitherapie",
-    "video": "education-nationale/kinesitherapie.webm"
+    "key": "kinésithérapie",
+    "video": "education-nationale/kinésithérapie.webm"
   },
   {
     "key": "kleptomanie",
     "video": "education-nationale/kleptomanie.webm"
   },
   {
-    "key": "km",
-    "video": "education-nationale/km.webm"
+    "key": "Km (kilomètre)",
+    "video": "education-nationale/Km (kilomètre).webm"
   },
   {
-    "key": "k_watt",
-    "video": "education-nationale/k_watt.webm"
+    "key": "Kwatt (kilowatt)",
+    "video": "education-nationale/Kwatt (kilowatt).webm"
   },
   {
-    "key": "la_mode",
-    "video": "education-nationale/la_mode.webm"
+    "key": "la mode",
+    "video": "education-nationale/la mode.webm"
   },
   {
     "key": "langue",
     "video": "education-nationale/langue.webm"
   },
   {
-    "key": "laos",
-    "video": "education-nationale/laos.webm"
+    "key": "Laos",
+    "video": "education-nationale/Laos.webm"
   },
   {
     "key": "leader",
     "video": "education-nationale/leader.webm"
   },
   {
-    "key": "lecture_labiale",
-    "video": "education-nationale/lecture_labiale.webm"
+    "key": "lecture labiale",
+    "video": "education-nationale/lecture labiale.webm"
   },
   {
-    "key": "lecture",
+    "key": "lecture (1)",
     "video": "education-nationale/lecture.webm"
   },
   {
-    "key": "liberte",
-    "video": "education-nationale/liberte.webm"
+    "key": "liberté",
+    "video": "education-nationale/liberté.webm"
   },
   {
     "key": "licenciement",
     "video": "education-nationale/licenciement.webm"
   },
   {
-    "key": "lille",
-    "video": "education-nationale/lille.webm"
+    "key": "Lille",
+    "video": "education-nationale/Lille.webm"
   },
   {
-    "key": "limoges",
-    "video": "education-nationale/limoges.webm"
+    "key": "Limoges",
+    "video": "education-nationale/Limoges.webm"
   },
   {
     "key": "linguistique",
@@ -1292,8 +1296,8 @@
     "video": "education-nationale/loi.webm"
   },
   {
-    "key": "lyon",
-    "video": "education-nationale/lyon.webm"
+    "key": "Lyon",
+    "video": "education-nationale/Lyon.webm"
   },
   {
     "key": "machine",
@@ -1312,36 +1316,36 @@
     "video": "education-nationale/majeur.webm"
   },
   {
-    "key": "manifestation2",
-    "video": "education-nationale/manifestation2.webm"
+    "key": "manifestation",
+    "video": "education-nationale/manifestation.webm"
   },
   {
     "key": "marginal",
     "video": "education-nationale/marginal.webm"
   },
   {
-    "key": "maroc",
-    "video": "education-nationale/maroc.webm"
+    "key": "Maroc",
+    "video": "education-nationale/Maroc.webm"
   },
   {
-    "key": "marseille",
-    "video": "education-nationale/marseille.webm"
+    "key": "Marseille",
+    "video": "education-nationale/Marseille.webm"
   },
   {
-    "key": "mecanique",
-    "video": "education-nationale/mecanique.webm"
+    "key": "mécanique",
+    "video": "education-nationale/mécanique.webm"
   },
   {
-    "key": "medecin",
-    "video": "education-nationale/medecin.webm"
+    "key": "médecin",
+    "video": "education-nationale/médecin.webm"
   },
   {
-    "key": "medicament",
-    "video": "education-nationale/medicament.webm"
+    "key": "médicament",
+    "video": "education-nationale/médicament.webm"
   },
   {
-    "key": "memoire_these",
-    "video": "education-nationale/memoire_these.webm"
+    "key": "mémoire, thèse",
+    "video": "education-nationale/mémoire, thèse.webm"
   },
   {
     "key": "mensuel",
@@ -1352,20 +1356,20 @@
     "video": "education-nationale/message.webm"
   },
   {
-    "key": "methode",
-    "video": "education-nationale/methode.webm"
+    "key": "méthode",
+    "video": "education-nationale/méthode.webm"
   },
   {
-    "key": "metier",
-    "video": "education-nationale/metier.webm"
+    "key": "métier",
+    "video": "education-nationale/métier.webm"
   },
   {
-    "key": "metz",
-    "video": "education-nationale/metz.webm"
+    "key": "Metz",
+    "video": "education-nationale/Metz.webm"
   },
   {
-    "key": "mexique",
-    "video": "education-nationale/mexique.webm"
+    "key": "Mexique",
+    "video": "education-nationale/Mexique.webm"
   },
   {
     "key": "microbe",
@@ -1384,16 +1388,16 @@
     "video": "education-nationale/mine.webm"
   },
   {
-    "key": "minorite",
-    "video": "education-nationale/minorite.webm"
+    "key": "minorité",
+    "video": "education-nationale/minorité.webm"
   },
   {
     "key": "moderne",
     "video": "education-nationale/moderne.webm"
   },
   {
-    "key": "monaco",
-    "video": "education-nationale/monaco.webm"
+    "key": "Monaco",
+    "video": "education-nationale/Monaco.webm"
   },
   {
     "key": "monde",
@@ -1404,16 +1408,16 @@
     "video": "education-nationale/montagne.webm"
   },
   {
-    "key": "montpellier",
-    "video": "education-nationale/montpellier.webm"
+    "key": "Montpellier",
+    "video": "education-nationale/Montpellier.webm"
   },
   {
     "key": "moral",
     "video": "education-nationale/moral.webm"
   },
   {
-    "key": "mulhouse",
-    "video": "education-nationale/mulhouse.webm"
+    "key": "Mulhouse",
+    "video": "education-nationale/Mulhouse.webm"
   },
   {
     "key": "musique",
@@ -1428,16 +1432,16 @@
     "video": "education-nationale/mutation.webm"
   },
   {
-    "key": "nancy",
-    "video": "education-nationale/nancy.webm"
+    "key": "Nancy",
+    "video": "education-nationale/Nancy.webm"
   },
   {
-    "key": "nantes",
-    "video": "education-nationale/nantes.webm"
+    "key": "Nantes",
+    "video": "education-nationale/Nantes.webm"
   },
   {
-    "key": "nationalite",
-    "video": "education-nationale/nationalite.webm"
+    "key": "nationalité",
+    "video": "education-nationale/nationalité.webm"
   },
   {
     "key": "naturel",
@@ -1452,8 +1456,8 @@
     "video": "education-nationale/neutre.webm"
   },
   {
-    "key": "nimes",
-    "video": "education-nationale/nimes.webm"
+    "key": "Nîmes",
+    "video": "education-nationale/Nîmes.webm"
   },
   {
     "key": "niveau",
@@ -1464,16 +1468,16 @@
     "video": "education-nationale/normal.webm"
   },
   {
-    "key": "norvege",
-    "video": "education-nationale/norvege.webm"
+    "key": "Norvège",
+    "video": "education-nationale/Norvège.webm"
   },
   {
     "key": "notaire",
     "video": "education-nationale/notaire.webm"
   },
   {
-    "key": "nucleaire",
-    "video": "education-nationale/nucleaire.webm"
+    "key": "nucléaire",
+    "video": "education-nationale/nucléaire.webm"
   },
   {
     "key": "objectif",
@@ -1496,8 +1500,8 @@
     "video": "education-nationale/officiel.webm"
   },
   {
-    "key": "opression",
-    "video": "education-nationale/opression.webm"
+    "key": "oppression",
+    "video": "education-nationale/oppression.webm"
   },
   {
     "key": "oral",
@@ -1512,28 +1516,28 @@
     "video": "education-nationale/origine.webm"
   },
   {
-    "key": "orleans",
-    "video": "education-nationale/orleans.webm"
+    "key": "Orléans",
+    "video": "education-nationale/Orléans.webm"
   },
   {
     "key": "outil",
     "video": "education-nationale/outil.webm"
   },
   {
-    "key": "paques",
-    "video": "education-nationale/paques.webm"
+    "key": "pâques",
+    "video": "education-nationale/pâques.webm"
   },
   {
-    "key": "paris",
-    "video": "education-nationale/paris.webm"
+    "key": "Paris",
+    "video": "education-nationale/Paris.webm"
   },
   {
-    "key": "pedagogie",
-    "video": "education-nationale/pedagogie.webm"
+    "key": "pédagogie",
+    "video": "education-nationale/pédagogie.webm"
   },
   {
-    "key": "pedophile",
-    "video": "education-nationale/pedophile.webm"
+    "key": "pédophile",
+    "video": "education-nationale/pédophile.webm"
   },
   {
     "key": "pharmacie",
@@ -1564,12 +1568,12 @@
     "video": "education-nationale/plombier.webm"
   },
   {
-    "key": "poeme",
-    "video": "education-nationale/poeme.webm"
+    "key": "poème",
+    "video": "education-nationale/poème.webm"
   },
   {
-    "key": "poitiers",
-    "video": "education-nationale/poitiers.webm"
+    "key": "Poitiers",
+    "video": "education-nationale/Poitiers.webm"
   },
   {
     "key": "politique",
@@ -1584,16 +1588,12 @@
     "video": "education-nationale/pouvoir.webm"
   },
   {
-    "key": "priori",
-    "video": "education-nationale/priori.webm"
+    "key": "privé",
+    "video": "education-nationale/privé.webm"
   },
   {
-    "key": "prive2",
-    "video": "education-nationale/prive2.webm"
-  },
-  {
-    "key": "probleme",
-    "video": "education-nationale/probleme.webm"
+    "key": "problème",
+    "video": "education-nationale/problème.webm"
   },
   {
     "key": "production",
@@ -1616,16 +1616,16 @@
     "video": "education-nationale/recherche.webm"
   },
   {
-    "key": "reims",
-    "video": "education-nationale/reims.webm"
+    "key": "Reims",
+    "video": "education-nationale/Reims.webm"
   },
   {
     "key": "relation",
     "video": "education-nationale/relation.webm"
   },
   {
-    "key": "rennes",
-    "video": "education-nationale/rennes.webm"
+    "key": "Rennes",
+    "video": "education-nationale/Rennes.webm"
   },
   {
     "key": "responsable",
@@ -1636,8 +1636,8 @@
     "video": "education-nationale/restauration.webm"
   },
   {
-    "key": "revision",
-    "video": "education-nationale/revision.webm"
+    "key": "révision",
+    "video": "education-nationale/révision.webm"
   },
   {
     "key": "rival",
@@ -1648,56 +1648,56 @@
     "video": "education-nationale/roi.webm"
   },
   {
-    "key": "role",
-    "video": "education-nationale/role.webm"
+    "key": "rôle",
+    "video": "education-nationale/rôle.webm"
   },
   {
-    "key": "rome",
-    "video": "education-nationale/rome.webm"
+    "key": "Rome",
+    "video": "education-nationale/Rome.webm"
   },
   {
-    "key": "roumanie",
-    "video": "education-nationale/roumanie.webm"
+    "key": "Roumanie",
+    "video": "education-nationale/Roumanie.webm"
   },
   {
-    "key": "saint-etienne",
-    "video": "education-nationale/saint-etienne.webm"
+    "key": "Saint-Étienne",
+    "video": "education-nationale/Saint-Étienne.webm"
   },
   {
     "key": "s'allier",
     "video": "education-nationale/s'allier.webm"
   },
   {
-    "key": "sante",
-    "video": "education-nationale/sante.webm"
+    "key": "santé",
+    "video": "education-nationale/santé.webm"
   },
   {
-    "key": "scanner_medical",
-    "video": "education-nationale/scanner_medical.webm"
+    "key": "scanner médical",
+    "video": "education-nationale/scanner médical.webm"
   },
   {
-    "key": "schizophrene",
-    "video": "education-nationale/schizophrene.webm"
+    "key": "schizophrène",
+    "video": "education-nationale/schizophrène.webm"
   },
   {
     "key": "sculpture",
     "video": "education-nationale/sculpture.webm"
   },
   {
-    "key": "secretaria",
-    "video": "education-nationale/secretaria.webm"
+    "key": "secrétariat",
+    "video": "education-nationale/secrétariat.webm"
   },
   {
-    "key": "segregation",
-    "video": "education-nationale/segregation.webm"
+    "key": "ségrégation",
+    "video": "education-nationale/ségrégation.webm"
   },
   {
-    "key": "seisme",
-    "video": "education-nationale/seisme.webm"
+    "key": "séisme",
+    "video": "education-nationale/séisme.webm"
   },
   {
-    "key": "selection2",
-    "video": "education-nationale/selection2.webm"
+    "key": "sélection",
+    "video": "education-nationale/sélection.webm"
   },
   {
     "key": "social",
@@ -1712,28 +1712,28 @@
     "video": "education-nationale/soldat.webm"
   },
   {
-    "key": "sous_titrage",
-    "video": "education-nationale/sous_titrage.webm"
+    "key": "sous-titrage",
+    "video": "education-nationale/sous-titrage.webm"
   },
   {
     "key": "sport",
     "video": "education-nationale/sport.webm"
   },
   {
-    "key": "statuts",
-    "video": "education-nationale/statuts.webm"
+    "key": "statut social",
+    "video": "education-nationale/statut social.webm"
   },
   {
-    "key": "strasbourg",
-    "video": "education-nationale/strasbourg.webm"
+    "key": "Strasbourg",
+    "video": "education-nationale/Strasbourg.webm"
   },
   {
     "key": "subvention",
     "video": "education-nationale/subvention.webm"
   },
   {
-    "key": "suede",
-    "video": "education-nationale/suede.webm"
+    "key": "Suède",
+    "video": "education-nationale/Suède.webm"
   },
   {
     "key": "symbole",
@@ -1760,36 +1760,36 @@
     "video": "education-nationale/technique.webm"
   },
   {
-    "key": "telecommunication",
-    "video": "education-nationale/telecommunication.webm"
+    "key": "télécommunication",
+    "video": "education-nationale/télécommunication.webm"
   },
   {
-    "key": "television",
-    "video": "education-nationale/television.webm"
+    "key": "télévision",
+    "video": "education-nationale/télévision.webm"
   },
   {
-    "key": "terre",
+    "key": "terre (1)",
     "video": "education-nationale/terre.webm"
   },
   {
-    "key": "theatre",
-    "video": "education-nationale/theatre.webm"
+    "key": "théâtre",
+    "video": "education-nationale/théâtre.webm"
   },
   {
-    "key": "theorie",
-    "video": "education-nationale/theorie.webm"
+    "key": "théorie",
+    "video": "education-nationale/théorie.webm"
   },
   {
-    "key": "thermometre1",
-    "video": "education-nationale/thermometre1.webm"
+    "key": "thermometre",
+    "video": "education-nationale/thermometre.webm"
   },
   {
     "key": "timbre",
     "video": "education-nationale/timbre.webm"
   },
   {
-    "key": "toulouse",
-    "video": "education-nationale/toulouse.webm"
+    "key": "Toulouse",
+    "video": "education-nationale/Toulouse.webm"
   },
   {
     "key": "tourisme",
@@ -1816,16 +1816,16 @@
     "video": "education-nationale/trimestre.webm"
   },
   {
-    "key": "trophee",
-    "video": "education-nationale/trophee.webm"
+    "key": "trophée",
+    "video": "education-nationale/trophée.webm"
   },
   {
     "key": "typique",
     "video": "education-nationale/typique.webm"
   },
   {
-    "key": "urss",
-    "video": "education-nationale/urss.webm"
+    "key": "URSS",
+    "video": "education-nationale/URSS.webm"
   },
   {
     "key": "usine",
@@ -1840,12 +1840,12 @@
     "video": "education-nationale/vaincre.webm"
   },
   {
-    "key": "vallee",
-    "video": "education-nationale/vallee.webm"
+    "key": "vallée",
+    "video": "education-nationale/vallée.webm"
   },
   {
-    "key": "vanite",
-    "video": "education-nationale/vanite.webm"
+    "key": "vanité",
+    "video": "education-nationale/vanité.webm"
   },
   {
     "key": "verglas",
@@ -1900,7 +1900,7 @@
     "video": "elix/archipel.webm"
   },
   {
-    "key": "baptême",
+    "key": "baptême (1)",
     "video": "elix/baptême.webm"
   },
   {
@@ -1968,7 +1968,7 @@
     "video": "elix/chariot.webm"
   },
   {
-    "key": "charpente",
+    "key": "charpente (1)",
     "video": "elix/charpente.webm"
   },
   {
@@ -2220,7 +2220,7 @@
     "video": "elix/département.webm"
   },
   {
-    "key": "de",
+    "key": "de (6)",
     "video": "elix/de.webm"
   },
   {
@@ -2264,7 +2264,7 @@
     "video": "elix/réseau local.webm"
   },
   {
-    "key": "réseau",
+    "key": "réseau (1)",
     "video": "elix/réseau.webm"
   },
   {
@@ -2288,7 +2288,7 @@
     "video": "jauvert/à bientôt.webm"
   },
   {
-    "key": "accompagner",
+    "key": "accompagner (1)",
     "video": "jauvert/accompagner.webm"
   },
   {
@@ -2316,7 +2316,7 @@
     "video": "jauvert/aller chercher.webm"
   },
   {
-    "key": "aller",
+    "key": "aller (1)",
     "video": "jauvert/aller.webm"
   },
   {
@@ -2328,7 +2328,7 @@
     "video": "jauvert/ami·e·s.webm"
   },
   {
-    "key": "ami·e",
+    "key": "ami·e (1)",
     "video": "jauvert/ami·e.webm"
   },
   {
@@ -2368,7 +2368,7 @@
     "video": "jauvert/après-midi.webm"
   },
   {
-    "key": "après",
+    "key": "après (1)",
     "video": "jauvert/après.webm"
   },
   {
@@ -2436,7 +2436,7 @@
     "video": "jauvert/avion.webm"
   },
   {
-    "key": "avocat",
+    "key": "avocat (1)",
     "video": "jauvert/avocat.webm"
   },
   {
@@ -2448,7 +2448,7 @@
     "video": "jauvert/banane.webm"
   },
   {
-    "key": "banque",
+    "key": "banque (2)",
     "video": "jauvert/banque.webm"
   },
   {
@@ -2472,7 +2472,7 @@
     "video": "jauvert/beige.webm"
   },
   {
-    "key": "bientôt",
+    "key": "bientôt (1)",
     "video": "jauvert/bientôt.webm"
   },
   {
@@ -2492,7 +2492,7 @@
     "video": "jauvert/bleu marine.webm"
   },
   {
-    "key": "bleu",
+    "key": "bleu (1)",
     "video": "jauvert/bleu.webm"
   },
   {
@@ -2516,7 +2516,7 @@
     "video": "jauvert/bon appétit.webm"
   },
   {
-    "key": "bonjour",
+    "key": "bonjour (1)",
     "video": "jauvert/bonjour.webm"
   },
   {
@@ -2532,7 +2532,7 @@
     "video": "jauvert/bonsoir.webm"
   },
   {
-    "key": "bon",
+    "key": "bon (1)",
     "video": "jauvert/bon.webm"
   },
   {
@@ -2620,11 +2620,11 @@
     "video": "jauvert/chaise.webm"
   },
   {
-    "key": "champignon",
+    "key": "champignon (1)",
     "video": "jauvert/champignon.webm"
   },
   {
-    "key": "chance",
+    "key": "chance (1)",
     "video": "jauvert/chance.webm"
   },
   {
@@ -2632,7 +2632,7 @@
     "video": "jauvert/changer.webm"
   },
   {
-    "key": "chapeau",
+    "key": "chapeau (1)",
     "video": "jauvert/chapeau.webm"
   },
   {
@@ -2648,11 +2648,11 @@
     "video": "jauvert/chaud.webm"
   },
   {
-    "key": "chaussette",
+    "key": "chaussette (1)",
     "video": "jauvert/chaussette.webm"
   },
   {
-    "key": "chemin",
+    "key": "chemin (1)",
     "video": "jauvert/chemin.webm"
   },
   {
@@ -2668,7 +2668,7 @@
     "video": "jauvert/chercher quelqu'un de perdu.webm"
   },
   {
-    "key": "chercher",
+    "key": "chercher (3)",
     "video": "jauvert/chercher.webm"
   },
   {
@@ -2680,11 +2680,11 @@
     "video": "jauvert/chocolatine (pain au chocolat).webm"
   },
   {
-    "key": "chocolat",
+    "key": "chocolat (1)",
     "video": "jauvert/chocolat.webm"
   },
   {
-    "key": "cinéma",
+    "key": "cinéma (1)",
     "video": "jauvert/cinéma.webm"
   },
   {
@@ -2696,7 +2696,7 @@
     "video": "jauvert/clair.webm"
   },
   {
-    "key": "clown",
+    "key": "clown (1)",
     "video": "jauvert/clown.webm"
   },
   {
@@ -2708,7 +2708,7 @@
     "video": "jauvert/collant (vêtement).webm"
   },
   {
-    "key": "collège",
+    "key": "collège (1)",
     "video": "jauvert/collège.webm"
   },
   {
@@ -2748,7 +2748,7 @@
     "video": "jauvert/concombre.webm"
   },
   {
-    "key": "concours",
+    "key": "concours (1)",
     "video": "jauvert/concours.webm"
   },
   {
@@ -2764,7 +2764,7 @@
     "video": "jauvert/configuration.webm"
   },
   {
-    "key": "conseiller",
+    "key": "conseiller (1)",
     "video": "jauvert/conseiller.webm"
   },
   {
@@ -2788,11 +2788,11 @@
     "video": "jauvert/cours.webm"
   },
   {
-    "key": "couscous",
+    "key": "couscous (1)",
     "video": "jauvert/couscous.webm"
   },
   {
-    "key": "cousin",
+    "key": "cousin (1)",
     "video": "jauvert/cousin.webm"
   },
   {
@@ -2800,7 +2800,7 @@
     "video": "jauvert/crayon.webm"
   },
   {
-    "key": "critiquer",
+    "key": "critiquer (1)",
     "video": "jauvert/critiquer.webm"
   },
   {
@@ -2808,7 +2808,7 @@
     "video": "jauvert/croiser.webm"
   },
   {
-    "key": "croissant",
+    "key": "croissant (1)",
     "video": "jauvert/croissant.webm"
   },
   {
@@ -2864,19 +2864,19 @@
     "video": "jauvert/différent.webm"
   },
   {
-    "key": "diplôme",
+    "key": "diplôme (1)",
     "video": "jauvert/diplôme.webm"
   },
   {
-    "key": "directeur",
+    "key": "directeur (1)",
     "video": "jauvert/directeur.webm"
   },
   {
-    "key": "dire",
+    "key": "dire (1)",
     "video": "jauvert/dire.webm"
   },
   {
-    "key": "discuter",
+    "key": "discuter (1)",
     "video": "jauvert/discuter.webm"
   },
   {
@@ -2904,7 +2904,7 @@
     "video": "jauvert/dormir.webm"
   },
   {
-    "key": "dossier",
+    "key": "dossier (1)",
     "video": "jauvert/dossier.webm"
   },
   {
@@ -2916,7 +2916,7 @@
     "video": "jauvert/école maternelle.webm"
   },
   {
-    "key": "école",
+    "key": "école (2)",
     "video": "jauvert/école.webm"
   },
   {
@@ -2928,7 +2928,7 @@
     "video": "jauvert/écrire.webm"
   },
   {
-    "key": "éducateur",
+    "key": "éducateur (1)",
     "video": "jauvert/éducateur.webm"
   },
   {
@@ -2940,7 +2940,7 @@
     "video": "jauvert/email.webm"
   },
   {
-    "key": "embaucher",
+    "key": "embaucher (1)",
     "video": "jauvert/embaucher.webm"
   },
   {
@@ -3008,7 +3008,7 @@
     "video": "jauvert/eux.webm"
   },
   {
-    "key": "exemple",
+    "key": "exemple (1)",
     "video": "jauvert/exemple.webm"
   },
   {
@@ -3016,7 +3016,7 @@
     "video": "jauvert/expliquer.webm"
   },
   {
-    "key": "expression du visage",
+    "key": "expression du visage (1)",
     "video": "jauvert/expression du visage.webm"
   },
   {
@@ -3036,7 +3036,7 @@
     "video": "jauvert/femme de ménage.webm"
   },
   {
-    "key": "femme",
+    "key": "femme (1)",
     "video": "jauvert/femme.webm"
   },
   {
@@ -3068,7 +3068,7 @@
     "video": "jauvert/fille (la).webm"
   },
   {
-    "key": "fille",
+    "key": "fille (1)",
     "video": "jauvert/fille.webm"
   },
   {
@@ -3100,7 +3100,7 @@
     "video": "jauvert/formateur.webm"
   },
   {
-    "key": "formation",
+    "key": "formation (1)",
     "video": "jauvert/formation.webm"
   },
   {
@@ -3172,7 +3172,7 @@
     "video": "jauvert/grand-père.webm"
   },
   {
-    "key": "grand",
+    "key": "grand (3)",
     "video": "jauvert/grand.webm"
   },
   {
@@ -3208,7 +3208,7 @@
     "video": "jauvert/hier.webm"
   },
   {
-    "key": "histoire",
+    "key": "histoire (1)",
     "video": "jauvert/histoire.webm"
   },
   {
@@ -3216,7 +3216,7 @@
     "video": "jauvert/hiver.webm"
   },
   {
-    "key": "homme",
+    "key": "homme (2)",
     "video": "jauvert/homme.webm"
   },
   {
@@ -3224,7 +3224,7 @@
     "video": "jauvert/honte.webm"
   },
   {
-    "key": "hôpital",
+    "key": "hôpital (1)",
     "video": "jauvert/hôpital.webm"
   },
   {
@@ -3276,11 +3276,11 @@
     "video": "jauvert/important.webm"
   },
   {
-    "key": "infirmière",
+    "key": "infirmière (1)",
     "video": "jauvert/infirmière.webm"
   },
   {
-    "key": "informer",
+    "key": "informer (1)",
     "video": "jauvert/informer.webm"
   },
   {
@@ -3288,7 +3288,7 @@
     "video": "jauvert/instituteur, professeur.webm"
   },
   {
-    "key": "intervenir",
+    "key": "intervenir (1)",
     "video": "jauvert/intervenir.webm"
   },
   {
@@ -3312,7 +3312,7 @@
     "video": "jauvert/j'ai vu.webm"
   },
   {
-    "key": "j'ai",
+    "key": "j'ai (2)",
     "video": "jauvert/j'ai.webm"
   },
   {
@@ -3348,7 +3348,7 @@
     "video": "jauvert/je n'ai pas vu.webm"
   },
   {
-    "key": "je n'ai pas",
+    "key": "je n'ai pas (2)",
     "video": "jauvert/je n'ai pas.webm"
   },
   {
@@ -3400,7 +3400,7 @@
     "video": "jauvert/jeune.webm"
   },
   {
-    "key": "jeu",
+    "key": "jeu (1)",
     "video": "jauvert/jeu.webm"
   },
   {
@@ -3412,7 +3412,7 @@
     "video": "jauvert/jouer.webm"
   },
   {
-    "key": "journée",
+    "key": "journée (1)",
     "video": "jauvert/journée.webm"
   },
   {
@@ -3428,7 +3428,7 @@
     "video": "jauvert/laid.webm"
   },
   {
-    "key": "langue",
+    "key": "langue (3)",
     "video": "jauvert/langue.webm"
   },
   {
@@ -3476,7 +3476,7 @@
     "video": "jauvert/maintenant.webm"
   },
   {
-    "key": "mairie",
+    "key": "mairie (1)",
     "video": "jauvert/mairie.webm"
   },
   {
@@ -3532,7 +3532,7 @@
     "video": "jauvert/marron.webm"
   },
   {
-    "key": "Marseille",
+    "key": "Marseille (1)",
     "video": "jauvert/Marseille.webm"
   },
   {
@@ -3548,7 +3548,7 @@
     "video": "jauvert/méchant.webm"
   },
   {
-    "key": "médecin",
+    "key": "médecin (1)",
     "video": "jauvert/médecin.webm"
   },
   {
@@ -3568,11 +3568,11 @@
     "video": "jauvert/mettre à la porte.webm"
   },
   {
-    "key": "mettre",
+    "key": "mettre (1)",
     "video": "jauvert/mettre.webm"
   },
   {
-    "key": "midi",
+    "key": "midi (1)",
     "video": "jauvert/midi.webm"
   },
   {
@@ -3584,7 +3584,7 @@
     "video": "jauvert/monsieur.webm"
   },
   {
-    "key": "montagne",
+    "key": "montagne (1)",
     "video": "jauvert/montagne.webm"
   },
   {
@@ -3644,7 +3644,7 @@
     "video": "jauvert/non-signé.webm"
   },
   {
-    "key": "non",
+    "key": "non (2)",
     "video": "jauvert/non.webm"
   },
   {
@@ -3720,7 +3720,7 @@
     "video": "jauvert/paella.webm"
   },
   {
-    "key": "pain",
+    "key": "pain (1)",
     "video": "jauvert/pain.webm"
   },
   {
@@ -3752,7 +3752,7 @@
     "video": "jauvert/pareil.webm"
   },
   {
-    "key": "parent",
+    "key": "parent (1)",
     "video": "jauvert/parent.webm"
   },
   {
@@ -3760,7 +3760,7 @@
     "video": "jauvert/paris.webm"
   },
   {
-    "key": "Paris",
+    "key": "Paris (1)",
     "video": "jauvert/Paris.webm"
   },
   {
@@ -3824,7 +3824,7 @@
     "video": "jauvert/perdre.webm"
   },
   {
-    "key": "personne",
+    "key": "personne (1)",
     "video": "jauvert/personne.webm"
   },
   {
@@ -3844,7 +3844,7 @@
     "video": "jauvert/petits-enfants.webm"
   },
   {
-    "key": "petit",
+    "key": "petit (2)",
     "video": "jauvert/petit.webm"
   },
   {
@@ -3912,7 +3912,7 @@
     "video": "jauvert/pomme de terre.webm"
   },
   {
-    "key": "pomme",
+    "key": "pomme (1)",
     "video": "jauvert/pomme.webm"
   },
   {
@@ -3928,7 +3928,7 @@
     "video": "jauvert/portable.webm"
   },
   {
-    "key": "porte",
+    "key": "porte (1)",
     "video": "jauvert/porte.webm"
   },
   {
@@ -3944,7 +3944,7 @@
     "video": "jauvert/pourquoi ?.webm"
   },
   {
-    "key": "pourquoi",
+    "key": "pourquoi (1)",
     "video": "jauvert/pourquoi.webm"
   },
   {
@@ -3952,7 +3952,7 @@
     "video": "jauvert/pour rien.webm"
   },
   {
-    "key": "pour",
+    "key": "pour (3)",
     "video": "jauvert/pour.webm"
   },
   {
@@ -4220,7 +4220,7 @@
     "video": "jauvert/signaire (vocabulaire LSF).webm"
   },
   {
-    "key": "signé",
+    "key": "signé (1)",
     "video": "jauvert/signé.webm"
   },
   {
@@ -4244,7 +4244,7 @@
     "video": "jauvert/soeur.webm"
   },
   {
-    "key": "soigner",
+    "key": "soigner (1)",
     "video": "jauvert/soigner.webm"
   },
   {
@@ -4276,7 +4276,7 @@
     "video": "jauvert/sourire.webm"
   },
   {
-    "key": "souris",
+    "key": "souris (1)",
     "video": "jauvert/souris.webm"
   },
   {
@@ -4356,7 +4356,7 @@
     "video": "jauvert/téléphone.webm"
   },
   {
-    "key": "télévision",
+    "key": "télévision (1)",
     "video": "jauvert/télévision.webm"
   },
   {
@@ -4368,7 +4368,7 @@
     "video": "jauvert/terminer.webm"
   },
   {
-    "key": "terre",
+    "key": "terre (3)",
     "video": "jauvert/terre.webm"
   },
   {
@@ -4436,7 +4436,7 @@
     "video": "jauvert/tout le monde.webm"
   },
   {
-    "key": "tout",
+    "key": "tout (2)",
     "video": "jauvert/tout.webm"
   },
   {
@@ -4460,7 +4460,7 @@
     "video": "jauvert/t-shirt.webm"
   },
   {
-    "key": "usine",
+    "key": "usine (1)",
     "video": "jauvert/usine.webm"
   },
   {
@@ -4484,11 +4484,11 @@
     "video": "jauvert/vendre.webm"
   },
   {
-    "key": "venir",
+    "key": "venir (1)",
     "video": "jauvert/venir.webm"
   },
   {
-    "key": "vent",
+    "key": "vent (1)",
     "video": "jauvert/vent.webm"
   },
   {
@@ -4504,7 +4504,7 @@
     "video": "jauvert/vert.webm"
   },
   {
-    "key": "vêtement",
+    "key": "vêtement (3)",
     "video": "jauvert/vêtement.webm"
   },
   {
@@ -4516,7 +4516,7 @@
     "video": "jauvert/village.webm"
   },
   {
-    "key": "ville",
+    "key": "ville (2)",
     "video": "jauvert/ville.webm"
   },
   {
@@ -4536,7 +4536,7 @@
     "video": "jauvert/Vitrolle.webm"
   },
   {
-    "key": "vocabulaire",
+    "key": "vocabulaire (1)",
     "video": "jauvert/vocabulaire.webm"
   },
   {
@@ -4544,7 +4544,7 @@
     "video": "jauvert/voisin.webm"
   },
   {
-    "key": "voiture",
+    "key": "voiture (2)",
     "video": "jauvert/voiture.webm"
   },
   {
@@ -4552,7 +4552,7 @@
     "video": "jauvert/voler.webm"
   },
   {
-    "key": "vous",
+    "key": "vous (2)",
     "video": "jauvert/vous.webm"
   },
   {
@@ -4560,7 +4560,7 @@
     "video": "jauvert/week-end.webm"
   },
   {
-    "key": "zoo",
+    "key": "zoo (1)",
     "video": "jauvert/zoo.webm"
   }
 ]

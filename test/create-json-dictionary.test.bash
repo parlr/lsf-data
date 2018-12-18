@@ -59,6 +59,28 @@ MOT
   assert_equal "$content" "$entry" 
 }
 
+@test "appends mot to variants list" {
+  echo "" > ./videos/.variants.txt
+  
+  run variants 'paris'
+
+  assert_file_exist ./videos/.variants.txt
+  assert_equal $(grep --count paris ./videos/.variants.txt) 1
+
+  rm ./videos/.variants.txt
+}
+
+@test "output key with variant number" {
+  echo "" > ./videos/.variants.txt
+  
+  run variants 'paris'
+  assert_equal "$output" 'paris'
+  run variants 'paris'
+  assert_equal "$output" 'paris (2)'
+
+  rm ./videos/.variants.txt
+}
+
 @test "fill dictionary content (no wrapping list)" {
   touch "$JSON_FILE"
   cp test/paris.webm ./test/.tmp/bordeaux.webm
