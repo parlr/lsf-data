@@ -5,9 +5,8 @@
 # USAGE
 #   bash ./create-json-dictionary.bash
 
-# set -x
 JSON_FILE="${JSON_FILE:=vocabulaire.json}"
-FILES_TO_INDEX="${FILES_TO_INDEX:="videos/**/*.webm"}"
+FILES_TO_INDEX=( videos/{jauvert,elix}/*.webm )
 IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 
 function begin_dictionary() {
@@ -32,7 +31,7 @@ JSON
 }
 
 function fill_dictionary() {
-    for filepath in $FILES_TO_INDEX; do
+    for filepath in "${FILES_TO_INDEX[@]}"; do
         local filename="${filepath##*/}"
         local video="${filepath#*/}"
         local drop_extension="${filename%.*}"
