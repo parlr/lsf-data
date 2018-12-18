@@ -6,7 +6,7 @@
 #   bash ./create-json-dictionary.bash
 
 JSON_FILE="${JSON_FILE:=vocabulaire.json}"
-FILES_TO_INDEX=( videos/{jauvert,elix}/*.webm )
+FILES_TO_INDEX=( videos/{education-nationale,elix,jauvert}/*.webm )
 IS_RUNNING_TESTS="${IS_RUNNING_TESTS:=false}"
 
 function begin_dictionary() {
