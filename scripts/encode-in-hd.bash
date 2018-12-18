@@ -10,7 +10,7 @@ export FFMPEG_OPTIONS=(  # HD options
     -cpu-used 4
     -crf 32  # maximum quality level.
     -filter:v scale=1280x720 
-    -loglevel warning
+    -loglevel error
     -maxrate 1485k 
     -minrate 512k 
     -quality good 

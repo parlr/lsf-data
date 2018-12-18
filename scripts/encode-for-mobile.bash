@@ -10,7 +10,7 @@ export FFMPEG_OPTIONS=(  # options for mobile
     -cpu-used 4
     -crf 37  # maximum quality level.
     -filter:v scale=640x480
-    -loglevel warning
+    -loglevel error
     -maxrate 742k
     -minrate 256k
     -quality good
