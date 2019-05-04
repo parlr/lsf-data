@@ -24,3 +24,4 @@
 
 - [LSF @ Éducation Nationale](http://lsf.education.fr/index.php?page=recherche_alphabetique)
 - Apprendre 300 mots du quotidien en LSF [partie 1](https://www.youtube.com/watch?v=rz3jw0_XXoc) et [partie 2](https://www.youtube.com/watch?v=DbTKAbY-i0A) par L. Jauvert
+- [La sémantique naturelle d’Anna Wierzbicka et les enjeux interculturels](https://journals.openedition.org/questionsdecommunication/4611) par  Arkadiusz Koselak.

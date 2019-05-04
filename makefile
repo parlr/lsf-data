@@ -82,8 +82,8 @@ build: extract-timing encode-for-mobile
 
 .PHONY: update-dictionary
 update-dictionary:
-	bash ./scripts/create-json-dictionary.bash
 	cp ./vocabulaire.json ../lsf/src/assets/
+	cp ./semantic-primes.json ../lsf/src/assets/
 
 .PHONY: convert-jauvert-to-webm
 convert-jauvert-to-webm:
