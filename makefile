@@ -30,7 +30,7 @@ install-subtitle-editor:
 
 .PHONY: install-uploader
 install-uploader:
-	curl https://github.com/yarl/pattypan/releases/download/v18.02/pattypan.jar \
+	curl https://github.com/yarl/pattypan/releases/download/v20.04/pattypan.jar \
 		--output pattypan.jar \
 		--location
 	apt-get install \
@@ -88,7 +88,7 @@ update-dictionary:
 .PHONY: convert-jauvert-to-webm
 convert-jauvert-to-webm:
 	@echo "Convert MP4 source to WEBM (only accepted in Commons)"
-	@if (( $$(ls ./data/partie-*.jauvert-laura.hd.mp4 | wc -l) != 2 )); then printf "\n/!\ Files to convert are missing!\n\n"; exit 1; fi 
+	@if (( $$(ls ./data/partie-*.jauvert-laura.hd.mp4 | wc -l) != 2 )); then printf "\n/!\ Files to convert are missing!\n\n"; exit 1; fi
 	rm data/*.webm
 	time ffmpeg \
 		-i ./data/partie-1:-Apprendre-300-mots-du-quotidien-en-LSF.jauvert-laura.hd.mp4 \
