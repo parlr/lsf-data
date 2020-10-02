@@ -4,7 +4,7 @@
 
 ### Usage
 
-    make split-video
+    make build
 
 ### Test
 
